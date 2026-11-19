@@ -1,0 +1,4250 @@
+{
+  "images": {
+    "https://www.magical-steps.com/contents/img/temp/magical-steps-travel.png": {
+      "src": "/images/magical-steps-travel-8fc7032727.webp",
+      "width": 221,
+      "height": 60,
+      "bytes": 2190,
+      "originalBytes": 3890
+    },
+    "https://www.magical-steps.com/contents/img/tour/travertine-terraces-of-pamukkale-turkey-oceancorbis_700_222o.jpg": {
+      "src": "/images/travertine-terraces-of-pamukkale-turkey-oceancorbis-700-222o-b2fff9285a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50244,
+      "originalBytes": 90361
+    },
+    "https://www.magical-steps.com/contents/img/temp/slayt/airport-transfer-header.jpg": {
+      "src": "/images/airport-transfer-header-aab3a74ad9.webp",
+      "width": 1300,
+      "height": 799,
+      "bytes": 59552,
+      "originalBytes": 218058
+    },
+    "https://www.magical-steps.com/contents/img/temp/slayt/hotel-slide.jpg": {
+      "src": "/images/hotel-slide-dd5f1484b0.webp",
+      "width": 1350,
+      "height": 900,
+      "bytes": 251322,
+      "originalBytes": 576511
+    },
+    "https://www.magical-steps.com/contents/img/temp/slayt/tour-slide.jpg": {
+      "src": "/images/tour-slide-c9ae4a7398.webp",
+      "width": 1350,
+      "height": 900,
+      "bytes": 230906,
+      "originalBytes": 491448
+    },
+    "https://www.magical-steps.com/contents/img/temp/sailing-gulet-2.jpg": {
+      "src": "/images/sailing-gulet-2-f5e40a809e.webp",
+      "width": 1600,
+      "height": 962,
+      "bytes": 260158,
+      "originalBytes": 1102765
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/img-0493_920_2nog.jpg": {
+      "src": "/images/img-0493-920-2nog-e3c1b3c9e5.webp",
+      "width": 720,
+      "height": 405,
+      "bytes": 50674,
+      "originalBytes": 89929
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/img-0504-kopya_920_2mwo.jpg": {
+      "src": "/images/img-0504-kopya-920-2mwo-c85e46c598.webp",
+      "width": 720,
+      "height": 540,
+      "bytes": 69310,
+      "originalBytes": 119906
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/11949253-949057655155746-4389057809821157137-n_920_2pzs.jpg": {
+      "src": "/images/11949253-949057655155746-4389057809821157137-n-920-2pzs-6814744fb9.webp",
+      "width": 920,
+      "height": 518,
+      "bytes": 70968,
+      "originalBytes": 134805
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/basilica-of-st-john_920_2p80.jpg": {
+      "src": "/images/basilica-of-st-john-920-2p80-114b4dce70.webp",
+      "width": 920,
+      "height": 518,
+      "bytes": 73118,
+      "originalBytes": 136135
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/istanbultours_920_2qrk.jpg": {
+      "src": "/images/istanbultours-920-2qrk-136a1b823b.webp",
+      "width": 920,
+      "height": 690,
+      "bytes": 100114,
+      "originalBytes": 194286
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/wishingboard_920_2og8.jpg": {
+      "src": "/images/wishingboard-920-2og8-78fb96b6f8.webp",
+      "width": 720,
+      "height": 960,
+      "bytes": 154944,
+      "originalBytes": 236038
+    },
+    "https://www.magical-steps.com/contents/img/blog/pamukkale1024_800_27h4.jpg": {
+      "src": "/images/pamukkale1024-800-27h4-2f37d863f8.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 45292,
+      "originalBytes": 87623
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/haluk-al-kan1_920_2ld4.jpg": {
+      "src": "/images/haluk-al-kan1-920-2ld4-6e51da7d2c.webp",
+      "width": 920,
+      "height": 521,
+      "bytes": 60722,
+      "originalBytes": 123520
+    },
+    "https://www.magical-steps.com/contents/img/blog/troy-ancient-cityblog_800_26pc.jpg": {
+      "src": "/images/troy-ancient-cityblog-800-26pc-8a90694cca.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 137496,
+      "originalBytes": 199667
+    },
+    "https://www.magical-steps.com/contents/img/tourphotos/img-0510_920_2m4w.jpg": {
+      "src": "/images/img-0510-920-2m4w-5e84c929f0.webp",
+      "width": 920,
+      "height": 690,
+      "bytes": 93430,
+      "originalBytes": 186031
+    },
+    "https://www.magical-steps.com/contents/img/blog/temple-of-serapis-ephesus_800_290o.jpg": {
+      "src": "/images/temple-of-serapis-ephesus-800-290o-a4bfff5cf4.webp",
+      "width": 800,
+      "height": 299,
+      "bytes": 47262,
+      "originalBytes": 68954
+    },
+    "https://www.magical-steps.com/contents/img/blog/fixedw-large-4x-1_800_288w.jpg": {
+      "src": "/images/fixedw-large-4x-1-800-288w-12b40d8105.webp",
+      "width": 800,
+      "height": 533,
+      "bytes": 158122,
+      "originalBytes": 186399
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/great-theatre-ephesus_920_20j4.jpg": {
+      "src": "/images/great-theatre-ephesus-920-20j4-7ab6cf12bb.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 139628,
+      "originalBytes": 194381
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/12696029-10153919699848970-1518195100-n_920_6y0.jpg": {
+      "src": "/images/12696029-10153919699848970-1518195100-n-920-6y0-468a16fec1.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 69710,
+      "originalBytes": 122787
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-map2.jpg": {
+      "src": "/images/ephesus-map2-7ec14a7e93.webp",
+      "width": 1263,
+      "height": 615,
+      "bytes": 85362,
+      "originalBytes": 238392
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/celsus-library-ephesus_920_222o.jpg": {
+      "src": "/images/celsus-library-ephesus-920-222o-7dc0510ef2.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 83454,
+      "originalBytes": 139113
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/harbor-street_920_1zrc.jpg": {
+      "src": "/images/harbor-street-920-1zrc-f5f9bd7f7d.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 62864,
+      "originalBytes": 112070
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/marble-street_920_23m8.jpg": {
+      "src": "/images/marble-street-920-23m8-cd873df4e5.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 51310,
+      "originalBytes": 96971
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/terrace-houses-at-ephesus1_920_255s.jpg": {
+      "src": "/images/terrace-houses-at-ephesus1-920-255s-4add528bc6.webp",
+      "width": 550,
+      "height": 354,
+      "bytes": 61336,
+      "originalBytes": 94661
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/gate-of-mazeus_920_22ug.jpg": {
+      "src": "/images/gate-of-mazeus-920-22ug-ee46ff29a4.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 66428,
+      "originalBytes": 121471
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/public-toilets_920_25xk.jpg": {
+      "src": "/images/public-toilets-920-25xk-be0d7ab7dd.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 43700,
+      "originalBytes": 93658
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-commercial-agora-1_920_21aw.jpg": {
+      "src": "/images/ephesus-commercial-agora-1-920-21aw-21b89f74cd.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 119356,
+      "originalBytes": 177064
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/brothel-in-ephesus_920_24e0.jpg": {
+      "src": "/images/brothel-in-ephesus-920-24e0-50bff98bed.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 113908,
+      "originalBytes": 172234
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/latrines-ephesus-01_920_26pc.jpg": {
+      "src": "/images/latrines-ephesus-01-920-26pc-02999f0bcf.webp",
+      "width": 840,
+      "height": 354,
+      "bytes": 98216,
+      "originalBytes": 145164
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/fountain-trajan_920_2ak8.jpg": {
+      "src": "/images/fountain-trajan-920-2ak8-3aadce96cf.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 60034,
+      "originalBytes": 110889
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/scholastica-bath-ephesus-1_920_290o.jpg": {
+      "src": "/images/scholastica-bath-ephesus-1-920-290o-d70295d004.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 108002,
+      "originalBytes": 164960
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/2368369-temple-of-hadrian-ephesus_920_29sg.jpg": {
+      "src": "/images/2368369-temple-of-hadrian-ephesus-920-29sg-c9895ab085.webp",
+      "width": 900,
+      "height": 354,
+      "bytes": 91342,
+      "originalBytes": 144139
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-mosaic-floor-5-1_920_288w.jpg": {
+      "src": "/images/ephesus-mosaic-floor-5-1-920-288w-f9bf0681fe.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 105582,
+      "originalBytes": 159834
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/scholastica-bath-ephesus_920_27h4.jpg": {
+      "src": "/images/scholastica-bath-ephesus-920-27h4-b51d7f769f.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 108812,
+      "originalBytes": 166008
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-curetes-street-1_920_2bc0.jpg": {
+      "src": "/images/ephesus-curetes-street-1-920-2bc0-6546600f85.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 99288,
+      "originalBytes": 156737
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/77773237_920_2ef4.jpg": {
+      "src": "/images/77773237-920-2ef4-955788d889.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 37058,
+      "originalBytes": 78916
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/prytaneion-10_920_2f6w.jpg": {
+      "src": "/images/prytaneion-10-920-2f6w-a90d8edfb8.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 88104,
+      "originalBytes": 138861
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-014_920_2fyo.jpg": {
+      "src": "/images/ephesus-014-920-2fyo-b3370d3bbd.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 77058,
+      "originalBytes": 133464
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/polio-fountain_920_2gqg.jpg": {
+      "src": "/images/polio-fountain-920-2gqg-8fef2f9600.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 69466,
+      "originalBytes": 119647
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-gate-of-hercules_920_2c3s.jpg": {
+      "src": "/images/ephesus-gate-of-hercules-920-2c3s-0f07bbf727.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 58012,
+      "originalBytes": 108204
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/altar-ephesus_920_2dnc.jpg": {
+      "src": "/images/altar-ephesus-920-2dnc-9e9d176d32.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 70898,
+      "originalBytes": 123675
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesos-prytaneion_920_2hi8.jpg": {
+      "src": "/images/ephesos-prytaneion-920-2hi8-4e6aa3a36d.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 88594,
+      "originalBytes": 144895
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-odeon_920_2ia0.jpg": {
+      "src": "/images/ephesus-odeon-920-2ia0-0817a3d288.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 135584,
+      "originalBytes": 193526
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/5730949269-3df63e1fbe-b_920_2j1s.jpg": {
+      "src": "/images/5730949269-3df63e1fbe-b-920-2j1s-bb48738343.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 75966,
+      "originalBytes": 127861
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-varius-or-upper-baths-ephesus_920_2klc.jpg": {
+      "src": "/images/ephesus-varius-or-upper-baths-ephesus-920-2klc-f3de43e2e7.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 92172,
+      "originalBytes": 145535
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/doubletree/skorpino-restaurant.jpg": {
+      "src": "/images/skorpino-restaurant-2b08d7a621.webp",
+      "width": 424,
+      "height": 314,
+      "bytes": 26150,
+      "originalBytes": 61552
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-agora2_920_2jtk.jpg": {
+      "src": "/images/ephesus-agora2-920-2jtk-6c5ce715d8.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 91256,
+      "originalBytes": 144745
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/034400c8_z.jpg": {
+      "src": "/images/034400c8-z-0dcf72d917.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 79632,
+      "originalBytes": 81826
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/03a6fba7_z.jpg": {
+      "src": "/images/03a6fba7-z-704908fc53.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 123984,
+      "originalBytes": 113000
+    },
+    "https://www.magical-steps.com/contents/img/ephesusmap/ephesus-temple-of-domitian-02_920_2cvk.jpg": {
+      "src": "/images/ephesus-temple-of-domitian-02-920-2cvk-7756e2d88c.webp",
+      "width": 920,
+      "height": 354,
+      "bytes": 132930,
+      "originalBytes": 192162
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/0c7d3e53_z.jpg": {
+      "src": "/images/0c7d3e53-z-f1f83e2fce.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 42648,
+      "originalBytes": 40582
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/aspendos.jpg": {
+      "src": "/images/aspendos-5dab3dfc4b.webp",
+      "width": 1600,
+      "height": 1066,
+      "bytes": 346952,
+      "originalBytes": 563339
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/31758206_z.jpg": {
+      "src": "/images/31758206-z-c48744bf87.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 69962,
+      "originalBytes": 60760
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/232faadc_z.jpg": {
+      "src": "/images/232faadc-z-63ea634582.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 101534,
+      "originalBytes": 86836
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/1e391501_z.jpg": {
+      "src": "/images/1e391501-z-cb84531c5f.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 149308,
+      "originalBytes": 137182
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/415b969b_z.jpg": {
+      "src": "/images/415b969b-z-1f2eb2ff06.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 131428,
+      "originalBytes": 114408
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/4085c889_z.jpg": {
+      "src": "/images/4085c889-z-420230f872.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 149832,
+      "originalBytes": 132786
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/45e6d128_z.jpg": {
+      "src": "/images/45e6d128-z-3bd8238431.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 87756,
+      "originalBytes": 86604
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/a73feeb5_z.jpg": {
+      "src": "/images/a73feeb5-z-b78e0ac7fc.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 69620,
+      "originalBytes": 60328
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/95881a33_z.jpg": {
+      "src": "/images/95881a33-z-0f7c741eb8.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 99052,
+      "originalBytes": 86066
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/elaresort/elabelek_lakehousearea7_2019.jpg": {
+      "src": "/images/elabelek-lakehousearea7-2019-4042a7c24e.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 316298,
+      "originalBytes": 663322
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/9308fc9c_z.jpg": {
+      "src": "/images/9308fc9c-z-15713c776f.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 189468,
+      "originalBytes": 163768
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/bfe5c9be_z.jpg": {
+      "src": "/images/bfe5c9be-z-60274c3f5a.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 61428,
+      "originalBytes": 51700
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/b68a8001_z.jpg": {
+      "src": "/images/b68a8001-z-36e88451d6.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 152732,
+      "originalBytes": 132430
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/c027bbef_z.jpg": {
+      "src": "/images/c027bbef-z-19ccc3f38f.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 111190,
+      "originalBytes": 111210
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/da3bc1de_z.jpg": {
+      "src": "/images/da3bc1de-z-133c267738.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 67924,
+      "originalBytes": 59296
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/d47d373c_z.jpg": {
+      "src": "/images/d47d373c-z-41eaad9bc9.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 87702,
+      "originalBytes": 75610
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/4b9452aa_z.jpg": {
+      "src": "/images/4b9452aa-z-288429db56.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 95600,
+      "originalBytes": 82280
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/e02c94bd_z.jpg": {
+      "src": "/images/e02c94bd-z-829719b6df.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 116692,
+      "originalBytes": 107950
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/e99c479c_z.jpg": {
+      "src": "/images/e99c479c-z-4e1b027d37.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 105750,
+      "originalBytes": 93092
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/e99318c7_z.jpg": {
+      "src": "/images/e99318c7-z-a7ffd50508.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 97734,
+      "originalBytes": 87028
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/ec90f714_z.jpg": {
+      "src": "/images/ec90f714-z-92f573f585.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 114898,
+      "originalBytes": 99426
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/f3f0f845_z.jpg": {
+      "src": "/images/f3f0f845-z-8436ef48a4.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 49018,
+      "originalBytes": 44456
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/ebb0e540_z.jpg": {
+      "src": "/images/ebb0e540-z-26406824e1.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 122854,
+      "originalBytes": 116174
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/kustur/kustur_air_photo.jpg": {
+      "src": "/images/kustur-air-photo-49722a5dff.webp",
+      "width": 1024,
+      "height": 678,
+      "bytes": 163868,
+      "originalBytes": 161463
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/innvista/general_view-15.jpg": {
+      "src": "/images/general-view-15-87b6bdddbc.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 124268,
+      "originalBytes": 435551
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/manastir/4.jpg": {
+      "src": "/images/4-35ddac114b.webp",
+      "width": 1368,
+      "height": 641,
+      "bytes": 198770,
+      "originalBytes": 293176
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/marinavista/exterior.jpg": {
+      "src": "/images/exterior-344a886c85.webp",
+      "width": 1440,
+      "height": 810,
+      "bytes": 94304,
+      "originalBytes": 303533
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/deryadeniz/88vmghl2rysyswmyquaa.jpeg": {
+      "src": "/images/88vmghl2rysyswmyquaa-e39bf529a6.webp",
+      "width": 1000,
+      "height": 563,
+      "bytes": 144984,
+      "originalBytes": 140542
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/divadeniz/elvv4z8gxmrmryn8vevb.jpg": {
+      "src": "/images/elvv4z8gxmrmryn8vevb-9007346e40.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 108852,
+      "originalBytes": 112338
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/thesign/3415_6343_3111-img_5634-hdr.jpg": {
+      "src": "/images/3415-6343-3111-img-5634-hdr-d702f3bf37.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 165056,
+      "originalBytes": 394292
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/grandsailor/r8miuft29i7n8ess8ilm.jpeg": {
+      "src": "/images/r8miuft29i7n8ess8ilm-a8265a0a0b.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 85978,
+      "originalBytes": 103474
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/xantos/1524212665.jpg": {
+      "src": "/images/1524212665-e71fe4afa0.webp",
+      "width": 600,
+      "height": 360,
+      "bytes": 24980,
+      "originalBytes": 143162
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/laram/1524300805.jpg": {
+      "src": "/images/1524300805-42e8f2d271.webp",
+      "width": 640,
+      "height": 384,
+      "bytes": 37896,
+      "originalBytes": 190587
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/setra-comfort-1-600x380.jpg": {
+      "src": "/images/setra-comfort-1-600x380-38387b8987.webp",
+      "width": 600,
+      "height": 380,
+      "bytes": 21334,
+      "originalBytes": 43113
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/myra.jpg": {
+      "src": "/images/myra-f85df84e1d.webp",
+      "width": 1378,
+      "height": 918,
+      "bytes": 281580,
+      "originalBytes": 638474
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/phaselis.jpg": {
+      "src": "/images/phaselis-1afac647f4.webp",
+      "width": 1600,
+      "height": 899,
+      "bytes": 173938,
+      "originalBytes": 315462
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/transfer/mercedes-private-transfer-600x380.png": {
+      "src": "/images/mercedes-private-transfer-600x380-0f1858d988.webp",
+      "width": 600,
+      "height": 380,
+      "bytes": 23168,
+      "originalBytes": 24894
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/transfer/unnamed.jpg": {
+      "src": "/images/unnamed-b7bfb73bb7.webp",
+      "width": 512,
+      "height": 260,
+      "bytes": 17048,
+      "originalBytes": 37426
+    },
+    "https://www.magical-steps.com/contents/img/temp/magical-smart-logo.png": {
+      "src": "/images/magical-smart-logo-19ba3ffc73.webp",
+      "width": 300,
+      "height": 300,
+      "bytes": 11602,
+      "originalBytes": 25806
+    },
+    "https://www.magical-steps.com/contents/img/temp/magical_steps_logo.png": {
+      "src": "/images/magical-steps-logo-1677fad2bd.webp",
+      "width": 210,
+      "height": 57,
+      "bytes": 4458,
+      "originalBytes": 7627
+    },
+    "https://www.magical-steps.com/contents/img/temp/tursab-dvs-2511.png": {
+      "src": "/images/tursab-dvs-2511-0d3ae1f37a.webp",
+      "width": 290,
+      "height": 132,
+      "bytes": 7676,
+      "originalBytes": 17878
+    },
+    "https://www.magical-steps.com/contents/img/temp/smart-de.png": {
+      "src": "/images/smart-de-8c451ab53e.webp",
+      "width": 300,
+      "height": 300,
+      "bytes": 13506,
+      "originalBytes": 49020
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/salmakis_genel.jpg": {
+      "src": "/images/salmakis-genel-e9ce5f8e70.webp",
+      "width": 1600,
+      "height": 816,
+      "bytes": 234100,
+      "originalBytes": 388954
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-1.jpg": {
+      "src": "/images/m-1-0e8142d5e9.webp",
+      "width": 730,
+      "height": 1226,
+      "bytes": 69904,
+      "originalBytes": 90807
+    },
+    "https://www.magical-steps.com/contents/img/temp/slayt/cruise-slide.jpg": {
+      "src": "/images/cruise-slide-0ff4e91b2d.webp",
+      "width": 1600,
+      "height": 962,
+      "bytes": 200496,
+      "originalBytes": 357418
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sirince_from_kusadasi.jpg": {
+      "src": "/images/sirince-from-kusadasi-699d27618c.webp",
+      "width": 1155,
+      "height": 675,
+      "bytes": 230762,
+      "originalBytes": 240448
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-2.jpg": {
+      "src": "/images/m-2-23756fbb37.webp",
+      "width": 740,
+      "height": 1232,
+      "bytes": 109726,
+      "originalBytes": 120164
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-3.jpg": {
+      "src": "/images/m-3-290f416f15.webp",
+      "width": 734,
+      "height": 1228,
+      "bytes": 74126,
+      "originalBytes": 92269
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-5.jpg": {
+      "src": "/images/m-5-7d8b02f4ab.webp",
+      "width": 724,
+      "height": 1218,
+      "bytes": 97998,
+      "originalBytes": 109295
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-6-a.jpg": {
+      "src": "/images/m-6-a-9543e284ac.webp",
+      "width": 724,
+      "height": 1218,
+      "bytes": 88130,
+      "originalBytes": 141823
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-9.jpg": {
+      "src": "/images/m-9-c78d4276d9.webp",
+      "width": 736,
+      "height": 1312,
+      "bytes": 58990,
+      "originalBytes": 77167
+    },
+    "https://www.magical-steps.com/contents/img/tour/13-9-terrace-houses-in-ephesus_700_24e0.jpg": {
+      "src": "/images/13-9-terrace-houses-in-ephesus-700-24e0-d663d2bb96.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57292,
+      "originalBytes": 102881
+    },
+    "https://www.magical-steps.com/contents/img/tour/2368369-temple-of-hadrian-ephesus_700_jag.jpg": {
+      "src": "/images/2368369-temple-of-hadrian-ephesus-700-jag-d09df281eb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 78488,
+      "originalBytes": 125124
+    },
+    "https://www.magical-steps.com/contents/img/tour/2-days-gallipoli-snorkeling-646_700_2pzs.jpg": {
+      "src": "/images/2-days-gallipoli-snorkeling-646-700-2pzs-d0c9e9a6cd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 91404,
+      "originalBytes": 132714
+    },
+    "https://www.magical-steps.com/contents/img/tour/596339b018c7731864ab8d19_700_2t2w.jpg": {
+      "src": "/images/596339b018c7731864ab8d19-700-2t2w-43b59f64f0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53838,
+      "originalBytes": 97839
+    },
+    "https://www.magical-steps.com/contents/img/tour/adiyaman-nemrut-dagi-meshur_700_17zc.jpg": {
+      "src": "/images/adiyaman-nemrut-dagi-meshur-700-17zc-936a40a498.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 37698,
+      "originalBytes": 74121
+    },
+    "https://www.magical-steps.com/contents/img/tour/adiyaman-nemrut-mountain-1024_700_yq0.jpg": {
+      "src": "/images/adiyaman-nemrut-mountain-1024-700-yq0-8cb99f64e2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 72824,
+      "originalBytes": 114908
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-7.png": {
+      "src": "/images/m-7-b9b61c1fa0.webp",
+      "width": 728,
+      "height": 1310,
+      "bytes": 48592,
+      "originalBytes": 250857
+    },
+    "https://www.magical-steps.com/contents/img/tour/agora-izmir_700_27h4.jpg": {
+      "src": "/images/agora-izmir-700-27h4-6b8ec0ce64.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 103002,
+      "originalBytes": 146610
+    },
+    "https://www.magical-steps.com/contents/img/tour/akdamar-island-1024_700_zhs.jpg": {
+      "src": "/images/akdamar-island-1024-700-zhs-fe5c8ab2dd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 55808,
+      "originalBytes": 97632
+    },
+    "https://www.magical-steps.com/contents/img/temp/video/m-8.png": {
+      "src": "/images/m-8-c769099d29.webp",
+      "width": 710,
+      "height": 1276,
+      "bytes": 86222,
+      "originalBytes": 368030
+    },
+    "https://www.magical-steps.com/contents/img/tour/alex-mosaic-27_700_144g.jpg": {
+      "src": "/images/alex-mosaic-27-700-144g-afda221255.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47544,
+      "originalBytes": 89756
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/transfer/viptransfer.png": {
+      "src": "/images/viptransfer-9d91c8c58f.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 37360,
+      "originalBytes": 296724
+    },
+    "https://www.magical-steps.com/contents/img/tour/ausgrabungen-laodicea-strasse-sulen-trkei-anatolien_700_rs0.jpg": {
+      "src": "/images/ausgrabungen-laodicea-strasse-sulen-trkei-anatolien-700-rs0-0394741826.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 36392,
+      "originalBytes": 74566
+    },
+    "https://www.magical-steps.com/contents/img/tour/capadokya-1024_700_1is8.jpg": {
+      "src": "/images/capadokya-1024-700-1is8-c79ca254bd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50194,
+      "originalBytes": 93052
+    },
+    "https://www.magical-steps.com/contents/img/tour/capadokya-1024_700_19iw.jpg": {
+      "src": "/images/capadokya-1024-700-19iw-c0be1770e0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50126,
+      "originalBytes": 93255
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemis-1024_700_n5c.jpg": {
+      "src": "/images/artemis-1024-700-n5c-ba6b6d6816.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 27014,
+      "originalBytes": 64212
+    },
+    "https://www.magical-steps.com/contents/img/tour/apse-of-the-ancient-byzantine-church-of-the-virgin-mary-where-the-third-ecumenical-council-was-held_700_1zrc.jpg": {
+      "src": "/images/apse-of-the-ancient-byzantine-church-of-the-virgin-mary-where-the-thir-aee9f53890.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 82344,
+      "originalBytes": 126927
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-balloons-1024_700_g7c.jpg": {
+      "src": "/images/cappadocia-balloons-1024-700-g7c-a608ceea1f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 35754,
+      "originalBytes": 74297
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-ephesus-pamukkale-package-tour-by-bus-2_700_22ug.jpg": {
+      "src": "/images/cappadocia-ephesus-pamukkale-package-tour-by-bus-2-700-22ug-3ad689e448.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49648,
+      "originalBytes": 92943
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociaballoon1024_700_13co.jpg": {
+      "src": "/images/cappadociaballoon1024-700-13co-11480592a4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50824,
+      "originalBytes": 91810
+    },
+    "https://www.magical-steps.com/contents/img/tour/cavusin-and-zelve-in-cappadocia_700_ffk.jpg": {
+      "src": "/images/cavusin-and-zelve-in-cappadocia-700-ffk-445f8f7b89.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 71384,
+      "originalBytes": 116250
+    },
+    "https://www.magical-steps.com/contents/img/tour/chora-church_700_uv4.jpg": {
+      "src": "/images/chora-church-700-uv4-f99b82ce94.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 72108,
+      "originalBytes": 115898
+    },
+    "https://www.magical-steps.com/contents/img/tour/antakya-mosaic-museum_700_1b2g.jpg": {
+      "src": "/images/antakya-mosaic-museum-700-1b2g-f7ba5c82e6.webp",
+      "width": 700,
+      "height": 452,
+      "bytes": 99574,
+      "originalBytes": 157071
+    },
+    "https://www.magical-steps.com/contents/img/tour/didyma_700_tbk.jpg": {
+      "src": "/images/didyma-700-tbk-0af83e522a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53238,
+      "originalBytes": 93036
+    },
+    "https://www.magical-steps.com/contents/img/tour/chora-church1024_700_x6g.jpg": {
+      "src": "/images/chora-church1024-700-x6g-358748928d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 76552,
+      "originalBytes": 122594
+    },
+    "https://www.magical-steps.com/contents/img/tour/celsus-ephesus-1024_700_20j4.jpg": {
+      "src": "/images/celsus-ephesus-1024-700-20j4-b3c00269ec.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75302,
+      "originalBytes": 121561
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-celsus-bibliothek_700_r08.jpg": {
+      "src": "/images/ephesus-celsus-bibliothek-700-r08-3152661dc9.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 55498,
+      "originalBytes": 99444
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkey-768x1024_700_1i0g.jpg": {
+      "src": "/images/ephesus-turkey-768x1024-700-1i0g-91678d04a1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 62592,
+      "originalBytes": 107999
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre_700_k28.jpg": {
+      "src": "/images/ephesus-theatre-700-k28-b0fe7c9c6a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 92744,
+      "originalBytes": 139161
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus1_700_29sg.jpg": {
+      "src": "/images/ephesus1-700-29sg-de9f8a2016.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73250,
+      "originalBytes": 116224
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus1_700_21aw.jpg": {
+      "src": "/images/ephesus1-700-21aw-c4a6824cee.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73668,
+      "originalBytes": 118271
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-tour-jpg1024_700_20j4.jpg": {
+      "src": "/images/ephesus-tour-jpg1024-700-20j4-f0a0fb188a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63384,
+      "originalBytes": 108554
+    },
+    "https://www.magical-steps.com/contents/img/tour/gobeklitepe_700_2sb4.jpg": {
+      "src": "/images/gobeklitepe-700-2sb4-5506b7f19d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 82596,
+      "originalBytes": 126458
+    },
+    "https://www.magical-steps.com/contents/img/tour/hagia-sophia-wallpaper-normal_700_weo.jpg": {
+      "src": "/images/hagia-sophia-wallpaper-normal-700-weo-17e9947908.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46686,
+      "originalBytes": 90101
+    },
+    "https://www.magical-steps.com/contents/img/tour/great-theatre-ephesus_700_1mn4.jpg": {
+      "src": "/images/great-theatre-ephesus-700-1mn4-6441341771.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 107266,
+      "originalBytes": 150488
+    },
+    "https://www.magical-steps.com/contents/img/tour/hagia-sophia_700_ens.jpg": {
+      "src": "/images/hagia-sophia-700-ens-a10b65532f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57446,
+      "originalBytes": 99570
+    },
+    "https://www.magical-steps.com/contents/img/tour/history-of-ephesus_700_ku0.jpg": {
+      "src": "/images/history-of-ephesus-700-ku0-ac52ab4d0b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 44834,
+      "originalBytes": 85882
+    },
+    "https://www.magical-steps.com/contents/img/tour/image_700_1stc.jpg": {
+      "src": "/images/image-700-1stc-ccb18ecfc2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 67724,
+      "originalBytes": 108556
+    },
+    "https://www.magical-steps.com/contents/img/tour/hierapolis-pamukkale_700_22ug.jpg": {
+      "src": "/images/hierapolis-pamukkale-700-22ug-17ddb4bfbd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 65638,
+      "originalBytes": 107434
+    },
+    "https://www.magical-steps.com/contents/img/tour/hierapolis-1_700_22ug.jpg": {
+      "src": "/images/hierapolis-1-700-22ug-8c74ad73dd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 62956,
+      "originalBytes": 107030
+    },
+    "https://www.magical-steps.com/contents/img/tour/image_700_1vwg.jpg": {
+      "src": "/images/image-700-1vwg-771a113f01.webp",
+      "width": 700,
+      "height": 467,
+      "bytes": 44692,
+      "originalBytes": 88179
+    },
+    "https://www.magical-steps.com/contents/img/tour/image_700_1ucw.jpg": {
+      "src": "/images/image-700-1ucw-0fb2cfed6a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 108340,
+      "originalBytes": 151670
+    },
+    "https://www.magical-steps.com/contents/img/tour/image_700_1y7s.jpg": {
+      "src": "/images/image-700-1y7s-24671ae3d2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75460,
+      "originalBytes": 128435
+    },
+    "https://www.magical-steps.com/contents/img/tour/interior-of-the-hagia-sophia_700_vmw.jpg": {
+      "src": "/images/interior-of-the-hagia-sophia-700-vmw-9385620c01.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 70342,
+      "originalBytes": 119012
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-0273-topkapi-sarayi-1993-0273-20080528_700_dw0.jpg": {
+      "src": "/images/istanbul-0273-topkapi-sarayi-1993-0273-20080528-700-dw0-feecb5731d.webp",
+      "width": 700,
+      "height": 349,
+      "bytes": 41380,
+      "originalBytes": 77873
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-ayasofya-camii-1024x768_700_12kw.jpg": {
+      "src": "/images/istanbul-ayasofya-camii-1024x768-700-12kw-0e80a21298.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 42664,
+      "originalBytes": 79903
+    },
+    "https://www.magical-steps.com/contents/img/tour/konya-whirling-dervishes_700_15o0.jpg": {
+      "src": "/images/konya-whirling-dervishes-700-15o0-9f81146979.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 21662,
+      "originalBytes": 53248
+    },
+    "https://www.magical-steps.com/contents/img/tour/library-of-celsus-ephesusturkey_700_4pg.jpg": {
+      "src": "/images/library-of-celsus-ephesusturkey-700-4pg-b00eca68ab.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51700,
+      "originalBytes": 95359
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul2_700_177k.jpg": {
+      "src": "/images/istanbul2-700-177k-7a1401c359.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 40124,
+      "originalBytes": 77895
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-blue-mosque-jpg1024_700_11t4.jpg": {
+      "src": "/images/istanbul-blue-mosque-jpg1024-700-11t4-1b5084a036.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53076,
+      "originalBytes": 92692
+    },
+    "https://www.magical-steps.com/contents/img/tour/jfi6qrrujyq01-kopya_700_2umg.jpg": {
+      "src": "/images/jfi6qrrujyq01-kopya-700-2umg-dfedec806e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 109608,
+      "originalBytes": 156242
+    },
+    "https://www.magical-steps.com/contents/img/tour/mardin-midyat_700_16fs.jpg": {
+      "src": "/images/mardin-midyat-700-16fs-90e5df155b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 76304,
+      "originalBytes": 122650
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-3_700_22ug.jpg": {
+      "src": "/images/pamukkale-3-700-22ug-2911532846.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 65568,
+      "originalBytes": 109502
+    },
+    "https://www.magical-steps.com/contents/img/tour/mary-church-01_700_1r9s.jpg": {
+      "src": "/images/mary-church-01-700-1r9s-70da9accd0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73068,
+      "originalBytes": 118592
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-hierapolis_700_22ug.jpg": {
+      "src": "/images/pamukkale-hierapolis-700-22ug-e0866d062c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 84024,
+      "originalBytes": 129853
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale111_700_22ug.jpg": {
+      "src": "/images/pamukkale111-700-22ug-f2ade976f8.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 33800,
+      "originalBytes": 73826
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-denizli-1024x768_700_14w8.jpg": {
+      "src": "/images/pamukkale-denizli-1024x768-700-14w8-96a67bb5f0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 37592,
+      "originalBytes": 73471
+    },
+    "https://www.magical-steps.com/contents/img/tour/perge-antalya1024_700_1aao.jpg": {
+      "src": "/images/perge-antalya1024-700-1aao-c1d1dfb1f1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 78372,
+      "originalBytes": 122414
+    },
+    "https://www.magical-steps.com/contents/img/tour/pergamum2_700_sjs.jpg": {
+      "src": "/images/pergamum2-700-sjs-4abfa4e8e3.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 34332,
+      "originalBytes": 73055
+    },
+    "https://www.magical-steps.com/contents/img/tour/s-melamonastry1024_700_18r4.jpg": {
+      "src": "/images/s-melamonastry1024-700-18r4-db76217dcc.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73174,
+      "originalBytes": 115765
+    },
+    "https://www.magical-steps.com/contents/img/tour/sagalassos_700_288w.jpg": {
+      "src": "/images/sagalassos-700-288w-8436fe3556.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 85494,
+      "originalBytes": 129647
+    },
+    "https://www.magical-steps.com/contents/img/tour/st-jean-2_700_1lvc.jpg": {
+      "src": "/images/st-jean-2-700-1lvc-38d65bb34d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 64750,
+      "originalBytes": 107484
+    },
+    "https://www.magical-steps.com/contents/img/tour/sultanahmet-istanbul_700_pgo.jpg": {
+      "src": "/images/sultanahmet-istanbul-700-pgo-45ed692ba0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49222,
+      "originalBytes": 90515
+    },
+    "https://www.magical-steps.com/contents/img/tour/sagalassos-antik-kenti-servet-uygun_700_290o.jpg": {
+      "src": "/images/sagalassos-antik-kenti-servet-uygun-700-290o-26cca14bda.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 92886,
+      "originalBytes": 140997
+    },
+    "https://www.magical-steps.com/contents/img/tour/the-house-of-virgin-mary_700_nx4.jpg": {
+      "src": "/images/the-house-of-virgin-mary-700-nx4-181708f926.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 71660,
+      "originalBytes": 115415
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkapi-palace-istanbul-jpg1024_700_109k.jpg": {
+      "src": "/images/topkapi-palace-istanbul-jpg1024-700-109k-4141284480.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 74596,
+      "originalBytes": 118731
+    },
+    "https://www.magical-steps.com/contents/img/tour/sardes-1024_700_xy8.jpg": {
+      "src": "/images/sardes-1024-700-xy8-fc58b95c9b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 36866,
+      "originalBytes": 73801
+    },
+    "https://www.magical-steps.com/contents/img/tour/whirling-dervishes1024_700_111c.jpg": {
+      "src": "/images/whirling-dervishes1024-700-111c-2bb46a9379.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 41276,
+      "originalBytes": 87535
+    },
+    "https://www.magical-steps.com/contents/img/tour/sirince3_700_oow.png": {
+      "src": "/images/sirince3-700-oow-2d040b22ae.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53678,
+      "originalBytes": 530852
+    },
+    "https://www.magical-steps.com/contents/img/tour/2-1-kopya_700_2umg.jpg": {
+      "src": "/images/2-1-kopya-700-2umg-7f117000f8.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 32968,
+      "originalBytes": 70402
+    },
+    "https://www.magical-steps.com/contents/img/tour/596339b018c7731864ab8d19-kopya_700_2umg.jpg": {
+      "src": "/images/596339b018c7731864ab8d19-kopya-700-2umg-f93036a7e0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53932,
+      "originalBytes": 98114
+    },
+    "https://www.magical-steps.com/contents/img/tour/a3a34e99f81bb094048092ae02c8c170-kopya_700_2umg.jpg": {
+      "src": "/images/a3a34e99f81bb094048092ae02c8c170-kopya-700-2umg-0c6d138e8a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 83456,
+      "originalBytes": 130144
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/20db5cc4_z.jpg": {
+      "src": "/images/20db5cc4-z-35e8308a9d.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 66948,
+      "originalBytes": 57092
+    },
+    "https://www.magical-steps.com/contents/img/tour/img-kopya_700_2umg.jpg": {
+      "src": "/images/img-kopya-700-2umg-7a7e04d7bb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 78554,
+      "originalBytes": 124314
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-ancient-hierapolis-3612763290-kopya_700_2umg.jpg": {
+      "src": "/images/pamukkale-ancient-hierapolis-3612763290-kopya-700-2umg-a0479a8d20.webp",
+      "width": 700,
+      "height": 464,
+      "bytes": 102434,
+      "originalBytes": 154688
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/88ce574f_z.jpg": {
+      "src": "/images/88ce574f-z-1018491369.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 67562,
+      "originalBytes": 56178
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/f1b86192_z.jpg": {
+      "src": "/images/f1b86192-z-b5845c39fa.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 91962,
+      "originalBytes": 80574
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-street1024_700_jag.jpg": {
+      "src": "/images/ephesus-street1024-700-jag-2426244344.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63030,
+      "originalBytes": 107426
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemistemple1024_700_jag.jpg": {
+      "src": "/images/artemistemple1024-700-jag-bc5c961c04.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 52046,
+      "originalBytes": 91527
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/azka-hotel-oda-242320.jpg": {
+      "src": "/images/azka-hotel-oda-242320-45f5065d39.webp",
+      "width": 1600,
+      "height": 1059,
+      "bytes": 114464,
+      "originalBytes": 261684
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/azka-hotel-oda-242315.jpg": {
+      "src": "/images/azka-hotel-oda-242315-2b7bbb46d9.webp",
+      "width": 1600,
+      "height": 1111,
+      "bytes": 125940,
+      "originalBytes": 284739
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-ruins-turkey-ancient_700_jag.jpg": {
+      "src": "/images/ephesus-ruins-turkey-ancient-700-jag-ba249ddf09.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63416,
+      "originalBytes": 107705
+    },
+    "https://www.magical-steps.com/contents/img/tour/sirince-1_700_jag.jpg": {
+      "src": "/images/sirince-1-700-jag-20f258e6da.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 96728,
+      "originalBytes": 145428
+    },
+    "https://www.magical-steps.com/contents/img/tour/terracehousesephesus_700_1r9s.jpg": {
+      "src": "/images/terracehousesephesus-700-1r9s-086b2f43b4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 84546,
+      "originalBytes": 134596
+    },
+    "https://www.magical-steps.com/contents/img/tour/great-theatre-ephesus_700_1r9s.jpg": {
+      "src": "/images/great-theatre-ephesus-700-1r9s-1f54838794.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 119752,
+      "originalBytes": 164319
+    },
+    "https://www.magical-steps.com/contents/img/tour/celsus-ephesus-1024_700_1r9s.jpg": {
+      "src": "/images/celsus-ephesus-1024-700-1r9s-e8346e4d1c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73234,
+      "originalBytes": 120450
+    },
+    "https://www.magical-steps.com/contents/img/tour/state-agora1_700_1r9s.jpg": {
+      "src": "/images/state-agora1-700-1r9s-596bd4832a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 43622,
+      "originalBytes": 80222
+    },
+    "https://www.magical-steps.com/contents/img/tour/agora_700_1r9s.jpg": {
+      "src": "/images/agora-700-1r9s-336be4edb5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 78458,
+      "originalBytes": 125874
+    },
+    "https://www.magical-steps.com/contents/img/tour/byzantine-hippodrome_700_1vwg.jpg": {
+      "src": "/images/byzantine-hippodrome-700-1vwg-9359c67861.webp",
+      "width": 700,
+      "height": 466,
+      "bytes": 57296,
+      "originalBytes": 104465
+    },
+    "https://www.magical-steps.com/contents/img/tour/1280px-the-blue-mosque-at-sunset_700_1vwg.jpg": {
+      "src": "/images/1280px-the-blue-mosque-at-sunset-700-1vwg-3d187db05d.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 60458,
+      "originalBytes": 118270
+    },
+    "https://www.magical-steps.com/contents/img/tour/kusadasi-mary-house_700_jag.jpg": {
+      "src": "/images/kusadasi-mary-house-700-jag-9c9958c0a0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75106,
+      "originalBytes": 120286
+    },
+    "https://www.magical-steps.com/contents/img/tour/hagia_700_1vwg.jpg": {
+      "src": "/images/hagia-700-1vwg-6bc9bb1530.webp",
+      "width": 700,
+      "height": 466,
+      "bytes": 47508,
+      "originalBytes": 93688
+    },
+    "https://www.magical-steps.com/contents/img/tour/bosphorus-cruise1024-jpg_700_pgo.jpg": {
+      "src": "/images/bosphorus-cruise1024-jpg-700-pgo-7c16d37d41.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46096,
+      "originalBytes": 82951
+    },
+    "https://www.magical-steps.com/contents/img/tour/spice-bazaar-1024_700_pgo.jpg": {
+      "src": "/images/spice-bazaar-1024-700-pgo-3abfc2b972.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 78680,
+      "originalBytes": 127447
+    },
+    "https://www.magical-steps.com/contents/img/tour/hagia-sophia-museum-istanbul-7_700_1vwg.jpg": {
+      "src": "/images/hagia-sophia-museum-istanbul-7-700-1vwg-94d99ea32e.webp",
+      "width": 700,
+      "height": 465,
+      "bytes": 87808,
+      "originalBytes": 147492
+    },
+    "https://www.magical-steps.com/contents/img/tour/hagiasophia6_700_1vwg.jpg": {
+      "src": "/images/hagiasophia6-700-1vwg-99cb9491a8.webp",
+      "width": 700,
+      "height": 480,
+      "bytes": 93902,
+      "originalBytes": 150449
+    },
+    "https://www.magical-steps.com/contents/img/tour/spice-istanbul_700_pgo.jpg": {
+      "src": "/images/spice-istanbul-700-pgo-28632fc140.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63234,
+      "originalBytes": 110553
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/73f89f30_z.jpg": {
+      "src": "/images/73f89f30-z-1518b60d1f.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 81612,
+      "originalBytes": 69602
+    },
+    "https://www.magical-steps.com/contents/img/tour/chora-church-1024_700_pgo.jpg": {
+      "src": "/images/chora-church-1024-700-pgo-086f9f7233.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 69432,
+      "originalBytes": 112967
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/72546262_z.jpg": {
+      "src": "/images/72546262-z-d417f84877.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 148304,
+      "originalBytes": 140640
+    },
+    "https://www.magical-steps.com/contents/img/tour/suleymaniyecami1024_700_pgo.jpg": {
+      "src": "/images/suleymaniyecami1024-700-pgo-7d7a53403a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 29724,
+      "originalBytes": 62011
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/e3845066_z.jpg": {
+      "src": "/images/e3845066-z-98f279b988.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 76348,
+      "originalBytes": 65370
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/1a023efd_z.jpg": {
+      "src": "/images/1a023efd-z-59adec02c7.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 135916,
+      "originalBytes": 117150
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkish_700_n5c.jpg": {
+      "src": "/images/ephesus-turkish-700-n5c-ad3d897c64.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51808,
+      "originalBytes": 96888
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-jpg_700_n5c.jpg": {
+      "src": "/images/ephesus-jpg-700-n5c-fab4839d2e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 90490,
+      "originalBytes": 137960
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir-ephesus_700_n5c.jpg": {
+      "src": "/images/izmir-ephesus-700-n5c-2d60251ca7.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50778,
+      "originalBytes": 93605
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-1024_700_n5c.jpg": {
+      "src": "/images/ephesus-1024-700-n5c-3923045fd1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 97508,
+      "originalBytes": 145109
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemisephesus1024_700_n5c.jpg": {
+      "src": "/images/artemisephesus1024-700-n5c-91a4fd820a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 67126,
+      "originalBytes": 108880
+    },
+    "https://www.magical-steps.com/contents/img/tour/the-house-of-virgin-mary_700_20j4.jpg": {
+      "src": "/images/the-house-of-virgin-mary-700-20j4-241069589d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 84214,
+      "originalBytes": 128933
+    },
+    "https://www.magical-steps.com/contents/img/tour/state-agora1_700_20j4.jpg": {
+      "src": "/images/state-agora1-700-20j4-eb405c3324.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 44164,
+      "originalBytes": 81351
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemisephesus1024_700_20j4.jpg": {
+      "src": "/images/artemisephesus1024-700-20j4-c31ae07a66.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63892,
+      "originalBytes": 106131
+    },
+    "https://www.magical-steps.com/contents/img/tour/denizli-pamukkale_700_222o.jpg": {
+      "src": "/images/denizli-pamukkale-700-222o-cb8aa0d85f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 44996,
+      "originalBytes": 84461
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-hierapolis_700_222o.jpg": {
+      "src": "/images/pamukkale-hierapolis-700-222o-fbdc917d1e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 83892,
+      "originalBytes": 129646
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-3_700_222o.jpg": {
+      "src": "/images/pamukkale-3-700-222o-e2a122ece1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 64492,
+      "originalBytes": 108141
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-amphitheatre-1_700_20j4.jpg": {
+      "src": "/images/ephesus-amphitheatre-1-700-20j4-225329fc88.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 114346,
+      "originalBytes": 163201
+    },
+    "https://www.magical-steps.com/contents/img/tour/hierapolis-pamukkale_700_222o.jpg": {
+      "src": "/images/hierapolis-pamukkale-700-222o-ca1312b1c5.webp",
+      "width": 600,
+      "height": 392,
+      "bytes": 48194,
+      "originalBytes": 81879
+    },
+    "https://www.magical-steps.com/contents/img/blog/07da5f727c63fe1d5ef4264da0ad4a47_800_1xg0.jpg": {
+      "src": "/images/07da5f727c63fe1d5ef4264da0ad4a47-800-1xg0-49e5c7c406.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 64098,
+      "originalBytes": 114303
+    },
+    "https://www.magical-steps.com/contents/img/tour/hierapolis-1_700_222o.jpg": {
+      "src": "/images/hierapolis-1-700-222o-8c74ad73dd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 62956,
+      "originalBytes": 107030
+    },
+    "https://www.magical-steps.com/contents/img/blog/anzactour2_800_1yzk.jpg": {
+      "src": "/images/anzactour2-800-1yzk-a136751304.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 68466,
+      "originalBytes": 123657
+    },
+    "https://www.magical-steps.com/contents/img/blog/sagalassos_800_1oyg.jpg": {
+      "src": "/images/sagalassos-800-1oyg-a509e59287.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 107534,
+      "originalBytes": 164425
+    },
+    "https://www.magical-steps.com/contents/img/blog/ephesus1_800_22ug.jpg": {
+      "src": "/images/ephesus1-800-22ug-73f5501b4c.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 86886,
+      "originalBytes": 143487
+    },
+    "https://www.magical-steps.com/contents/img/blog/amazons-ephesusturkey_800_23m8.jpg": {
+      "src": "/images/amazons-ephesusturkey-800-23m8-3d5440f116.webp",
+      "width": 640,
+      "height": 455,
+      "bytes": 48454,
+      "originalBytes": 89334
+    },
+    "https://www.magical-steps.com/contents/img/blog/hlara-valley_800_1y7s.jpg": {
+      "src": "/images/hlara-valley-800-1y7s-9820141b4f.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 110550,
+      "originalBytes": 164217
+    },
+    "https://www.magical-steps.com/contents/img/blog/goddess-artemis_800_255s.jpg": {
+      "src": "/images/goddess-artemis-800-255s-d710b043ca.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 33718,
+      "originalBytes": 81144
+    },
+    "https://www.magical-steps.com/contents/img/blog/seven-sleepers1_800_24e0.jpg": {
+      "src": "/images/seven-sleepers1-800-24e0-200b677c41.webp",
+      "width": 800,
+      "height": 600,
+      "bytes": 99328,
+      "originalBytes": 139680
+    },
+    "https://www.magical-steps.com/contents/img/blog/aphrodisias-karacasu-aydi-14538391648kn4g_800_25xk.jpg": {
+      "src": "/images/aphrodisias-karacasu-aydi-14538391648kn4g-800-25xk-a817b7fa60.webp",
+      "width": 800,
+      "height": 455,
+      "bytes": 74510,
+      "originalBytes": 124993
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/deryadeniz/j9sqtwcvddcndhdxngkj.jpeg": {
+      "src": "/images/j9sqtwcvddcndhdxngkj-4916061a7b.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 140592,
+      "originalBytes": 147770
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/deryadeniz/m1iaaqgy0lqna54ecf97.jpg": {
+      "src": "/images/m1iaaqgy0lqna54ecf97-7e34811bb0.webp",
+      "width": 1250,
+      "height": 833,
+      "bytes": 165842,
+      "originalBytes": 176155
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/deryadeniz/xblcx9wqqn4gsmajl61t.jpg": {
+      "src": "/images/xblcx9wqqn4gsmajl61t-f2cd22caec.webp",
+      "width": 1538,
+      "height": 864,
+      "bytes": 92874,
+      "originalBytes": 133713
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/deryadeniz/riyb8902kieioosfpev8.jpg": {
+      "src": "/images/riyb8902kieioosfpev8-eeeafb0359.webp",
+      "width": 1250,
+      "height": 833,
+      "bytes": 175428,
+      "originalBytes": 188752
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/divadeniz/avbp3h3p5nt1ymfhzwql.jpg": {
+      "src": "/images/avbp3h3p5nt1ymfhzwql-6e930d0db6.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 52050,
+      "originalBytes": 69364
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/divadeniz/hxed52ys3oiczidl3oym.jpg": {
+      "src": "/images/hxed52ys3oiczidl3oym-2454ec26ef.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 95306,
+      "originalBytes": 111090
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/divadeniz/jkxpldyr4ee6km6l7zol.jpg": {
+      "src": "/images/jkxpldyr4ee6km6l7zol-0fef00db01.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 83644,
+      "originalBytes": 96479
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/deryadeniz/yvbjgidbrumfwno4r3t0.jpg": {
+      "src": "/images/yvbjgidbrumfwno4r3t0-dbf881aeba.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 154074,
+      "originalBytes": 192457
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/divadeniz/x0c42hzzvjltn7kxcipk.jpg": {
+      "src": "/images/x0c42hzzvjltn7kxcipk-f6362b61a5.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 70088,
+      "originalBytes": 86428
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/divadeniz/rph47mjnpii7agsheh1j.jpg": {
+      "src": "/images/rph47mjnpii7agsheh1j-d15c0c567d.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 78664,
+      "originalBytes": 89491
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/grandsailor/fx0csaig7dkyfcrxaqww.jpeg": {
+      "src": "/images/fx0csaig7dkyfcrxaqww-d05c2e7b76.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 139980,
+      "originalBytes": 154626
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/grandsailor/ijlujflbxjz5x3t7r1aa.jpg": {
+      "src": "/images/ijlujflbxjz5x3t7r1aa-f0b031560f.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 30804,
+      "originalBytes": 53975
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/laram/15243008051.jpg": {
+      "src": "/images/15243008051-e8e6da6d05.webp",
+      "width": 640,
+      "height": 384,
+      "bytes": 36544,
+      "originalBytes": 209629
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/grandsailor/wtmqkp2snmwy4bh2hcuz.jpg": {
+      "src": "/images/wtmqkp2snmwy4bh2hcuz-3d7a4a4908.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 21560,
+      "originalBytes": 37408
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/grandsailor/fykjrkudy9jdrsxb5mbt.jpg": {
+      "src": "/images/fykjrkudy9jdrsxb5mbt-df495ffb79.webp",
+      "width": 1000,
+      "height": 562,
+      "bytes": 37906,
+      "originalBytes": 56889
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/xantos/1524212683.jpg": {
+      "src": "/images/1524212683-0c5c6c7191.webp",
+      "width": 600,
+      "height": 360,
+      "bytes": 54134,
+      "originalBytes": 231168
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/xantos/1524212701.jpg": {
+      "src": "/images/1524212701-766447ca25.webp",
+      "width": 600,
+      "height": 360,
+      "bytes": 38536,
+      "originalBytes": 186855
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/xantos/1524212914.jpg": {
+      "src": "/images/1524212914-0db2a33d45.webp",
+      "width": 600,
+      "height": 360,
+      "bytes": 26272,
+      "originalBytes": 164508
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/laram/15243008052.jpg": {
+      "src": "/images/15243008052-c493c363a1.webp",
+      "width": 1236,
+      "height": 741,
+      "bytes": 42492,
+      "originalBytes": 571656
+    },
+    "https://www.magical-steps.com/contents/img/tour/1-main-street-ephesus_700_k28.jpg": {
+      "src": "/images/1-main-street-ephesus-700-k28-1a6516ed5c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73166,
+      "originalBytes": 118725
+    },
+    "https://www.magical-steps.com/contents/img/tour/15-2-view-of-the-brothel-in-ephesus-from-the-celsus-library_700_oow.jpg": {
+      "src": "/images/15-2-view-of-the-brothel-in-ephesus-from-the-celsus-library-700-oow-0582e79ed1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 62576,
+      "originalBytes": 107525
+    },
+    "https://www.magical-steps.com/contents/img/tour/10-48-temple-of-artemis_700_1ucw.jpg": {
+      "src": "/images/10-48-temple-of-artemis-700-1ucw-ed1df0463f.webp",
+      "width": 700,
+      "height": 467,
+      "bytes": 63780,
+      "originalBytes": 111516
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemis-1024_700_ku0.jpg": {
+      "src": "/images/artemis-1024-700-ku0-d2fc158923.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 27344,
+      "originalBytes": 64453
+    },
+    "https://www.magical-steps.com/contents/img/tour/ahrida-synagogue_700_xy8.jpg": {
+      "src": "/images/ahrida-synagogue-700-xy8-446927fdcc.webp",
+      "width": 700,
+      "height": 379,
+      "bytes": 36658,
+      "originalBytes": 74860
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/xantos/image22.jpg": {
+      "src": "/images/image22-e81c449c7c.webp",
+      "width": 682,
+      "height": 409,
+      "bytes": 40672,
+      "originalBytes": 73652
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/sailing/laram/1524493711.jpg": {
+      "src": "/images/1524493711-1619a86ba0.webp",
+      "width": 1534,
+      "height": 920,
+      "bytes": 134154,
+      "originalBytes": 843612
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemis-temple1024_700_k28.jpg": {
+      "src": "/images/artemis-temple1024-700-k28-44f7c8028a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46226,
+      "originalBytes": 85556
+    },
+    "https://www.magical-steps.com/contents/img/tour/basilica-of-st-john_700_29sg.jpg": {
+      "src": "/images/basilica-of-st-john-700-29sg-26dad30c77.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49368,
+      "originalBytes": 90101
+    },
+    "https://www.magical-steps.com/contents/img/tour/bursa-ulumosque1024_700_11t4.jpg": {
+      "src": "/images/bursa-ulumosque1024-700-11t4-2657b6d91a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49458,
+      "originalBytes": 94455
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemis-temple-1024_700_iio.jpg": {
+      "src": "/images/artemis-temple-1024-700-iio-708c6c2f4f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 54358,
+      "originalBytes": 94664
+    },
+    "https://www.magical-steps.com/contents/img/tour/bursa-ulu-camii-1024_700_11t4.jpg": {
+      "src": "/images/bursa-ulu-camii-1024-700-11t4-ce90e07849.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46400,
+      "originalBytes": 88620
+    },
+    "https://www.magical-steps.com/contents/img/tour/celsus-ephesus-1024_700_nx4.jpg": {
+      "src": "/images/celsus-ephesus-1024-700-nx4-e11f54d55b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75068,
+      "originalBytes": 121730
+    },
+    "https://www.magical-steps.com/contents/img/tour/church-in-ani-armenia-1024_700_zhs.jpg": {
+      "src": "/images/church-in-ani-armenia-1024-700-zhs-a7b8ca6739.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 28116,
+      "originalBytes": 59627
+    },
+    "https://www.magical-steps.com/contents/img/tour/celsus-library-in-ephesus_700_nx4.jpg": {
+      "src": "/images/celsus-library-in-ephesus-700-nx4-d7c6d2aca1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 91092,
+      "originalBytes": 145213
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemis-temple1024_700_nx4.jpg": {
+      "src": "/images/artemis-temple1024-700-nx4-4722125d55.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46016,
+      "originalBytes": 85458
+    },
+    "https://www.magical-steps.com/contents/img/tour/deyrulzafaran-monastrey_700_yq0.jpg": {
+      "src": "/images/deyrulzafaran-monastrey-700-yq0-cab93f7024.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 40728,
+      "originalBytes": 76247
+    },
+    "https://www.magical-steps.com/contents/img/tour/dara-1204_700_yq0.jpg": {
+      "src": "/images/dara-1204-700-yq0-80e5ae0595.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73778,
+      "originalBytes": 116099
+    },
+    "https://www.magical-steps.com/contents/img/tour/dara-1024_700_yq0.jpg": {
+      "src": "/images/dara-1024-700-yq0-051a2725d4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 80318,
+      "originalBytes": 127159
+    },
+    "https://www.magical-steps.com/contents/img/tour/celsusephesus1024_700_k28.jpg": {
+      "src": "/images/celsusephesus1024-700-k28-f7e73f70ab.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59430,
+      "originalBytes": 104005
+    },
+    "https://www.magical-steps.com/contents/img/tour/edirne-selimiye-1024_700_11t4.jpg": {
+      "src": "/images/edirne-selimiye-1024-700-11t4-dd25d52527.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 36106,
+      "originalBytes": 73392
+    },
+    "https://www.magical-steps.com/contents/img/tour/efes_700_1mn4.jpg": {
+      "src": "/images/efes-700-1mn4-2647ef662b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 67516,
+      "originalBytes": 112058
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-1024_700_xy8.jpg": {
+      "src": "/images/ephesus-1024-700-xy8-61cfc88e0f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 62204,
+      "originalBytes": 106385
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-2_700_ku0.jpg": {
+      "src": "/images/ephesus-2-700-ku0-adbba132e3.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 52352,
+      "originalBytes": 92854
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-1_700_1ucw.jpg": {
+      "src": "/images/ephesus-1-700-1ucw-71961da6e3.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 105466,
+      "originalBytes": 167678
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-1024_700_oow.jpg": {
+      "src": "/images/ephesus-1024-700-oow-d61eab5980.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51446,
+      "originalBytes": 95637
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-celsus-library-1024_700_ku0.jpg": {
+      "src": "/images/ephesus-celsus-library-1024-700-ku0-3af53492d8.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59768,
+      "originalBytes": 104447
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-museum_700_24e0.jpg": {
+      "src": "/images/ephesus-museum-700-24e0-c41401a245.webp",
+      "width": 551,
+      "height": 392,
+      "bytes": 24590,
+      "originalBytes": 56183
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-amphitheatre_700_24e0.jpg": {
+      "src": "/images/ephesus-amphitheatre-700-24e0-956c26aaa3.webp",
+      "width": 620,
+      "height": 392,
+      "bytes": 97740,
+      "originalBytes": 142870
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-commercial-agora-1_700_29sg.jpg": {
+      "src": "/images/ephesus-commercial-agora-1-700-29sg-9080441dcd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 94910,
+      "originalBytes": 141177
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-jpg_700_nx4.jpg": {
+      "src": "/images/ephesus-jpg-700-nx4-2489e47f55.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 91142,
+      "originalBytes": 137886
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-amphitheatre_700_29sg.jpg": {
+      "src": "/images/ephesus-amphitheatre-700-29sg-630ce60435.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 113950,
+      "originalBytes": 162882
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-ruins-43_700_1mn4.jpg": {
+      "src": "/images/ephesus-ruins-43-700-1mn4-004c462a37.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 90722,
+      "originalBytes": 136625
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-terrace-house_700_24e0.jpg": {
+      "src": "/images/ephesus-terrace-house-700-24e0-d002849377.webp",
+      "width": 622,
+      "height": 392,
+      "bytes": 63990,
+      "originalBytes": 103208
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre-1024-700-iio_700_1stc.jpg": {
+      "src": "/images/ephesus-theatre-1024-700-iio-700-1stc-87882a6373.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 81836,
+      "originalBytes": 125296
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-ruins-43_700_1ucw.jpg": {
+      "src": "/images/ephesus-ruins-43-700-1ucw-2f87201032.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 121954,
+      "originalBytes": 184331
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre-1024_700_iio.jpg": {
+      "src": "/images/ephesus-theatre-1024-700-iio-fd55a9e76d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 81632,
+      "originalBytes": 125308
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkey-768x1024_700_k28.jpg": {
+      "src": "/images/ephesus-turkey-768x1024-700-k28-1333b89821.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 61900,
+      "originalBytes": 107158
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkey-768x1024_700_oow.jpg": {
+      "src": "/images/ephesus-turkey-768x1024-700-oow-0b15b918fb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60908,
+      "originalBytes": 106141
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-tourr_700_1zrc.jpg": {
+      "src": "/images/ephesus-tourr-700-1zrc-6388cd8bb1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 69652,
+      "originalBytes": 118535
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre-1024_700_ku0.jpg": {
+      "src": "/images/ephesus-theatre-1024-700-ku0-f7caecca71.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 78308,
+      "originalBytes": 123439
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkey-864851_700_1ucw.jpg": {
+      "src": "/images/ephesus-turkey-864851-700-1ucw-b095e95d3b.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 45100,
+      "originalBytes": 100966
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkey-864851_700_24e0.jpg": {
+      "src": "/images/ephesus-turkey-864851-700-24e0-63bec024e1.webp",
+      "width": 551,
+      "height": 392,
+      "bytes": 39020,
+      "originalBytes": 75018
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus1_700_24e0.jpg": {
+      "src": "/images/ephesus1-700-24e0-6864233f8e.webp",
+      "width": 551,
+      "height": 413,
+      "bytes": 57316,
+      "originalBytes": 94210
+    },
+    "https://www.magical-steps.com/contents/img/tour/fairy-chimneys-in-cappadocia-1024_700_yq0.jpg": {
+      "src": "/images/fairy-chimneys-in-cappadocia-1024-700-yq0-de6d44dbcb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 65324,
+      "originalBytes": 109106
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus_700_oow.jpg": {
+      "src": "/images/ephesus-700-oow-e0421e4b5e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75300,
+      "originalBytes": 120401
+    },
+    "https://www.magical-steps.com/contents/img/tour/hotelbella-selcuk-castle-at-night_700_1stc.jpg": {
+      "src": "/images/hotelbella-selcuk-castle-at-night-700-1stc-571b7153fe.webp",
+      "width": 576,
+      "height": 392,
+      "bytes": 19422,
+      "originalBytes": 39853
+    },
+    "https://www.magical-steps.com/contents/img/tour/grand-bazaar1024_700_dw0.jpg": {
+      "src": "/images/grand-bazaar1024-700-dw0-b08750d46f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 82552,
+      "originalBytes": 131992
+    },
+    "https://www.magical-steps.com/contents/img/tour/house-of-the-virgin-mary_700_1zrc.jpg": {
+      "src": "/images/house-of-the-virgin-mary-700-1zrc-e0b36cf18e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57352,
+      "originalBytes": 101544
+    },
+    "https://www.magical-steps.com/contents/img/tour/house-of-the-virgin-mary_700_1mn4.jpg": {
+      "src": "/images/house-of-the-virgin-mary-700-1mn4-aa536fa70c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57248,
+      "originalBytes": 101517
+    },
+    "https://www.magical-steps.com/contents/img/tour/grand-bazaar-1024_700_ens.jpg": {
+      "src": "/images/grand-bazaar-1024-700-ens-6eb5c875d6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 93436,
+      "originalBytes": 144356
+    },
+    "https://www.magical-steps.com/contents/img/tour/house-of-virgin-mary_700_29sg.jpg": {
+      "src": "/images/house-of-virgin-mary-700-29sg-6a697305e8.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56854,
+      "originalBytes": 101157
+    },
+    "https://www.magical-steps.com/contents/img/tour/house-of-virgin-mary_700_nx4.jpg": {
+      "src": "/images/house-of-virgin-mary-700-nx4-4f25db5925.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 55540,
+      "originalBytes": 101353
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-ayasofya-camii-1024x768_700_11t4.jpg": {
+      "src": "/images/istanbul-ayasofya-camii-1024x768-700-11t4-97b8dccd9d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 43668,
+      "originalBytes": 80469
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-blue-mosque-01_700_dw0.jpg": {
+      "src": "/images/istanbul-blue-mosque-01-700-dw0-2d49266aef.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 31644,
+      "originalBytes": 65700
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-blue-mosque-jpg1024_700_ens.jpg": {
+      "src": "/images/istanbul-blue-mosque-jpg1024-700-ens-1b5084a036.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53076,
+      "originalBytes": 92692
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-bosphorus02_700_dw0.jpg": {
+      "src": "/images/istanbul-bosphorus02-700-dw0-5d51bd9caf.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56696,
+      "originalBytes": 100678
+    },
+    "https://www.magical-steps.com/contents/img/tour/interior-of-the-hagia-sophia_700_ens.jpg": {
+      "src": "/images/interior-of-the-hagia-sophia-700-ens-d9b2793189.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 70710,
+      "originalBytes": 119411
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-grand-bazaar-istanbul_700_ens.jpg": {
+      "src": "/images/istanbul-grand-bazaar-istanbul-700-ens-4d432c0d7e.webp",
+      "width": 633,
+      "height": 392,
+      "bytes": 58334,
+      "originalBytes": 93382
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir-ephesus_700_k28.jpg": {
+      "src": "/images/izmir-ephesus-700-k28-4ee770a0c9.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51228,
+      "originalBytes": 94053
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir-ephesus-700-n5c_700_1stc.jpg": {
+      "src": "/images/izmir-ephesus-700-n5c-700-1stc-6ed517e550.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50798,
+      "originalBytes": 93627
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-st-sofia_700_dw0.jpg": {
+      "src": "/images/istanbul-st-sofia-700-dw0-6efa8d4822.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 76038,
+      "originalBytes": 121626
+    },
+    "https://www.magical-steps.com/contents/img/tour/kusadasi-mary-house_700_1zrc.jpg": {
+      "src": "/images/kusadasi-mary-house-700-1zrc-00d0180102.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 96574,
+      "originalBytes": 142301
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul1024_700_xy8.jpg": {
+      "src": "/images/istanbul1024-700-xy8-cc39b26c57.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 66204,
+      "originalBytes": 111629
+    },
+    "https://www.magical-steps.com/contents/img/tour/img-2921_700_1ucw.jpg": {
+      "src": "/images/img-2921-700-1ucw-eb140d90ac.webp",
+      "width": 700,
+      "height": 467,
+      "bytes": 30858,
+      "originalBytes": 76122
+    },
+    "https://www.magical-steps.com/contents/img/tour/mount-ararat1024_700_zhs.jpg": {
+      "src": "/images/mount-ararat1024-700-zhs-46ee3b52e5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 45178,
+      "originalBytes": 82773
+    },
+    "https://www.magical-steps.com/contents/img/tour/mary-house-1024_700_iio.jpg": {
+      "src": "/images/mary-house-1024-700-iio-d7617e4981.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 105692,
+      "originalBytes": 153921
+    },
+    "https://www.magical-steps.com/contents/img/tour/nevasalom-1024_700_xy8.jpg": {
+      "src": "/images/nevasalom-1024-700-xy8-adbec8d55e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 40396,
+      "originalBytes": 83171
+    },
+    "https://www.magical-steps.com/contents/img/tour/miletos-1024_700_xy8.jpg": {
+      "src": "/images/miletos-1024-700-xy8-4a04274b04.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 112292,
+      "originalBytes": 163711
+    },
+    "https://www.magical-steps.com/contents/img/tour/mary-s-house_700_29sg.jpg": {
+      "src": "/images/mary-s-house-700-29sg-ba7b26aeb0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 79508,
+      "originalBytes": 125015
+    },
+    "https://www.magical-steps.com/contents/img/tour/sardis-1024_700_yq0.jpg": {
+      "src": "/images/sardis-1024-700-yq0-3e469fed49.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60108,
+      "originalBytes": 103382
+    },
+    "https://www.magical-steps.com/contents/img/tour/surp-asdvadzadzin-1024_700_zhs.jpg": {
+      "src": "/images/surp-asdvadzadzin-1024-700-zhs-70d1bd5efa.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 31848,
+      "originalBytes": 66702
+    },
+    "https://www.magical-steps.com/contents/img/tour/seven-sleepers_700_1zrc.jpg": {
+      "src": "/images/seven-sleepers-700-1zrc-9207f50c2c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 45762,
+      "originalBytes": 85788
+    },
+    "https://www.magical-steps.com/contents/img/tour/sirince-a-quiet-and-beautiful-village-in-zmir-province-turkey-01_700_oow.jpg": {
+      "src": "/images/sirince-a-quiet-and-beautiful-village-in-zmir-province-turkey-01-700-o-87aece42b3.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 89612,
+      "originalBytes": 140114
+    },
+    "https://www.magical-steps.com/contents/img/tour/sultan-ahmet-stanbul-1024_700_ens.jpg": {
+      "src": "/images/sultan-ahmet-stanbul-1024-700-ens-4723fae469.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47090,
+      "originalBytes": 91724
+    },
+    "https://www.magical-steps.com/contents/img/tour/sirince_700_1mn4.jpg": {
+      "src": "/images/sirince-700-1mn4-096d8575d7.webp",
+      "width": 700,
+      "height": 469,
+      "bytes": 84474,
+      "originalBytes": 142760
+    },
+    "https://www.magical-steps.com/contents/img/tour/surp-giragos-diyarbak-r-1024_700_zhs.jpg": {
+      "src": "/images/surp-giragos-diyarbak-r-1024-700-zhs-86412f9f0b.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 37144,
+      "originalBytes": 90358
+    },
+    "https://www.magical-steps.com/contents/img/tour/temple-of-artemis-1024_700_ku0.jpg": {
+      "src": "/images/temple-of-artemis-1024-700-ku0-a14d7952d9.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 52562,
+      "originalBytes": 91944
+    },
+    "https://www.magical-steps.com/contents/img/tour/surp-gragos-church_700_zhs.jpg": {
+      "src": "/images/surp-gragos-church-700-zhs-a6ad153e67.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59002,
+      "originalBytes": 104228
+    },
+    "https://www.magical-steps.com/contents/img/tour/the-house-of-virgin-mary_700_1mn4.jpg": {
+      "src": "/images/the-house-of-virgin-mary-700-1mn4-a8128c9d9b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 71432,
+      "originalBytes": 114218
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkapi-interior-1024_700_dw0.jpg": {
+      "src": "/images/topkapi-interior-1024-700-dw0-ef7b6d5593.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 72030,
+      "originalBytes": 117657
+    },
+    "https://www.magical-steps.com/contents/img/tour/turkey-2011-selcuk-06-ruins-of-basilica-of-st-john_700_1stc.jpg": {
+      "src": "/images/turkey-2011-selcuk-06-ruins-of-basilica-of-st-john-700-1stc-ac65617bb2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60254,
+      "originalBytes": 103698
+    },
+    "https://www.magical-steps.com/contents/img/tour/uins-of-basilica-of-st-john_700_iio.jpg": {
+      "src": "/images/uins-of-basilica-of-st-john-700-iio-84ef0567ca.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63430,
+      "originalBytes": 107363
+    },
+    "https://www.magical-steps.com/contents/img/tour/virgin-mary-house-ephesus-1024_700_iio.jpg": {
+      "src": "/images/virgin-mary-house-ephesus-1024-700-iio-06aa4a93a2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 66112,
+      "originalBytes": 114643
+    },
+    "https://www.magical-steps.com/contents/img/tour/ye-il-t-rbe-bursa-1024_700_11t4.jpg": {
+      "src": "/images/ye-il-t-rbe-bursa-1024-700-11t4-be38be386c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 45820,
+      "originalBytes": 87698
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia1024_700_weo.jpg": {
+      "src": "/images/cappadocia1024-700-weo-fdd68f53ee.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56864,
+      "originalBytes": 100289
+    },
+    "https://www.magical-steps.com/contents/img/tour/mardin-houses-1024_700_x6g.jpg": {
+      "src": "/images/mardin-houses-1024-700-x6g-8f722f767d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 86552,
+      "originalBytes": 132182
+    },
+    "https://www.magical-steps.com/contents/img/tour/chorachurch1024_700_x6g.jpg": {
+      "src": "/images/chorachurch1024-700-x6g-344fe7427f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75492,
+      "originalBytes": 124592
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-denizli-1024x768_700_weo.jpg": {
+      "src": "/images/pamukkale-denizli-1024x768-700-weo-9805d27435.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 36714,
+      "originalBytes": 72425
+    },
+    "https://www.magical-steps.com/contents/img/tour/urfa-harran-university-1024_700_x6g.jpg": {
+      "src": "/images/urfa-harran-university-1024-700-x6g-00a1ded8dc.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 19450,
+      "originalBytes": 47237
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-turkey_700_x6g.jpg": {
+      "src": "/images/ephesus-turkey-700-x6g-25aeb9a5f0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59280,
+      "originalBytes": 105377
+    },
+    "https://www.magical-steps.com/contents/img/tour/asklepieion-pergamum_700_x6g.jpg": {
+      "src": "/images/asklepieion-pergamum-700-x6g-9667106e25.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 99736,
+      "originalBytes": 145853
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre-1024_700_weo.jpg": {
+      "src": "/images/ephesus-theatre-1024-700-weo-f6cccd2bbf.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 79468,
+      "originalBytes": 123808
+    },
+    "https://www.magical-steps.com/contents/img/tour/konya-mevlana-museum-1024_700_weo.jpg": {
+      "src": "/images/konya-mevlana-museum-1024-700-weo-996f64c8ec.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56342,
+      "originalBytes": 94992
+    },
+    "https://www.magical-steps.com/contents/img/tour/hatay-antakya-antioch_700_uv4.jpg": {
+      "src": "/images/hatay-antakya-antioch-700-uv4-f380671f74.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51272,
+      "originalBytes": 93389
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-celsus-library-1024_700_uv4.jpg": {
+      "src": "/images/ephesus-celsus-library-1024-700-uv4-537805d23f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57080,
+      "originalBytes": 101291
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-1024_700_uv4.jpg": {
+      "src": "/images/pamukkale-1024-700-uv4-7a97a73e05.webp",
+      "width": 700,
+      "height": 525,
+      "bytes": 82714,
+      "originalBytes": 143303
+    },
+    "https://www.magical-steps.com/contents/img/tour/kocatepe-cami1024_700_109k.jpg": {
+      "src": "/images/kocatepe-cami1024-700-109k-1d0aaa9714.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 86356,
+      "originalBytes": 133585
+    },
+    "https://www.magical-steps.com/contents/img/tour/antakya-arkeoloji-muzesi-1024_700_uv4.jpg": {
+      "src": "/images/antakya-arkeoloji-muzesi-1024-700-uv4-9cc1f39880.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 83944,
+      "originalBytes": 125804
+    },
+    "https://www.magical-steps.com/contents/img/tour/lystra_700_uv4.jpg": {
+      "src": "/images/lystra-700-uv4-5b621cc6d5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 98910,
+      "originalBytes": 141268
+    },
+    "https://www.magical-steps.com/contents/img/tour/selimiye-edirne-1024_700_109k.jpg": {
+      "src": "/images/selimiye-edirne-1024-700-109k-b2a6b2aebf.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 84124,
+      "originalBytes": 136293
+    },
+    "https://www.magical-steps.com/contents/img/tour/harranhouses-1204_700_109k.jpg": {
+      "src": "/images/harranhouses-1204-700-109k-339f900aa9.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 55794,
+      "originalBytes": 95029
+    },
+    "https://www.magical-steps.com/contents/img/tour/mevlana1024_700_109k.jpg": {
+      "src": "/images/mevlana1024-700-109k-3a5ab7cd04.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 48922,
+      "originalBytes": 86730
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-hierapolis-1024x768_700_weo.jpg": {
+      "src": "/images/pamukkale-hierapolis-1024x768-700-weo-52c4af9fb8.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 72800,
+      "originalBytes": 117513
+    },
+    "https://www.magical-steps.com/contents/img/tour/balikligol-jpg-urfa-1024_700_109k.jpg": {
+      "src": "/images/balikligol-jpg-urfa-1024-700-109k-6136936706.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 53030,
+      "originalBytes": 93492
+    },
+    "https://www.magical-steps.com/contents/img/tour/karatay-medresesi1024_700_111c.jpg": {
+      "src": "/images/karatay-medresesi1024-700-111c-6d77a0baa6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73812,
+      "originalBytes": 117725
+    },
+    "https://www.magical-steps.com/contents/img/tour/mevlanatomb1024_700_111c.jpg": {
+      "src": "/images/mevlanatomb1024-700-111c-79d8e0c872.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 80008,
+      "originalBytes": 126590
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkapi-sarayi-istanbul-jpg1024_700_111c.jpg": {
+      "src": "/images/topkapi-sarayi-istanbul-jpg1024-700-111c-4120571b5c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47860,
+      "originalBytes": 88284
+    },
+    "https://www.magical-steps.com/contents/img/tour/sultanahmet-blue-mosque-jpg-1024_700_111c.jpg": {
+      "src": "/images/sultanahmet-blue-mosque-jpg-1024-700-111c-3d70f0a603.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 67128,
+      "originalBytes": 110956
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir-saat-kulesi-jpg-1024_700_vmw.jpg": {
+      "src": "/images/izmir-saat-kulesi-jpg-1024-700-vmw-15a1d04d83.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 27818,
+      "originalBytes": 62579
+    },
+    "https://www.magical-steps.com/contents/img/tour/hagia-sophia-1024_700_vmw.jpg": {
+      "src": "/images/hagia-sophia-1024-700-vmw-6ce683efdd.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51112,
+      "originalBytes": 95910
+    },
+    "https://www.magical-steps.com/contents/img/tour/ayasofya-m-zesi-jpg1024_700_111c.jpg": {
+      "src": "/images/ayasofya-m-zesi-jpg1024-700-111c-cc151a52e6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 48972,
+      "originalBytes": 88994
+    },
+    "https://www.magical-steps.com/contents/img/tour/st-polycarp_700_vmw.jpg": {
+      "src": "/images/st-polycarp-700-vmw-68f80af181.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 61770,
+      "originalBytes": 106689
+    },
+    "https://www.magical-steps.com/contents/img/tour/sultanahmet-blue-mosque-jpg-1024_700_vmw.jpg": {
+      "src": "/images/sultanahmet-blue-mosque-jpg-1024-700-vmw-ac79edd8c0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 55580,
+      "originalBytes": 96753
+    },
+    "https://www.magical-steps.com/contents/img/tour/sardes-1024_700_vmw.jpg": {
+      "src": "/images/sardes-1024-700-vmw-b5081cc30b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 45622,
+      "originalBytes": 86731
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/a91ca63c_z.jpg": {
+      "src": "/images/a91ca63c-z-79282d25b9.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 90228,
+      "originalBytes": 78702
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/kustur/general_view_2.jpg": {
+      "src": "/images/general-view-2-bb927ed708.webp",
+      "width": 1024,
+      "height": 678,
+      "bytes": 149222,
+      "originalBytes": 142544
+    },
+    "https://www.magical-steps.com/contents/img/tour/mardin-houses-1024_700_1b2g.jpg": {
+      "src": "/images/mardin-houses-1024-700-1b2g-97479016f2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 87226,
+      "originalBytes": 133197
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/2f91a447_z.jpg": {
+      "src": "/images/2f91a447-z-a1e4c2be41.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 43556,
+      "originalBytes": 51836
+    },
+    "https://www.magical-steps.com/contents/img/tour/urfa-bal-kl-g-l_700_1b2g.jpg": {
+      "src": "/images/urfa-bal-kl-g-l-700-1b2g-09d12b6bc8.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 48674,
+      "originalBytes": 89383
+    },
+    "https://www.magical-steps.com/contents/img/tour/nemrut-da_700_1b2g.jpg": {
+      "src": "/images/nemrut-da-700-1b2g-c7cebdb8aa.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63058,
+      "originalBytes": 105103
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkapi-sarayi-istanbul-jpg1024_700_1b2g.jpg": {
+      "src": "/images/topkapi-sarayi-istanbul-jpg1024-700-1b2g-e2d143680b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50820,
+      "originalBytes": 91401
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-mary-s-smiling-freco-g-m-sler-monatsry_700_1b2g.jpg": {
+      "src": "/images/cappadocia-mary-s-smiling-freco-g-m-sler-monatsry-700-1b2g-fd3b007c84.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 86758,
+      "originalBytes": 132739
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/964d75d1_z.jpg": {
+      "src": "/images/964d75d1-z-debafab5ea.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 26414,
+      "originalBytes": 27532
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/9162d421_z.jpg": {
+      "src": "/images/9162d421-z-9878c4862a.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 26272,
+      "originalBytes": 28404
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/kustur/_mg_0824.jpg": {
+      "src": "/images/mg-0824-0ece07c97d.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 63804,
+      "originalBytes": 578977
+    },
+    "https://www.magical-steps.com/contents/img/tour/agri_700_17zc.jpg": {
+      "src": "/images/agri-700-17zc-00f00a4f9d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 34856,
+      "originalBytes": 72371
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/1bfb4d5c_z.jpg": {
+      "src": "/images/1bfb4d5c-z-e79594f76b.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 80140,
+      "originalBytes": 69676
+    },
+    "https://www.magical-steps.com/contents/img/tour/erzurum-ifte-minareli-medrese_700_17zc.jpg": {
+      "src": "/images/erzurum-ifte-minareli-medrese-700-17zc-117698ed18.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 30258,
+      "originalBytes": 67119
+    },
+    "https://www.magical-steps.com/contents/img/tour/van-g-l_700_17zc.jpg": {
+      "src": "/images/van-g-l-700-17zc-f5d7dff65f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49198,
+      "originalBytes": 90779
+    },
+    "https://www.magical-steps.com/contents/img/tour/urfa-harran_700_17zc.jpg": {
+      "src": "/images/urfa-harran-700-17zc-bd60c4a24c.webp",
+      "width": 640,
+      "height": 392,
+      "bytes": 56784,
+      "originalBytes": 93464
+    },
+    "https://www.magical-steps.com/contents/img/tour/kars-ani-harabeleri_700_17zc.jpg": {
+      "src": "/images/kars-ani-harabeleri-700-17zc-41eefca026.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60306,
+      "originalBytes": 103039
+    },
+    "https://www.magical-steps.com/contents/img/tour/sema-konya_700_1i0g.jpg": {
+      "src": "/images/sema-konya-700-1i0g-d372b62f75.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 23548,
+      "originalBytes": 61140
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-amphitheatre_700_1i0g.jpg": {
+      "src": "/images/ephesus-amphitheatre-700-1i0g-f846d50908.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 84634,
+      "originalBytes": 131158
+    },
+    "https://www.magical-steps.com/contents/img/tour/konya1024_700_1i0g.jpg": {
+      "src": "/images/konya1024-700-1i0g-741affd2c9.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 39030,
+      "originalBytes": 75810
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-bosphorus_700_1i0g.jpg": {
+      "src": "/images/istanbul-bosphorus-700-1i0g-5d79711035.webp",
+      "width": 650,
+      "height": 392,
+      "bytes": 42316,
+      "originalBytes": 79188
+    },
+    "https://www.magical-steps.com/contents/img/tour/pergamum1024_700_1aao.jpg": {
+      "src": "/images/pergamum1024-700-1aao-ea9cdf67f6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46942,
+      "originalBytes": 89234
+    },
+    "https://www.magical-steps.com/contents/img/tour/sultan-ahmet-stanbul-1024_700_1i0g.jpg": {
+      "src": "/images/sultan-ahmet-stanbul-1024-700-1i0g-4723fae469.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47090,
+      "originalBytes": 91724
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-kusadasi-turkey_700_1aao.jpg": {
+      "src": "/images/ephesus-kusadasi-turkey-700-1aao-e9ab72d345.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 55552,
+      "originalBytes": 98703
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theater-from-above2-tb-n010501_700_1aao.jpg": {
+      "src": "/images/ephesus-theater-from-above2-tb-n010501-700-1aao-1746403ac6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 94562,
+      "originalBytes": 143368
+    },
+    "https://www.magical-steps.com/contents/img/tour/st-sophia-1024_700_1aao.jpg": {
+      "src": "/images/st-sophia-1024-700-1aao-7217d2ea67.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 36692,
+      "originalBytes": 71391
+    },
+    "https://www.magical-steps.com/contents/img/tour/grand-bazaar1024_700_1aao.jpg": {
+      "src": "/images/grand-bazaar1024-700-1aao-5ae58a5bcb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 82756,
+      "originalBytes": 131398
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/kustur/2main_pool.jpg": {
+      "src": "/images/2main-pool-0ef8c53b21.webp",
+      "width": 1200,
+      "height": 795,
+      "bytes": 169320,
+      "originalBytes": 841368
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/e092d3f1_z.jpg": {
+      "src": "/images/e092d3f1-z-4ead226775.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 136084,
+      "originalBytes": 112454
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/5ffe7013_z.jpg": {
+      "src": "/images/5ffe7013-z-9bd328edbd.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 93130,
+      "originalBytes": 89192
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/40e8e6ad_z.jpg": {
+      "src": "/images/40e8e6ad-z-087918bb03.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 77138,
+      "originalBytes": 70948
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/1e528ff1_z.jpg": {
+      "src": "/images/1e528ff1-z-5f9d0a2fc3.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 53676,
+      "originalBytes": 46382
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/6329d957_z.jpg": {
+      "src": "/images/6329d957-z-72558571d0.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 101362,
+      "originalBytes": 88700
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/a0efa52a_z.jpg": {
+      "src": "/images/a0efa52a-z-5124b66e91.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 35806,
+      "originalBytes": 32584
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/5d07d766_z.jpg": {
+      "src": "/images/5d07d766-z-7f1b80c2a1.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 122588,
+      "originalBytes": 106118
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/elaresort/elabelek_generalview5_2019_large.jpg": {
+      "src": "/images/elabelek-generalview5-2019-large-42881d6164.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 278542,
+      "originalBytes": 584462
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/c9be9ae9_z.jpg": {
+      "src": "/images/c9be9ae9-z-45dd17a7f8.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 158044,
+      "originalBytes": 136864
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/elaresort/elabelek_lakehousearea25_2020_large.jpg": {
+      "src": "/images/elabelek-lakehousearea25-2020-large-7da8fc3b4a.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 195208,
+      "originalBytes": 476674
+    },
+    "https://www.magical-steps.com/contents/img/tour/nemrutda_700_16fs.jpg": {
+      "src": "/images/nemrutda-700-16fs-3bede08435.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 76776,
+      "originalBytes": 121524
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/elaresort/elabelek_generalview7_2019.jpg": {
+      "src": "/images/elabelek-generalview7-2019-1eb104bf36.webp",
+      "width": 1067,
+      "height": 1900,
+      "bytes": 367228,
+      "originalBytes": 472980
+    },
+    "https://www.magical-steps.com/contents/img/tour/urfa-halfeti_700_16fs.jpg": {
+      "src": "/images/urfa-halfeti-700-16fs-c332184550.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 64250,
+      "originalBytes": 107687
+    },
+    "https://www.magical-steps.com/contents/img/tour/antalya-kaleici_700_16fs.jpg": {
+      "src": "/images/antalya-kaleici-700-16fs-d02dd642a1.webp",
+      "width": 700,
+      "height": 377,
+      "bytes": 79510,
+      "originalBytes": 125004
+    },
+    "https://www.magical-steps.com/contents/img/tour/hatay-antakya-antioch_700_16fs.jpg": {
+      "src": "/images/hatay-antakya-antioch-700-16fs-43b891cc41.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51376,
+      "originalBytes": 93363
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/2020-11-15.jpg": {
+      "src": "/images/2020-11-15-0685ffde6a.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 492718,
+      "originalBytes": 756567
+    },
+    "https://www.magical-steps.com/contents/img/tour/diyarbakir_700_16fs.jpg": {
+      "src": "/images/diyarbakir-700-16fs-dcfee7178c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47546,
+      "originalBytes": 86373
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/innvista/general_view-19.jpg": {
+      "src": "/images/general-view-19-c923db04ce.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 162914,
+      "originalBytes": 469341
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/innvista/general_view-11.jpg": {
+      "src": "/images/general-view-11-f55edf9480.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 246414,
+      "originalBytes": 581162
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/504d5159_z.jpg": {
+      "src": "/images/504d5159-z-567b64347d.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 87900,
+      "originalBytes": 84088
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/innvista/general_view-14.jpg": {
+      "src": "/images/general-view-14-6ed43cd093.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 85864,
+      "originalBytes": 329838
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/bodrum-club-marma-hotel-room-standard-01.jpg": {
+      "src": "/images/bodrum-club-marma-hotel-room-standard-01-a73b35a8d8.webp",
+      "width": 1151,
+      "height": 712,
+      "bytes": 42962,
+      "originalBytes": 125377
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/2ad3bf00_z.jpg": {
+      "src": "/images/2ad3bf00-z-2ab2a5e9c9.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 78234,
+      "originalBytes": 84452
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/e0069261_z.jpg": {
+      "src": "/images/e0069261-z-fedc4a5ac2.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 69204,
+      "originalBytes": 74974
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/innvista/general_view-1.jpg": {
+      "src": "/images/general-view-1-8acf47cfb9.webp",
+      "width": 1200,
+      "height": 869,
+      "bytes": 264042,
+      "originalBytes": 702107
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/innvista/general_view-13.jpg": {
+      "src": "/images/general-view-13-ee4a538f9b.webp",
+      "width": 1387,
+      "height": 1173,
+      "bytes": 242444,
+      "originalBytes": 669552
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/1b2280c8_z.jpg": {
+      "src": "/images/1b2280c8-z-583b669f63.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 102708,
+      "originalBytes": 91002
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/club-marma-hotel-bodrum-turkey-2020-3-1536x963.jpg": {
+      "src": "/images/club-marma-hotel-bodrum-turkey-2020-3-1536x963-651a2d4ee4.webp",
+      "width": 1536,
+      "height": 963,
+      "bytes": 238236,
+      "originalBytes": 320557
+    },
+    "https://www.magical-steps.com/contents/img/tour/erzurum_700_18r4.jpg": {
+      "src": "/images/erzurum-700-18r4-72f651ce27.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 34852,
+      "originalBytes": 77477
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/381cdf00_z.jpg": {
+      "src": "/images/381cdf00-z-6f77c53c90.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 83778,
+      "originalBytes": 82032
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/0ee0b553_z.jpg": {
+      "src": "/images/0ee0b553-z-83b20562c1.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 104964,
+      "originalBytes": 92136
+    },
+    "https://www.magical-steps.com/contents/img/tour/van-kedisi_700_18r4.jpg": {
+      "src": "/images/van-kedisi-700-18r4-c6f038d49f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 17516,
+      "originalBytes": 48410
+    },
+    "https://www.magical-steps.com/contents/img/tour/antakya-arkeoloji-muzesi-1024_700_18r4.jpg": {
+      "src": "/images/antakya-arkeoloji-muzesi-1024-700-18r4-958340e77f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 83172,
+      "originalBytes": 125589
+    },
+    "https://www.magical-steps.com/contents/img/tour/dogu-beyaz-t-ishakpasa_700_18r4.jpg": {
+      "src": "/images/dogu-beyaz-t-ishakpasa-700-18r4-9b2c94a2a4.webp",
+      "width": 700,
+      "height": 468,
+      "bytes": 39502,
+      "originalBytes": 84686
+    },
+    "https://www.magical-steps.com/contents/img/tour/ani-harabeleri-kars_700_18r4.jpg": {
+      "src": "/images/ani-harabeleri-kars-700-18r4-e507f50a57.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 44402,
+      "originalBytes": 80192
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-celsus-library-1024_700_144g.jpg": {
+      "src": "/images/ephesus-celsus-library-1024-700-144g-0027c847f6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 58090,
+      "originalBytes": 102217
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-zelve_700_144g.jpg": {
+      "src": "/images/cappadocia-zelve-700-144g-b98380860d.webp",
+      "width": 600,
+      "height": 392,
+      "bytes": 51124,
+      "originalBytes": 87907
+    },
+    "https://www.magical-steps.com/contents/img/tour/pergamum_700_144g.jpg": {
+      "src": "/images/pergamum-700-144g-c8a9c7b0e3.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 35316,
+      "originalBytes": 74735
+    },
+    "https://www.magical-steps.com/contents/img/tour/priene-1024_700_144g.jpg": {
+      "src": "/images/priene-1024-700-144g-18b4882b93.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 44964,
+      "originalBytes": 84268
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/93ac9501_z.jpg": {
+      "src": "/images/93ac9501-z-4807b837dd.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 45004,
+      "originalBytes": 38520
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/2d4629b1_y.jpg": {
+      "src": "/images/2d4629b1-y-ac4f4c76a9.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 68296,
+      "originalBytes": 58648
+    },
+    "https://www.magical-steps.com/contents/img/tour/troy1024_700_144g.jpg": {
+      "src": "/images/troy1024-700-144g-775019ffda.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59128,
+      "originalBytes": 100644
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/5c82943d_z.jpg": {
+      "src": "/images/5c82943d-z-0c3ecbd7c7.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 77946,
+      "originalBytes": 73928
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/eaede2bd_z.jpg": {
+      "src": "/images/eaede2bd-z-74942ea254.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 77270,
+      "originalBytes": 67210
+    },
+    "https://www.magical-steps.com/contents/img/tour/sema-konya_700_19iw.jpg": {
+      "src": "/images/sema-konya-700-19iw-76a581f746.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 23764,
+      "originalBytes": 61934
+    },
+    "https://www.magical-steps.com/contents/img/tour/konya1024_700_19iw.jpg": {
+      "src": "/images/konya1024-700-19iw-808be7325e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 38708,
+      "originalBytes": 75120
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-celsus-library-1024_700_19iw.jpg": {
+      "src": "/images/ephesus-celsus-library-1024-700-19iw-adafd9585f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57686,
+      "originalBytes": 101989
+    },
+    "https://www.magical-steps.com/contents/img/tour/sultanahmet-blue-mosque-jpg-1024_700_19iw.jpg": {
+      "src": "/images/sultanahmet-blue-mosque-jpg-1024-700-19iw-9d0d18775c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50148,
+      "originalBytes": 89858
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-underground-cistern_700_19iw.jpg": {
+      "src": "/images/istanbul-underground-cistern-700-19iw-b9ec86a0fb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 69150,
+      "originalBytes": 114249
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-balloons-1024_700_ffk.jpg": {
+      "src": "/images/cappadocia-balloons-1024-700-ffk-4f7a181419.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 37792,
+      "originalBytes": 77133
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociaunderground1024_700_ffk.jpg": {
+      "src": "/images/cappadociaunderground1024-700-ffk-283f5bd5cb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 58632,
+      "originalBytes": 102587
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-tours1024_700_ffk.jpg": {
+      "src": "/images/cappadocia-tours1024-700-ffk-2c0cf91f16.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 61908,
+      "originalBytes": 106267
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/thesign/8415_6343_3115-img_5846-hdr.jpg": {
+      "src": "/images/8415-6343-3115-img-5846-hdr-fa7546e5b8.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 155758,
+      "originalBytes": 387642
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/thesign/6415_6344_5413-img_5999-hdr.jpg": {
+      "src": "/images/6415-6344-5413-img-5999-hdr-ce116b3936.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 148474,
+      "originalBytes": 365584
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia_700_ffk.jpg": {
+      "src": "/images/cappadocia-700-ffk-b486d85b4d.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 45364,
+      "originalBytes": 85145
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia2_700_ffk.jpg": {
+      "src": "/images/cappadocia2-700-ffk-edfb529080.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 48782,
+      "originalBytes": 92022
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/thesign/8915_6343_3109-img_5641-hdr.jpg": {
+      "src": "/images/8915-6343-3109-img-5641-hdr-9f87cb79f5.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 154104,
+      "originalBytes": 394850
+    },
+    "https://www.magical-steps.com/contents/img/tour/firing-up-the-balloon-1024_700_g7c.jpg": {
+      "src": "/images/firing-up-the-balloon-1024-700-g7c-1ab67bf71b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 25608,
+      "originalBytes": 56645
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-balloon1024_700_g7c.jpg": {
+      "src": "/images/cappadocia-balloon1024-700-g7c-727e6d8173.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57240,
+      "originalBytes": 102912
+    },
+    "https://www.magical-steps.com/contents/img/tour/bluemosque-ist-1024_700_14w8.jpg": {
+      "src": "/images/bluemosque-ist-1024-700-14w8-e55d7cce8b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 32506,
+      "originalBytes": 68564
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia2_700_g7c.jpg": {
+      "src": "/images/cappadocia2-700-g7c-464f4bf2bb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 48990,
+      "originalBytes": 91987
+    },
+    "https://www.magical-steps.com/contents/img/tour/troy-1024_700_14w8.jpg": {
+      "src": "/images/troy-1024-700-14w8-107cd0af4e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 89004,
+      "originalBytes": 133349
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-zelve_700_g7c.jpg": {
+      "src": "/images/cappadocia-zelve-700-g7c-6d67f77680.webp",
+      "width": 600,
+      "height": 392,
+      "bytes": 47776,
+      "originalBytes": 84806
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociaballoon1024_700_14w8.jpg": {
+      "src": "/images/cappadociaballoon1024-700-14w8-ba786fe254.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51542,
+      "originalBytes": 93576
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/atilla-rehber-tur_700_5p8w.jpg": {
+      "src": "/images/atilla-rehber-tur-700-5p8w-7c07f0a32e.webp",
+      "width": 700,
+      "height": 394,
+      "bytes": 36524,
+      "originalBytes": 60424
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre-1024_700_14w8.jpg": {
+      "src": "/images/ephesus-theatre-1024-700-14w8-0395a13134.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 85538,
+      "originalBytes": 130682
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkapi-palace-istanbul-jpg1024_700_14w8.jpg": {
+      "src": "/images/topkapi-palace-istanbul-jpg1024-700-14w8-8adcda1fa1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 74672,
+      "originalBytes": 118769
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/lois-pierce-ephesustour_700_5le0.jpg": {
+      "src": "/images/lois-pierce-ephesustour-700-5le0-28c2c82976.webp",
+      "width": 500,
+      "height": 684,
+      "bytes": 26224,
+      "originalBytes": 64571
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociatou1024_700_g7c.jpg": {
+      "src": "/images/cappadociatou1024-700-g7c-36e82d63cb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 71250,
+      "originalBytes": 117286
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/kevin-tina_500_7d340de3e5dd17a6811d0a277af40224.jpg": {
+      "src": "/images/kevin-tina-500-7d340de3e5dd17a6811d0a277af40224-eb6e71ee1e.webp",
+      "width": 500,
+      "height": 403,
+      "bytes": 10746,
+      "originalBytes": 139494
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/martha-walth_500_8fe50b9a18ca9cc33176f9294a600357.jpg": {
+      "src": "/images/martha-walth-500-8fe50b9a18ca9cc33176f9294a600357-59d9b9db26.webp",
+      "width": 500,
+      "height": 413,
+      "bytes": 18324,
+      "originalBytes": 150691
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/linda-becker_500_b056aeb05d9478e47c908fe6bb14aaa4.jpg": {
+      "src": "/images/linda-becker-500-b056aeb05d9478e47c908fe6bb14aaa4-3f238db1b7.webp",
+      "width": 500,
+      "height": 296,
+      "bytes": 17652,
+      "originalBytes": 120133
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/steve-azer_500_b0ff17cc57a9a9ba7a50801c0a83e25b.jpg": {
+      "src": "/images/steve-azer-500-b0ff17cc57a9a9ba7a50801c0a83e25b-4b18973610.webp",
+      "width": 500,
+      "height": 558,
+      "bytes": 23948,
+      "originalBytes": 210230
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/daniel-brooks_500_6d4f3f526e028db1dff18b4d2ca9ecb2.jpg": {
+      "src": "/images/daniel-brooks-500-6d4f3f526e028db1dff18b4d2ca9ecb2-548d8bbfe5.webp",
+      "width": 500,
+      "height": 594,
+      "bytes": 16534,
+      "originalBytes": 199693
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/jane-cage_500_205937c7e6921b26581ad742bf7f083d.jpg": {
+      "src": "/images/jane-cage-500-205937c7e6921b26581ad742bf7f083d-88614eda5a.webp",
+      "width": 500,
+      "height": 526,
+      "bytes": 27038,
+      "originalBytes": 205518
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/barbara-eckelmeyer_500_e846ae073ed33f7cd30320f54be25c7f.jpg": {
+      "src": "/images/barbara-eckelmeyer-500-e846ae073ed33f7cd30320f54be25c7f-7f2ecf955e.webp",
+      "width": 500,
+      "height": 318,
+      "bytes": 16300,
+      "originalBytes": 114893
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/jim-dangelo_500_b4a6dc2d325bc1c92cb2e50d8580d959.jpg": {
+      "src": "/images/jim-dangelo-500-b4a6dc2d325bc1c92cb2e50d8580d959-f94c477733.webp",
+      "width": 500,
+      "height": 700,
+      "bytes": 29576,
+      "originalBytes": 240925
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/peter-warren_500_2830361fe8f15f635d3fe9b187d22e18.jpg": {
+      "src": "/images/peter-warren-500-2830361fe8f15f635d3fe9b187d22e18-91ede987dc.webp",
+      "width": 500,
+      "height": 247,
+      "bytes": 11880,
+      "originalBytes": 91721
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/fotograf_500_c39e8f9881b296e45530a81f9c63199b.jpg": {
+      "src": "/images/fotograf-500-c39e8f9881b296e45530a81f9c63199b-d7066ab1dd.webp",
+      "width": 500,
+      "height": 243,
+      "bytes": 9652,
+      "originalBytes": 90317
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/diane_500_f0d1da10b7c11efa1c96302accce801e.jpg": {
+      "src": "/images/diane-500-f0d1da10b7c11efa1c96302accce801e-f050175ff1.webp",
+      "width": 500,
+      "height": 140,
+      "bytes": 6268,
+      "originalBytes": 47414
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/harold-funt_500_8537043bb29045f32dd71c21638d6941.jpg": {
+      "src": "/images/harold-funt-500-8537043bb29045f32dd71c21638d6941-2371567769.webp",
+      "width": 500,
+      "height": 498,
+      "bytes": 17722,
+      "originalBytes": 179238
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/robynjason1_500_4e52c7c4c0bd20e60f09501a4efbeb77.jpg": {
+      "src": "/images/robynjason1-500-4e52c7c4c0bd20e60f09501a4efbeb77-2718f7583f.webp",
+      "width": 500,
+      "height": 117,
+      "bytes": 3918,
+      "originalBytes": 37444
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/julia-wacther_500_6a43de2463c07e1a990fcb97b706fa30.jpg": {
+      "src": "/images/julia-wacther-500-6a43de2463c07e1a990fcb97b706fa30-f9ac4e538f.webp",
+      "width": 500,
+      "height": 255,
+      "bytes": 11458,
+      "originalBytes": 93130
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/jean-klan_500_057c590e27fe50d10922cb4e9fe7663f.jpg": {
+      "src": "/images/jean-klan-500-057c590e27fe50d10922cb4e9fe7663f-b2d2343575.webp",
+      "width": 500,
+      "height": 546,
+      "bytes": 15462,
+      "originalBytes": 181019
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/eileenpatterson_500_e5ac5001853755ba50614f0a05212ed3.jpg": {
+      "src": "/images/eileenpatterson-500-e5ac5001853755ba50614f0a05212ed3-d914f83b80.webp",
+      "width": 500,
+      "height": 484,
+      "bytes": 28228,
+      "originalBytes": 194416
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/cindivan_500_d999126c2eedf4b5f213f75709e4a34c.jpg": {
+      "src": "/images/cindivan-500-d999126c2eedf4b5f213f75709e4a34c-b4453bb8ec.webp",
+      "width": 500,
+      "height": 364,
+      "bytes": 20126,
+      "originalBytes": 140597
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/leon-butler_500_54fa8084ed4df98753658907c871d4ed.jpg": {
+      "src": "/images/leon-butler-500-54fa8084ed4df98753658907c871d4ed-bd3826e67e.webp",
+      "width": 500,
+      "height": 201,
+      "bytes": 7724,
+      "originalBytes": 73150
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/anne-mcmillan_500_9bb44ec4a5b3f01e4a123b85173dc08f.jpg": {
+      "src": "/images/anne-mcmillan-500-9bb44ec4a5b3f01e4a123b85173dc08f-373c3baac5.webp",
+      "width": 500,
+      "height": 244,
+      "bytes": 10970,
+      "originalBytes": 88509
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/enrique-alanis_500_944f31e3f770429605f0dcdbc4329a42.jpg": {
+      "src": "/images/enrique-alanis-500-944f31e3f770429605f0dcdbc4329a42-c3baf331f4.webp",
+      "width": 500,
+      "height": 264,
+      "bytes": 9406,
+      "originalBytes": 88784
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/kirsten-drebit_500_c9e1bc298dd0729ce98a4603df849973.jpg": {
+      "src": "/images/kirsten-drebit-500-c9e1bc298dd0729ce98a4603df849973-89a48d9f87.webp",
+      "width": 500,
+      "height": 330,
+      "bytes": 23702,
+      "originalBytes": 140918
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/felton-maughon_500_59963036b951f29c90399a6f3cb049ce.jpg": {
+      "src": "/images/felton-maughon-500-59963036b951f29c90399a6f3cb049ce-5b45875f89.webp",
+      "width": 500,
+      "height": 590,
+      "bytes": 25828,
+      "originalBytes": 213472
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/joancoovey_500_5cebb4080f4369e16be12163a1b91e77.jpg": {
+      "src": "/images/joancoovey-500-5cebb4080f4369e16be12163a1b91e77-3c52891ba5.webp",
+      "width": 500,
+      "height": 118,
+      "bytes": 6532,
+      "originalBytes": 50697
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/waimeima_500_a8b2a14623f29f54037de6c5d25e086c.jpg": {
+      "src": "/images/waimeima-500-a8b2a14623f29f54037de6c5d25e086c-97037bb1a9.webp",
+      "width": 500,
+      "height": 97,
+      "bytes": 3590,
+      "originalBytes": 35002
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/georgekee_500_35453ea2b1ca2e84b46850efb92fa397.jpg": {
+      "src": "/images/georgekee-500-35453ea2b1ca2e84b46850efb92fa397-fb52e8705e.webp",
+      "width": 500,
+      "height": 152,
+      "bytes": 5730,
+      "originalBytes": 55916
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/leanne-jan_500_d146bc0616ed19b7f48f38e5a9ef95cf.jpg": {
+      "src": "/images/leanne-jan-500-d146bc0616ed19b7f48f38e5a9ef95cf-4038b6d120.webp",
+      "width": 500,
+      "height": 380,
+      "bytes": 15778,
+      "originalBytes": 132868
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/sue-haft_500_724468f1c9664ce06f2e8f1cbc3f5dc7.jpg": {
+      "src": "/images/sue-haft-500-724468f1c9664ce06f2e8f1cbc3f5dc7-9033f309eb.webp",
+      "width": 500,
+      "height": 360,
+      "bytes": 14788,
+      "originalBytes": 135834
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/lindatrumpkin_500_838ab438017b4f6ee8eb68158717aa64.jpg": {
+      "src": "/images/lindatrumpkin-500-838ab438017b4f6ee8eb68158717aa64-db63c4ce84.webp",
+      "width": 500,
+      "height": 107,
+      "bytes": 8618,
+      "originalBytes": 49803
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/rachel-herbert_500_5b7364bf11110caa31c12a64c232ac86.jpg": {
+      "src": "/images/rachel-herbert-500-5b7364bf11110caa31c12a64c232ac86-e8840a6642.webp",
+      "width": 500,
+      "height": 159,
+      "bytes": 10068,
+      "originalBytes": 64579
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/denistrupkin_500_786923732ec38c04db796acb93526cd0.jpg": {
+      "src": "/images/denistrupkin-500-786923732ec38c04db796acb93526cd0-4d9676283d.webp",
+      "width": 500,
+      "height": 193,
+      "bytes": 8692,
+      "originalBytes": 69676
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/emily-hooper_500_e21de546a7fbb0d403528127d3da5927.jpg": {
+      "src": "/images/emily-hooper-500-e21de546a7fbb0d403528127d3da5927-1de47150b5.webp",
+      "width": 500,
+      "height": 223,
+      "bytes": 8922,
+      "originalBytes": 82668
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/dougadler_500_194cd7837bfb53e601fd64aede3dc62f.jpg": {
+      "src": "/images/dougadler-500-194cd7837bfb53e601fd64aede3dc62f-d9c10f7d1a.webp",
+      "width": 500,
+      "height": 481,
+      "bytes": 26364,
+      "originalBytes": 188590
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/gerald-buchanan_500_3d63dc23f80629e482cc8da7c081c368.jpg": {
+      "src": "/images/gerald-buchanan-500-3d63dc23f80629e482cc8da7c081c368-f110f32eb0.webp",
+      "width": 500,
+      "height": 475,
+      "bytes": 13194,
+      "originalBytes": 153403
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/hector-manzano_500_35eeaa6a40ab64c429fc86e5f087dba7.jpg": {
+      "src": "/images/hector-manzano-500-35eeaa6a40ab64c429fc86e5f087dba7-8f643fadb0.webp",
+      "width": 500,
+      "height": 435,
+      "bytes": 13924,
+      "originalBytes": 156399
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/jeff-knot_500_76a0aba2c5ab3491568c0fb731110c73.jpg": {
+      "src": "/images/jeff-knot-500-76a0aba2c5ab3491568c0fb731110c73-42b2214ca4.webp",
+      "width": 500,
+      "height": 147,
+      "bytes": 6716,
+      "originalBytes": 58133
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/sharonwitte_500_c4bbd2834e73a7579a8346cdf82806ae.jpg": {
+      "src": "/images/sharonwitte-500-c4bbd2834e73a7579a8346cdf82806ae-9bd9b06cd0.webp",
+      "width": 500,
+      "height": 288,
+      "bytes": 13396,
+      "originalBytes": 109470
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/teresaallen_500_ddc6671540afe65cca88819adb3d948a.jpg": {
+      "src": "/images/teresaallen-500-ddc6671540afe65cca88819adb3d948a-b409f051e6.webp",
+      "width": 500,
+      "height": 270,
+      "bytes": 8644,
+      "originalBytes": 92446
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/fotograf_500_76329e0e67df4d8dd6451d1ac938fdac.jpg": {
+      "src": "/images/fotograf-500-76329e0e67df4d8dd6451d1ac938fdac-9d76f47a0d.webp",
+      "width": 500,
+      "height": 373,
+      "bytes": 14098,
+      "originalBytes": 140390
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/148_500_a26fdd1f3f343a3012568c9f2769d013.jpg": {
+      "src": "/images/148-500-a26fdd1f3f343a3012568c9f2769d013-2209d94edf.webp",
+      "width": 500,
+      "height": 255,
+      "bytes": 10336,
+      "originalBytes": 82417
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/greg-bevscannell_500_fd8e906d63d7da9d536a7e0d90589b2f.jpg": {
+      "src": "/images/greg-bevscannell-500-fd8e906d63d7da9d536a7e0d90589b2f-596b3e00d0.webp",
+      "width": 500,
+      "height": 642,
+      "bytes": 21430,
+      "originalBytes": 228802
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/img-7670_500_e9986f168e45ee908721a8680587c52a.jpg": {
+      "src": "/images/img-7670-500-e9986f168e45ee908721a8680587c52a-c7c753fef4.webp",
+      "width": 500,
+      "height": 375,
+      "bytes": 36666,
+      "originalBytes": 188026
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/reviews/dsc04127_500_ed14a1155faeabc407c699360c8a7b7b.jpg": {
+      "src": "/images/dsc04127-500-ed14a1155faeabc407c699360c8a7b7b-184c357163.webp",
+      "width": 500,
+      "height": 760,
+      "bytes": 49966,
+      "originalBytes": 304964
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/doubletree/swimming-pool.jpg": {
+      "src": "/images/swimming-pool-71a5adb6a0.webp",
+      "width": 424,
+      "height": 314,
+      "bytes": 16692,
+      "originalBytes": 46019
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/doubletree/panorama-restaurant.jpg": {
+      "src": "/images/panorama-restaurant-331ed3049a.webp",
+      "width": 424,
+      "height": 314,
+      "bytes": 24736,
+      "originalBytes": 61240
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/doubletree/garden-area.jpg": {
+      "src": "/images/garden-area-be80c52342.webp",
+      "width": 424,
+      "height": 314,
+      "bytes": 35004,
+      "originalBytes": 76886
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/c1.jpg": {
+      "src": "/images/c1-b678271ec9.webp",
+      "width": 1024,
+      "height": 634,
+      "bytes": 31746,
+      "originalBytes": 73655
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/4b7e717d_z.jpg": {
+      "src": "/images/4b7e717d-z-09bdbe86d7.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 96796,
+      "originalBytes": 93682
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/9f706c9f_z.jpg": {
+      "src": "/images/9f706c9f-z-59e78105a4.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 46020,
+      "originalBytes": 46608
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/8b41f403_z.jpg": {
+      "src": "/images/8b41f403-z-b3181f6f09.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 101880,
+      "originalBytes": 89244
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/eceb20db_z.jpg": {
+      "src": "/images/eceb20db-z-30597fb5af.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 64002,
+      "originalBytes": 64796
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/c9b4cc57_z.jpg": {
+      "src": "/images/c9b4cc57-z-45ddfd4235.webp",
+      "width": 1000,
+      "height": 666,
+      "bytes": 116934,
+      "originalBytes": 98758
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/manastir/1.jpg": {
+      "src": "/images/1-d59469b5f6.webp",
+      "width": 1368,
+      "height": 641,
+      "bytes": 150274,
+      "originalBytes": 212308
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/marinavista/king-one-bedroom-suite.jpg": {
+      "src": "/images/king-one-bedroom-suite-dccc1068e5.webp",
+      "width": 1440,
+      "height": 810,
+      "bytes": 55838,
+      "originalBytes": 209314
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/i1.jpg": {
+      "src": "/images/i1-2aef69449b.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 35850,
+      "originalBytes": 109857
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/salmakis_oda.jpg": {
+      "src": "/images/salmakis-oda-53ae59b2b4.webp",
+      "width": 950,
+      "height": 633,
+      "bytes": 99304,
+      "originalBytes": 171400
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/manastir/2.jpg": {
+      "src": "/images/2-5b42fbff7f.webp",
+      "width": 1368,
+      "height": 641,
+      "bytes": 179732,
+      "originalBytes": 245235
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/manastir_.jpg": {
+      "src": "/images/manastir-97330823e7.webp",
+      "width": 1368,
+      "height": 641,
+      "bytes": 135892,
+      "originalBytes": 246866
+    },
+    "https://www.magical-steps.com/contents/img/tour/1200px-laodikeia-repr-sentative-anlage_700_2t2w.jpg": {
+      "src": "/images/1200px-laodikeia-repr-sentative-anlage-700-2t2w-78b5f41f7b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46390,
+      "originalBytes": 86230
+    },
+    "https://www.magical-steps.com/contents/img/tour/7_700_2pzs.jpg": {
+      "src": "/images/7-700-2pzs-1f50121ef4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 27842,
+      "originalBytes": 63663
+    },
+    "https://www.magical-steps.com/contents/img/tour/26396396_700_27h4.jpg": {
+      "src": "/images/26396396-700-27h4-6d090caae9.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47302,
+      "originalBytes": 84129
+    },
+    "https://www.magical-steps.com/contents/img/tour/a3a34e99f81bb094048092ae02c8c170_700_2t2w.jpg": {
+      "src": "/images/a3a34e99f81bb094048092ae02c8c170-700-2t2w-43bf0af65f.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 82786,
+      "originalBytes": 129100
+    },
+    "https://www.magical-steps.com/contents/img/tour/an-tkabir-ankara1024_700_15o0.jpg": {
+      "src": "/images/an-tkabir-ankara1024-700-15o0-6f47e201ce.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 28648,
+      "originalBytes": 68076
+    },
+    "https://www.magical-steps.com/contents/img/geziturlar/hotel/marinavista/balcony.jpg": {
+      "src": "/images/balcony-dc4ae8c733.webp",
+      "width": 1440,
+      "height": 810,
+      "bytes": 192224,
+      "originalBytes": 483653
+    },
+    "https://www.magical-steps.com/contents/img/tour/anzac2-1024x768-1024x768_700_2pzs.jpg": {
+      "src": "/images/anzac2-1024x768-1024x768-700-2pzs-1d5405b062.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 31120,
+      "originalBytes": 69209
+    },
+    "https://www.magical-steps.com/contents/img/tour/artemis-temple1024_700_21aw.jpg": {
+      "src": "/images/artemis-temple1024-700-21aw-1f108a674b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 46150,
+      "originalBytes": 84823
+    },
+    "https://www.magical-steps.com/contents/img/tour/ayasofya1024_700_13co.jpg": {
+      "src": "/images/ayasofya1024-700-13co-95ebab5540.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59168,
+      "originalBytes": 106305
+    },
+    "https://www.magical-steps.com/contents/img/tour/bal-kl-g-l_700_2sb4.jpg": {
+      "src": "/images/bal-kl-g-l-700-2sb4-9ad9b49643.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49296,
+      "originalBytes": 89634
+    },
+    "https://www.magical-steps.com/contents/img/tour/ayasofya1024_700_177k.jpg": {
+      "src": "/images/ayasofya1024-700-177k-ed93b85f57.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 62210,
+      "originalBytes": 109233
+    },
+    "https://www.magical-steps.com/contents/img/tour/basilica-of-st-john_700_21aw.jpg": {
+      "src": "/images/basilica-of-st-john-700-21aw-6e752fc074.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 49432,
+      "originalBytes": 89907
+    },
+    "https://www.magical-steps.com/contents/img/tour/canakkale-1-6543889762_700_2pzs.jpg": {
+      "src": "/images/canakkale-1-6543889762-700-2pzs-16491e801e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 79394,
+      "originalBytes": 124722
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia-tours1024_700_13co.jpg": {
+      "src": "/images/cappadocia-tours1024-700-13co-c863d10501.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 64558,
+      "originalBytes": 109387
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia2_700_r08.jpg": {
+      "src": "/images/cappadocia2-700-r08-eb8eac22ff.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 48572,
+      "originalBytes": 91924
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociagoreme1024_700_r08.jpg": {
+      "src": "/images/cappadociagoreme1024-700-r08-f808003ba1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 80666,
+      "originalBytes": 124702
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadocia1024_700_r08.jpg": {
+      "src": "/images/cappadocia1024-700-r08-c279450acb.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57482,
+      "originalBytes": 101300
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociaunderground1024_700_13co.jpg": {
+      "src": "/images/cappadociaunderground1024-700-13co-694f8cf66e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 58688,
+      "originalBytes": 102523
+    },
+    "https://www.magical-steps.com/contents/img/tour/cappadociaunderground1024_700_1is8.jpg": {
+      "src": "/images/cappadociaunderground1024-700-1is8-c1bb25272b.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 59300,
+      "originalBytes": 102805
+    },
+    "https://www.magical-steps.com/contents/img/tour/corum-hattusas-yazilikaya02_700_15o0.jpg": {
+      "src": "/images/corum-hattusas-yazilikaya02-700-15o0-de948ba73d.webp",
+      "width": 700,
+      "height": 317,
+      "bytes": 85496,
+      "originalBytes": 122940
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-celsus-library-1024_700_1is8.jpg": {
+      "src": "/images/ephesus-celsus-library-1024-700-1is8-5edfed3cc5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56854,
+      "originalBytes": 101074
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-1024_700_r08.jpg": {
+      "src": "/images/ephesus-1024-700-r08-a3de5090b5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 97958,
+      "originalBytes": 145275
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus-theatre-1024_700_12kw.jpg": {
+      "src": "/images/ephesus-theatre-1024-700-12kw-f7db6f950c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 83076,
+      "originalBytes": 127855
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesus_700_21aw.jpg": {
+      "src": "/images/ephesus-700-21aw-e8b9f6f5d5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 97712,
+      "originalBytes": 145947
+    },
+    "https://www.magical-steps.com/contents/img/tour/ephesusgateofmazeus_700_21aw.jpg": {
+      "src": "/images/ephesusgateofmazeus-700-21aw-d0c999eeb0.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50198,
+      "originalBytes": 95182
+    },
+    "https://www.magical-steps.com/contents/img/tour/eyyup-peygamber1-ifal-kuyu_700_2sb4.jpg": {
+      "src": "/images/eyyup-peygamber1-ifal-kuyu-700-2sb4-4477be2f17.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 52392,
+      "originalBytes": 95133
+    },
+    "https://www.magical-steps.com/contents/img/tour/gallipoli-tours-9_700_2pzs.jpg": {
+      "src": "/images/gallipoli-tours-9-700-2pzs-25e9bc08b7.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 84656,
+      "originalBytes": 128240
+    },
+    "https://www.magical-steps.com/contents/img/tour/grand-bazaar-1024_700_12kw.jpg": {
+      "src": "/images/grand-bazaar-1024-700-12kw-94773bac73.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 96396,
+      "originalBytes": 146118
+    },
+    "https://www.magical-steps.com/contents/img/tour/grotto-1_700_1lvc.jpg": {
+      "src": "/images/grotto-1-700-1lvc-c1dd687bda.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60828,
+      "originalBytes": 104096
+    },
+    "https://www.magical-steps.com/contents/img/tour/halepli-bah-e-mozaik-m-zesi_700_2sb4.jpg": {
+      "src": "/images/halepli-bah-e-mozaik-m-zesi-700-2sb4-533c55f1ab.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 74294,
+      "originalBytes": 116770
+    },
+    "https://www.magical-steps.com/contents/img/tour/harran-evleri_700_2sb4.jpg": {
+      "src": "/images/harran-evleri-700-2sb4-4e6ac8a528.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56898,
+      "originalBytes": 99954
+    },
+    "https://www.magical-steps.com/contents/img/tour/haleplibah-e-mozaik-m-zesi_700_2sb4.jpg": {
+      "src": "/images/haleplibah-e-mozaik-m-zesi-700-2sb4-4f605876b6.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 82948,
+      "originalBytes": 125743
+    },
+    "https://www.magical-steps.com/contents/img/tour/house-of-virgin-mary_700_r08.jpg": {
+      "src": "/images/house-of-virgin-mary-700-r08-327a22c838.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 57242,
+      "originalBytes": 102006
+    },
+    "https://www.magical-steps.com/contents/img/tour/img-3114_700_2pzs.jpg": {
+      "src": "/images/img-3114-700-2pzs-20bc2842ea.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 93302,
+      "originalBytes": 140613
+    },
+    "https://www.magical-steps.com/contents/img/tour/insuyucave_700_288w.jpg": {
+      "src": "/images/insuyucave-700-288w-5536feb655.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 54592,
+      "originalBytes": 99874
+    },
+    "https://www.magical-steps.com/contents/img/tour/img_700_2t2w.jpg": {
+      "src": "/images/img-700-2t2w-619e849c89.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 75276,
+      "originalBytes": 122566
+    },
+    "https://www.magical-steps.com/contents/img/tour/insuyu-cave_700_288w.jpg": {
+      "src": "/images/insuyu-cave-700-288w-43c453d152.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 34042,
+      "originalBytes": 74660
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-blue-mosque-jpg1024_700_13co.jpg": {
+      "src": "/images/istanbul-blue-mosque-jpg1024-700-13co-aa5cf4f624.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 52412,
+      "originalBytes": 92134
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-bosphorus02_700_1is8.jpg": {
+      "src": "/images/istanbul-bosphorus02-700-1is8-5d51bd9caf.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56696,
+      "originalBytes": 100678
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-suleymaniye-mosque-interior_700_177k.jpg": {
+      "src": "/images/istanbul-suleymaniye-mosque-interior-700-177k-a10ea00419.webp",
+      "width": 612,
+      "height": 392,
+      "bytes": 55128,
+      "originalBytes": 89978
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul1024_700_177k.jpg": {
+      "src": "/images/istanbul1024-700-177k-74ef565616.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 47376,
+      "originalBytes": 91568
+    },
+    "https://www.magical-steps.com/contents/img/tour/istanbul-st-sofia_700_1is8.jpg": {
+      "src": "/images/istanbul-st-sofia-700-1is8-52b3af26db.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 81960,
+      "originalBytes": 128084
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir-agora-from-outside-turkey_700_27h4.jpg": {
+      "src": "/images/izmir-agora-from-outside-turkey-700-27h4-202d6b350a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 81156,
+      "originalBytes": 129554
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir-ephesus-hadrians-tempel_700_15o0.jpg": {
+      "src": "/images/izmir-ephesus-hadrians-tempel-700-15o0-812335b0f4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60186,
+      "originalBytes": 104761
+    },
+    "https://www.magical-steps.com/contents/img/tour/izmir12_700_27h4.jpg": {
+      "src": "/images/izmir12-700-27h4-24045e5264.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 63234,
+      "originalBytes": 107758
+    },
+    "https://www.magical-steps.com/contents/img/tour/jfi6qrrujyq01_700_2t2w.jpg": {
+      "src": "/images/jfi6qrrujyq01-700-2t2w-a8c8e79e00.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 108868,
+      "originalBytes": 155529
+    },
+    "https://www.magical-steps.com/contents/img/tour/karatay-medresesi-konya_700_15o0.jpg": {
+      "src": "/images/karatay-medresesi-konya-700-15o0-b7e2dbfda2.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 61964,
+      "originalBytes": 102280
+    },
+    "https://www.magical-steps.com/contents/img/tour/konya1024_700_15o0.jpg": {
+      "src": "/images/konya1024-700-15o0-80df78ae77.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 37720,
+      "originalBytes": 74118
+    },
+    "https://www.magical-steps.com/contents/img/tour/kilise_700_1lvc.jpg": {
+      "src": "/images/kilise-700-1lvc-8c3bd37c2e.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 60750,
+      "originalBytes": 101325
+    },
+    "https://www.magical-steps.com/contents/img/tour/kizlaragasi_700_27h4.jpg": {
+      "src": "/images/kizlaragasi-700-27h4-4549736596.webp",
+      "width": 700,
+      "height": 381,
+      "bytes": 74738,
+      "originalBytes": 123590
+    },
+    "https://www.magical-steps.com/contents/img/tour/kusadasi-mary-house_700_21aw.jpg": {
+      "src": "/images/kusadasi-mary-house-700-21aw-32ccf103b4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 92602,
+      "originalBytes": 139147
+    },
+    "https://www.magical-steps.com/contents/img/tour/marys-house-023_700_12kw.jpg": {
+      "src": "/images/marys-house-023-700-12kw-977b735c65.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 71812,
+      "originalBytes": 116775
+    },
+    "https://www.magical-steps.com/contents/img/tour/mary-house-1024_700_1is8.jpg": {
+      "src": "/images/mary-house-1024-700-1is8-cc4079726a.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 107240,
+      "originalBytes": 155937
+    },
+    "https://www.magical-steps.com/contents/img/tour/meryem-ana_700_1lvc.jpg": {
+      "src": "/images/meryem-ana-700-1lvc-7e8c664847.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 79284,
+      "originalBytes": 123932
+    },
+    "https://www.magical-steps.com/contents/img/tour/pamukkale-ancient-hierapolis-3612763290_700_2t2w.jpg": {
+      "src": "/images/pamukkale-ancient-hierapolis-3612763290-700-2t2w-42908a90c1.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 90060,
+      "originalBytes": 134882
+    },
+    "https://www.magical-steps.com/contents/img/tour/rumeli-hisari-1024_700_177k.jpg": {
+      "src": "/images/rumeli-hisari-1024-700-177k-b0d5f2f3f5.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 69156,
+      "originalBytes": 110581
+    },
+    "https://www.magical-steps.com/contents/img/tour/sagalassos-1_700_290o.jpg": {
+      "src": "/images/sagalassos-1-700-290o-b9ba11c8ac.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 80716,
+      "originalBytes": 128059
+    },
+    "https://www.magical-steps.com/contents/img/tour/sagalassos-02_700_290o.jpg": {
+      "src": "/images/sagalassos-02-700-290o-1948d95959.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 71196,
+      "originalBytes": 114009
+    },
+    "https://www.magical-steps.com/contents/img/tour/salda-golu-7_700_288w.jpg": {
+      "src": "/images/salda-golu-7-700-288w-f5fd96c694.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 73238,
+      "originalBytes": 114048
+    },
+    "https://www.magical-steps.com/contents/img/tour/salda-001_700_288w.jpg": {
+      "src": "/images/salda-001-700-288w-a20a6e07ca.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 56724,
+      "originalBytes": 92870
+    },
+    "https://www.magical-steps.com/contents/img/tour/ssagalassos-1_700_290o.jpg": {
+      "src": "/images/ssagalassos-1-700-290o-562b5ed3cc.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 80702,
+      "originalBytes": 124485
+    },
+    "https://www.magical-steps.com/contents/img/tour/suleymaniyecami1024_700_12kw.jpg": {
+      "src": "/images/suleymaniyecami1024-700-12kw-0e8c87117c.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 37552,
+      "originalBytes": 72911
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkap-palace-1024_700_177k.jpg": {
+      "src": "/images/topkap-palace-1024-700-177k-956dfb86ad.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 50404,
+      "originalBytes": 93573
+    },
+    "https://www.magical-steps.com/contents/img/tour/topkapi-palace-istanbul-jpg1024_700_12kw.jpg": {
+      "src": "/images/topkapi-palace-istanbul-jpg1024-700-12kw-4141284480.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 74596,
+      "originalBytes": 118731
+    },
+    "https://www.magical-steps.com/contents/img/tour/tiyatro_700_1lvc.png": {
+      "src": "/images/tiyatro-700-1lvc-92c7b2e307.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 68260,
+      "originalBytes": 557478
+    },
+    "https://www.magical-steps.com/contents/img/tour/sagalassos-antik-kenti-servet-uygun_700_288w.jpg": {
+      "src": "/images/sagalassos-antik-kenti-servet-uygun-700-288w-3abce7ae19.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 91794,
+      "originalBytes": 138605
+    },
+    "https://www.magical-steps.com/contents/img/tour/st-jean_700_1lvc.jpg": {
+      "src": "/images/st-jean-700-1lvc-26cb99d4d4.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 33264,
+      "originalBytes": 71152
+    },
+    "https://www.magical-steps.com/contents/img/tour/spice-bazaar1024_700_13co.jpg": {
+      "src": "/images/spice-bazaar1024-700-13co-24b0880e96.webp",
+      "width": 700,
+      "height": 392,
+      "bytes": 51632,
+      "originalBytes": 93491
+    }
+  },
+  "featured": {
+    "hero": "/images/tour-slide-c9ae4a7398.webp",
+    "logo": "/images/magical-steps-travel-8fc7032727.webp",
+    "ephesus": "/images/tour-slide-c9ae4a7398.webp",
+    "pamukkale": "/images/travertine-terraces-of-pamukkale-turkey-oceancorbis-700-222o-b2fff9285a.webp",
+    "sailing": "/images/sailing-gulet-2-f5e40a809e.webp",
+    "hotel": "/images/hotel-slide-dd5f1484b0.webp",
+    "transfer": "/images/airport-transfer-header-aab3a74ad9.webp",
+    "istanbul": "/images/sultanahmet-istanbul-700-pgo-45ed692ba0.webp",
+    "cappadocia": "/images/cappadocia-balloons-1024-700-g7c-a608ceea1f.webp",
+    "video": "/images/m-2-23756fbb37.webp"
+  },
+  "videos": [
+    {
+      "id": "rTg327OWlzM",
+      "url": "https://youtube.com/shorts/rTg327OWlzM?si=MisgO9yhDTnAkUyA",
+      "title": "10 October 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-2-23756fbb37.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-2.jpg",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fyoutube.com%2Fshorts%2FrTg327OWlzM%3Fsi%3DMisgO9yhDTnAkUyA&format=json"
+    },
+    {
+      "id": "zNOLkoOtBko",
+      "url": "https://youtube.com/shorts/zNOLkoOtBko?si=QEkXDqaj5bT4W9Wr",
+      "title": "9 October 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-3-290f416f15.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-3.jpg",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fyoutube.com%2Fshorts%2FzNOLkoOtBko%3Fsi%3DQEkXDqaj5bT4W9Wr&format=json"
+    },
+    {
+      "id": "-pcMpZZFivw",
+      "url": "https://youtube.com/shorts/-pcMpZZFivw?si=Z-jUERLVdbsWLkOA",
+      "title": "7 October 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-1-0e8142d5e9.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-1.jpg",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fyoutube.com%2Fshorts%2F-pcMpZZFivw%3Fsi%3DZ-jUERLVdbsWLkOA&format=json"
+    },
+    {
+      "id": "tcf5-U3PFqo",
+      "url": "https://www.youtube.com/shorts/tcf5-U3PFqo",
+      "title": "25 October 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-5-7d8b02f4ab.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-5.jpg",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fshorts%2Ftcf5-U3PFqo&format=json"
+    },
+    {
+      "id": "KZMyWJ53OIU",
+      "url": "https://www.youtube.com/shorts/KZMyWJ53OIU",
+      "title": "28 October 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-6-a-9543e284ac.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-6-a.jpg",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fshorts%2FKZMyWJ53OIU&format=json"
+    },
+    {
+      "id": "lQG5INHX5P8",
+      "url": "https://www.youtube.com/shorts/lQG5INHX5P8",
+      "title": "1 November 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-7-b9b61c1fa0.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-7.png",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fshorts%2FlQG5INHX5P8&format=json"
+    },
+    {
+      "id": "Qn_pd_vaF9A",
+      "url": "https://www.youtube.com/shorts/Qn_pd_vaF9A",
+      "title": "7 November 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-8-c769099d29.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-8.png",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fshorts%2FQn_pd_vaF9A&format=json"
+    },
+    {
+      "id": "9Eq6asitbpE",
+      "url": "https://www.youtube.com/shorts/9Eq6asitbpE",
+      "title": "16 November 2025",
+      "author": "Ephesus Tours",
+      "src": "/images/m-9-c78d4276d9.webp",
+      "sourceThumbnailUrl": "https://www.magical-steps.com/contents/img/temp/video/m-9.jpg",
+      "metadataSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fshorts%2F9Eq6asitbpE&format=json"
+    }
+  ],
+  "generatedAt": "2026-11-11T19:10:54.068Z",
+  "quality": 80,
+  "stats": {
+    "count": 585,
+    "originalBytes": 78866798,
+    "optimizedBytes": 42816254,
+    "savedPercent": 45.7,
+    "largerThanOriginal": 53,
+    "verifiedFiles": 585,
+    "alphaOutputs": 7
+  },
+  "failures": [
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/030b1196_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/6bbcc7bc_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/0ec1efff_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/802be046_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/3ce06a6c_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/298d7a8b_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/537b8301_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/0d73f2bf_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/c9f3ab46_z.jpg",
+      "error": "Source returned an empty file"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/msc-crociere-msc-bellissima-01.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/msc-crociere-msc-armonia-01.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.magical-steps.com/images/ui/tripadvisor_like.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.magical-steps.com/contents/img/temp/resimyok.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

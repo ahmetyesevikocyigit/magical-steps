@@ -1,0 +1,326 @@
+{
+  "date": "2026-11-12",
+  "changes": [
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "en",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "tr",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "fr",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "de",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "nl",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "ru",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "en",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "tr",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "fr",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "de",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "nl",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "ru",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "en",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "tr",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "fr",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "de",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "nl",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "ru",
+      "field": "description",
+      "reason": "Rewritten from recovered hotel summary"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "en",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "tr",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "fr",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "de",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "nl",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "ru",
+      "field": "bodyHtml",
+      "reason": "Expanded only the source location/facilities; enquiry guidance is new editorial copy"
+    }
+  ],
+  "completedSourceLimitedPages": [
+    {
+      "id": "kustur-holiday-club-village",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/kustur-holiday-club-village.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/manastir-hotel-suites.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/adam-amp;-eve-all-inclusive-adults-only.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "aquaworld-belek",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/aquaworld-belek.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/bodrum-holiday-resortamp;spa.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "club-marma-hotel",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/club-marma-hotel.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/crystal-sunrise-queen-luxury-resort-amp;-spa-all-inclusive.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "d-maris-bay",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/d-maris-bay.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/doubletree-by-hilton-bodrum-isil-club-resort.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/doubletree-by-hilton-bodrum-marina-vista.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/ela-quality-resort-belek-all-inclusive.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/grand-park-lara-all-inclusive.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/grand-yazici-club-turban.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/grand-yazici-marmaris-palace-all-inclusive.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "innvista-hotel",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/innvista-hotel.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/kimeros-park-holiday-village.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/marmaris-bay-resort.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/salmakis-resort-amp;-spa.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/sunrise-resort-hotel-all-inclusive.html",
+      "additionalSource": null,
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "kind": "expanded-source-summary",
+      "sourceUrl": "https://www.magical-steps.com/crystal-family-resortspa-all-inclusive.html",
+      "additionalSource": "https://crystalhotels.com.tr/oteller/crystal-family",
+      "checkedAt": "2026-11-12",
+      "note": "No lost long-form hotel text was recovered. Existing summary expanded, current availability unverified."
+    },
+    {
+      "id": "bus-transfer",
+      "kind": "new-enquiry-guidance",
+      "sourceUrl": "https://www.magical-steps.com/bus-transfer.html",
+      "note": "No original itinerary, route, capacity or tariff available."
+    }
+  ],
+  "unrecoveredOriginalBlogPosts": [
+    "the-history-of-ephesus",
+    "the-terrace-houses-of-ephesus",
+    "the-temple-of-artemis-ephesus",
+    "the-house-of-the-virgin-mary-ephesus",
+    "mary-magdalene",
+    "sirince-village-ephesus"
+  ],
+  "translationLimit": "Long-form source translations remain; targeted terminology and visible summaries are reviewed, not a full native-language editorial certification."
+}

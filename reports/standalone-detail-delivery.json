@@ -1,0 +1,51 @@
+{
+  "at": "2026-11-13T11:29:20.172533+00:00",
+  "deployment": "dpl_4X8pbaRDP3h7rrd79MkSEzKtyC2v",
+  "url": "https://magical-steps.vercel.app",
+  "status": "READY",
+  "sourceBuildId": "4NNiu4ywkEtOgVkVKCIXh",
+  "tests": {
+    "journey": 10,
+    "productionBuild": "passed",
+    "typecheck": "passed",
+    "localDetailRoutes": 24,
+    "liveDetailRoutes": 24,
+    "routeFailures": 0
+  },
+  "browser": {
+    "cardToPage": [
+      "tour",
+      "hotel",
+      "sailing",
+      "transfer"
+    ],
+    "dialogCount": 0,
+    "hotelPrimaryRequestLinks": 1,
+    "backFilter": "Cappadocia retained",
+    "mobileWidths": [
+      360,
+      390
+    ],
+    "mobileRequest": "Only appears after intro leaves view; hides at form; scroll/focus to form verified"
+  },
+  "lighthouse": {
+    "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+    "median": {
+      "mobile": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "desktop": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      }
+    },
+    "runs": 6,
+    "environment": "local production build"
+  },
+  "sourceBackup": "/private/tmp/magical-standalone-before-20261113"
+}

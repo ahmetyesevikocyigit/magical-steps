@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-12",
+  "reviewedProgramIds": [
+    "cappadocia-tours-from-istanbul",
+    "seven-churches-tour",
+    "ephesus-house-of-the-virgin-mary-and-sirince-village",
+    "pamukkale-tours-from-kusadasi",
+    "full-day-istanbul-tour-marvelous-istanbul-tour",
+    "priene-miletos-didyma-tour",
+    "gobeklitepe-tours"
+  ],
+  "scope": "Turkish itinerary paragraphs rewritten from source. Every destination/visit retained; unverifiable historical superlatives removed. Source sourceUrl and original HTML remain in catalog.json. Price tables and service lists untouched."
+}

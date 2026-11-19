@@ -1,0 +1,32 @@
+[
+  {
+    "locale": "en",
+    "url": "http://127.0.0.1:3000/tours?category=ephesus-tours",
+    "heading": "Ephesus tours"
+  },
+  {
+    "locale": "tr",
+    "url": "http://127.0.0.1:3000/tr/tours?category=ephesus-tours",
+    "heading": "Efes turları"
+  },
+  {
+    "locale": "fr",
+    "url": "http://127.0.0.1:3000/fr/tours?category=ephesus-tours",
+    "heading": "Circuits à Éphèse"
+  },
+  {
+    "locale": "de",
+    "url": "http://127.0.0.1:3000/de/tours?category=ephesus-tours",
+    "heading": "Reisen nach Ephesus"
+  },
+  {
+    "locale": "nl",
+    "url": "http://127.0.0.1:3000/nl/tours?category=ephesus-tours",
+    "heading": "Reizen naar Efeze"
+  },
+  {
+    "locale": "ru",
+    "url": "http://127.0.0.1:3000/ru/tours?category=ephesus-tours",
+    "heading": "Туры: Эфес"
+  }
+]

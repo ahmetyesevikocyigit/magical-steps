@@ -1,0 +1,42 @@
+"""Editorial Turkish programmes; source stops/operational details retained.
+Source price tables and inclusions are not changed by this script.
+"""
+import json,re
+from pathlib import Path
+root=Path(__file__).resolve().parents[1]; path=root/'src/data/translation-overrides.json'; data=json.loads(path.read_text())
+programs={
+'cappadocia-tours-from-istanbul':[
+('1. Gün · İstanbul’dan Kapadokya’ya','İstanbul’daki otelinden havalimanına transferin ardından Nevşehir’e uçuş. Havalimanında karşılanarak Ürgüp’e geçersin. Günün ilk durakları Devrent Vadisi ve kayalara oyulmuş evleriyle Zelve Açık Hava Müzesi. Zelve’deki Selçuklu camisini gördükten sonra Avanos’ta geleneksel çömlek yapımını izleyebilir, Peribağları’nın peribacalarını keşfedebilirsin. Mağara restorandaki öğle yemeğinin ardından Uçhisar Kalesi ve Göreme Vadisi’ne bakan Esentepe ziyaret edilir. Göreme Açık Hava Müzesi’nin kaya kiliseleri, freskleri ve manastırlarıyla gün tamamlanır. Konaklama Ürgüp’teki mağara otelde.'),
+('2. Gün · Derinkuyu ve Ihlara Vadisi','Sabah 9.00’da otelden hareket ederek küçük grup turuna katılırsın. Derinkuyu Yeraltı Şehri’nin ardından volkanik krater gölü Narlıgöl ziyaret edilir. Ihlara Vadisi’nde yürüyüş ve Belisırma Köyü’nde öğle yemeği için zaman ayrılır. Öğleden sonra Selime’den vadi manzarasını seyredebilir, eski İpek Yolu üzerindeki 13. yüzyıl Selçuklu yapısı Ağzıkarahan’ı görebilirsin. Gün sonunda Ürgüp’teki mağara otele dönüş.'),
+('3. Gün · Kaymaklı, Soğanlı ve İstanbul’a dönüş','Otelden hareketle Kaymaklı Yeraltı Şehri’ne gidilir. Çok katlı yerleşimin mutfakları, depoları, şarap üretim alanları ve ahırları gezilir. Soğanlı Vadisi’nde yaklaşık 3 km’lik yürüyüş sırasında Bizans döneminin kaya mezarlarını görebilirsin. Sonraki duraklar; 5. yüzyıl Roma hamamı ve Bizans mozaikleriyle Sobesos, Taşkınpaşa Medresesi ve 8. ile 12. yüzyıllara uzanan kiliseleriyle Keşlik Manastırı. Son olarak, eski adı Sinasos olan Mustafapaşa’da Osmanlı ve Rum mimarisinin izlerini keşfedersin. Nevşehir Havalimanı’na transfer, İstanbul’a uçuş ve İstanbul’daki oteline dönüşle program tamamlanır.')],
+'seven-churches-tour':[
+('1. Gün · Thyatira, Sardes, Philadelphia ve Hierapolis','Sabah İstanbul’dan İzmir’e uçuşun ardından Yedi Kilise rotasının ilk duraklarına geçilir. Thyatira’yı, Lidya Krallığı’nın başkenti Sardes’i ve Philadelphia’yı ziyaret edersin. Öğleden sonra Pamukkale’deki Hierapolis Antik Kenti gezilir. Geceleme Pamukkale’de termal oteldedir.'),
+('2. Gün · Laodikeia, Efes ve Meryem Ana Evi','Laodikeia ziyaretinin ardından Efes’e doğru yola çıkılır. Antik kentte kapsamlı bir gezi yapılır; tiyatroda Elçilerin İşleri kitabının 19. bölümü üzerine durulur. Efes’te 3. Ekümenik Konsil’in toplandığı Meryem Kilisesi de görülür. Yakındaki tepede bulunan Meryem Ana Evi ziyaret edilir. Öğle yemeğinden sonra Aziz Yuhanna Bazilikası ve mezarına geçilerek Yuhanna İncili’nden bölümler okunur. Geceleme Kuşadası’ndadır.'),
+('3. Gün · İzmir ve Pergamon','İzmir’de Aziz Polikarp Kilisesi ziyaret edilir. Ardından Yedi Kilise’den birinin bulunduğu Pergamon’a geçilir. Öğle yemeğinin ardından Pergamon Akropolü ve Kızıl Avlu gezilir. İzmir Havalimanı’na transfer, İstanbul’a uçuş ve oteline dönüşle program tamamlanır.')],
+'ephesus-house-of-the-virgin-mary-and-sirince-village':[
+('Meryem Ana Evi','Özel rehberin seni Kuşadası limanında veya otelinde karşılar. Şoförünle buluşup klimalı araçla yola çıktıktan yaklaşık 20 dakika sonra, Efes ile Selçuk arasındaki tepede yer alan Meryem Ana Evi’ne ulaşırsın. Hristiyan geleneğinde Meryem’in son yıllarını geçirdiğine inanılan bu hac yerini gezersin. Papa VI. Paul ve II. John Paul tarafından da ziyaret edilen yapıda, Papa XVI. Benedict 29 Kasım 2006’da ayin düzenlemiştir.'),
+('Efes Antik Kenti','Gezi üst kapıdan başlayıp alt kapıda tamamlanır. Rehberin giriş biletlerinin düzenlenmesiyle ilgilenir. Domitian, Trajan ve Hadrian yapıları, Roma hamamları, Liman ve Mermer caddeleri, Mazeus ve Mithridates Kapısı, Ticari Agora, Latrina, Skolastika Hamamları, Kuretes Caddesi, Pollio Çeşmesi, Memmius Anıtı, Prytaneion, Odeon ve Devlet Agorası programın başlıca noktalarıdır. Celsus Kütüphanesi ve Büyük Tiyatro da gezilir. Efes yakınlarında geleneksel Türk yemekleri sunan bir restoranda öğle yemeği molası verilir.'),
+('Şirince ve Artemis Tapınağı','Öğle yemeğinin ardından Şirince’ye geçilir. Arnavut kaldırımlı sokaklarda yürüyebilir; yerel şarap, zeytinyağı, meyve ve el işi ürünlerini tanıyabilirsin. Eski okul binasındaki geleneksel kahvehanede mola için zaman ayrılır. Günün son ziyareti, Antik Dünya’nın Yedi Harikası arasında sayılan Artemis Tapınağı’nın kalıntılarıdır. Programın ardından rehberin ve şoförünle dönüş noktasına geçersin; liman dönüş düzeni talebinde netleştirilir.')],
+'pamukkale-tours-from-kusadasi':[
+('Kuşadası’ndan hareket','Rehberin seni Kuşadası limanından veya otelinden alır. Yaklaşık 3 saatlik yolculuğun ardından Pamukkale’ye ulaşılır. Antik kent ziyaretinden önce köyde açık büfe öğle yemeği molası verilir.'),
+('Hierapolis ve travertenler','Hierapolis’in termal hamamları, tiyatrosu ve nekropolü gezilir. Ardından travertenlerde yürümek, fotoğraf çekmek ve manzarayı izlemek için serbest zaman ayrılır. Kaynak program Pamukkale’de yaklaşık 3 saatlik ziyaret öngörür. Günün sonunda Kuşadası’na dönülür.')],
+'full-day-istanbul-tour-marvelous-istanbul-tour':[
+('Boğaz’dan İstanbul','İstanbul limanından veya otelinden alınarak tura başlarsın. Boğaz gezisi sırasında Dolmabahçe ve Çırağan saraylarını, Rumeli Hisarı’nı, Yıldız Sarayı’nın kıyı çevresini ve Ortaköy’ü denizden görürsün.'),
+('Kariye, Süleymaniye ve Mısır Çarşısı','Boğaz gezisinin ardından Kariye ziyaret edilir. Öğleden sonra Mimar Sinan’ın eseri Süleymaniye Camii’ne ve İstanbul’un geleneksel baharat ticaretinin merkezlerinden Mısır Çarşısı’na geçilir. Günün sonunda limana veya İstanbul’daki oteline dönüş sağlanır.')],
+'priene-miletos-didyma-tour':[
+('Priene','Mykale Dağı’nın eteklerindeki Priene’de, düzenli sokak planı ve çam ağaçları arasındaki antik yapılar keşfedilir. MÖ 4. yüzyıla uzanan kent dokusunda tiyatro, bouleuterion, gymnasium, stadyum, Bizans kilisesi ve Athena Tapınağı’nın kalıntıları görülür. Athena Tapınağı’nın mimarı Pythios, Bodrum’daki Halikarnas Mozolesi’yle de ilişkilidir.'),
+('Milet','Kısa bir yolculuğun ardından Milet’e geçilir. Faustina Hamamları, Roma tiyatrosu ve liman yapıları gezilir. Rehberin, bilim tarihinde önemli bir yeri bulunan Thales ve Ayasofya’nın mimarlarından İsidoros gibi Miletli isimleri anlatır.'),
+('Didyma','Didyma’da öğle yemeği molasının ardından Apollon Tapınağı ziyaret edilir. Antik dönemin kehanet merkezlerinden biri olan yapının sütunları, iki tünel rampası ve Medusa başı görülür. Kaynak program, tapınağın 120 büyük mermer sütunlu tasarımını anlatır.')],
+'gobeklitepe-tours':[
+('Şanlıurfa’ya uçuş ve Göbeklitepe','İstanbul veya İzmir’deki otelinden havalimanına transfer edilerek Şanlıurfa’ya uçarsın. Sabah GAP Havalimanı’nda karşılanıp Göbeklitepe’ye geçersin. T biçimli dikilitaşları ve arkeolojik alanı gördükten sonra Harran’a doğru yola çıkılır.'),
+('Harran ve Şanlıurfa','Harran’ın tarihi kalıntıları, Hayat el-Harrânî Türbesi ve Yakup Kuyusu ziyaret edilir. Şanlıurfa merkezine giderken Hz. Eyyub’la ilişkilendirilen mağara görülür. Öğle yemeğinden sonra Şanlıurfa Arkeoloji Müzesi ve Haleplibahçe Mozaik Müzesi, Balıklıgöl, Gümrük Hanı, Bedesten, bakırcılar ve halıcıların bulunduğu sokaklar gezilir. GAP Havalimanı’na dönüşün ardından İstanbul veya İzmir’e uçuş ve oteline transferle program tamamlanır.')]
+}
+for id,blocks in programs.items():
+    body=data[id]['tr']['bodyHtml']; matches=list(re.finditer(r'<h2\b[^>]*>.*?</h2>',body,re.S))
+    assert matches and 'program' in matches[0][0].lower()
+    start=matches[0].end(); end=matches[1].start() if len(matches)>1 else len(body)
+    program='\n'.join(f'<p><strong>{title}</strong><br/>{text}</p>' for title,text in blocks)
+    data[id]['tr']['bodyHtml']=body[:start]+program+body[end:]
+path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+(root/'reports/turkish-program-review.json').write_text(json.dumps({'date':'2026-11-12','reviewedProgramIds':list(programs),'scope':'Turkish itinerary paragraphs rewritten from source. Every destination/visit retained; unverifiable historical superlatives removed. Source sourceUrl and original HTML remain in catalog.json. Price tables and service lists untouched.'},ensure_ascii=False,indent=2)+'\n')
+print('Reviewed',len(programs),'Turkish programmes')

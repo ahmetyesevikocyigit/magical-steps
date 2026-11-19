@@ -1,0 +1,2749 @@
+{
+  "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+  "at": "2026-11-13T12:06:17.747Z",
+  "median": {
+    "mobile": {
+      "performance": 93,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "desktop": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    }
+  },
+  "runs": [
+    {
+      "mode": "mobile",
+      "run": 1,
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 974.11195,
+        "largest-contentful-paint": 2866.2239,
+        "total-blocking-time": 183.5,
+        "cumulative-layout-shift": 0.000115009727242875,
+        "speed-index": 1052.965293443073
+      },
+      "failed": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.81,
+          "display": "2.9 s"
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.66,
+          "display": "200 ms"
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 29 KiB",
+          "details": {
+            "type": "opportunity",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "source",
+                  "valueType": "code"
+                },
+                "label": "URL"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceBytes"
+                },
+                "label": "Transfer Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceWastedBytes"
+                },
+                "label": "Est Savings"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "totalBytes": 71747,
+                "wastedBytes": 29854,
+                "wastedPercent": 41.60954568078028
+              }
+            ],
+            "overallSavingsMs": 0,
+            "overallSavingsBytes": 29854,
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "metricSavings": {
+                "FCP": 0,
+                "LCP": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "score": 0,
+          "display": "2 failure reasons",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0.5,
+          "display": "Est savings of 16 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "Request"
+              },
+              {
+                "key": "cacheLifetimeMs",
+                "valueType": "ms",
+                "label": "Cache TTL",
+                "displayUnit": "duration"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Transfer Size",
+                "displayUnit": "kb",
+                "granularity": 1
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 20329,
+                "wastedBytes": 8131.6
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 15861,
+                "wastedBytes": 6344.400000000001
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2995,
+                "wastedBytes": 1198
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2703,
+                "wastedBytes": 1081.2
+              }
+            ],
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "skipSumming": [
+              "cacheLifetimeMs"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 16755.2
+            }
+          }
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "table",
+                "headings": [
+                  {
+                    "key": "source",
+                    "valueType": "source-location",
+                    "label": "Source"
+                  },
+                  {
+                    "key": "reflowTime",
+                    "valueType": "ms",
+                    "granularity": 1,
+                    "label": "Total reflow time"
+                  }
+                ],
+                "items": [
+                  {
+                    "source": {
+                      "type": "text",
+                      "value": "[unattributed]"
+                    },
+                    "reflowTime": 65.797
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0,
+          "display": "Est savings of 17 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "node",
+                "valueType": "node",
+                "label": ""
+              },
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "URL",
+                "subItemsHeading": {
+                  "key": "reason",
+                  "valueType": "text"
+                }
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Resource Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Est Savings",
+                "subItemsHeading": {
+                  "key": "wastedBytes",
+                  "valueType": "bytes"
+                }
+              }
+            ],
+            "items": [
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "page-0-IMG",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,0,BUTTON,0,IMG",
+                  "selector": "div._7uld2G_overview > div._7uld2G_gallery > button > img",
+                  "boundingRect": {
+                    "top": 189,
+                    "bottom": 437,
+                    "left": 20,
+                    "right": 392,
+                    "width": 372,
+                    "height": 248
+                  },
+                  "snippet": "<img alt=\"İstanbul çıkışlı Kapadokya turları — 1\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%; inset: 0px;\" sizes=\"(max-width: 760px) 90vw, (max-width: 1280px) 54vw, 650px\" srcset=\"/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-desktop-cd32771731.webp&amp;…\" src=\"http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-des…\">",
+                  "nodeLabel": "İstanbul çıkışlı Kapadokya turları — 1"
+                },
+                "url": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-desktop-cd32771731.webp&w=768&q=75",
+                "totalBytes": 61598,
+                "wastedBytes": 17339,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "reason": "This image file is larger than it needs to be (768x512) for its displayed dimensions (651x434). Use responsive images to reduce the image download size.",
+                      "wastedBytes": 17339
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 17339
+            }
+          }
+        },
+        {
+          "id": "legacy-javascript-insight",
+          "title": "Legacy JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 14 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "location",
+                  "valueType": "source-location"
+                },
+                "label": "URL"
+              },
+              {
+                "key": null,
+                "valueType": "code",
+                "subItemsHeading": {
+                  "key": "signal"
+                },
+                "label": ""
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Wasted bytes"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "wastedBytes": 13927,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "signal": "Array.prototype.at",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1116
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flat",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 504
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flatMap",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 617
+                      }
+                    },
+                    {
+                      "signal": "Object.fromEntries",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 993
+                      }
+                    },
+                    {
+                      "signal": "Object.hasOwn",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1251
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimEnd",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 246
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimStart",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 161
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 13927
+            }
+          }
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "list-section",
+                "value": {
+                  "type": "network-tree",
+                  "chains": {
+                    "1D421E6137F6E2CC302E2DAC0F743937": {
+                      "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+                      "navStartToEndTime": 332,
+                      "transferSize": 45802,
+                      "isLongest": true,
+                      "children": {
+                        "82012.60": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                          "navStartToEndTime": 356,
+                          "transferSize": 20329,
+                          "isLongest": true,
+                          "children": {}
+                        },
+                        "82012.56": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                          "navStartToEndTime": 356,
+                          "transferSize": 2995,
+                          "children": {}
+                        },
+                        "82012.58": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                          "navStartToEndTime": 356,
+                          "transferSize": 15861,
+                          "children": {}
+                        },
+                        "82012.55": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                          "navStartToEndTime": 355,
+                          "transferSize": 2703,
+                          "children": {}
+                        }
+                      }
+                    }
+                  },
+                  "longestChain": {
+                    "duration": 356
+                  }
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnected origins",
+                "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+                "value": {
+                  "type": "text",
+                  "value": "No origins were preconnected"
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnect candidates",
+                "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+                "value": {
+                  "type": "text",
+                  "value": "No additional origins are good candidates for preconnecting"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "mobile",
+      "run": 2,
+      "scores": {
+        "performance": 96,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 965.65245,
+        "largest-contentful-paint": 2709.3049,
+        "total-blocking-time": 17.5,
+        "cumulative-layout-shift": 0.000115009727242875,
+        "speed-index": 965.65245
+      },
+      "failed": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.85,
+          "display": "2.7 s"
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 29 KiB",
+          "details": {
+            "type": "opportunity",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "source",
+                  "valueType": "code"
+                },
+                "label": "URL"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceBytes"
+                },
+                "label": "Transfer Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceWastedBytes"
+                },
+                "label": "Est Savings"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "totalBytes": 71747,
+                "wastedBytes": 29854,
+                "wastedPercent": 41.60954568078028
+              }
+            ],
+            "overallSavingsMs": 0,
+            "overallSavingsBytes": 29854,
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "metricSavings": {
+                "FCP": 0,
+                "LCP": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "score": 0,
+          "display": "2 failure reasons",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "display": "Est savings of 16 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "Request"
+              },
+              {
+                "key": "cacheLifetimeMs",
+                "valueType": "ms",
+                "label": "Cache TTL",
+                "displayUnit": "duration"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Transfer Size",
+                "displayUnit": "kb",
+                "granularity": 1
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 20329,
+                "wastedBytes": 8131.6
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 15861,
+                "wastedBytes": 6344.400000000001
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2995,
+                "wastedBytes": 1198
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2703,
+                "wastedBytes": 1081.2
+              }
+            ],
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "skipSumming": [
+              "cacheLifetimeMs"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 16755.2
+            }
+          }
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0,
+          "display": "Est savings of 17 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "node",
+                "valueType": "node",
+                "label": ""
+              },
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "URL",
+                "subItemsHeading": {
+                  "key": "reason",
+                  "valueType": "text"
+                }
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Resource Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Est Savings",
+                "subItemsHeading": {
+                  "key": "wastedBytes",
+                  "valueType": "bytes"
+                }
+              }
+            ],
+            "items": [
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "page-0-IMG",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,0,BUTTON,0,IMG",
+                  "selector": "div._7uld2G_overview > div._7uld2G_gallery > button > img",
+                  "boundingRect": {
+                    "top": 189,
+                    "bottom": 437,
+                    "left": 20,
+                    "right": 392,
+                    "width": 372,
+                    "height": 248
+                  },
+                  "snippet": "<img alt=\"İstanbul çıkışlı Kapadokya turları — 1\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%; inset: 0px;\" sizes=\"(max-width: 760px) 90vw, (max-width: 1280px) 54vw, 650px\" srcset=\"/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-desktop-cd32771731.webp&amp;…\" src=\"http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-des…\">",
+                  "nodeLabel": "İstanbul çıkışlı Kapadokya turları — 1"
+                },
+                "url": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-desktop-cd32771731.webp&w=768&q=75",
+                "totalBytes": 61598,
+                "wastedBytes": 17339,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "reason": "This image file is larger than it needs to be (768x512) for its displayed dimensions (651x434). Use responsive images to reduce the image download size.",
+                      "wastedBytes": 17339
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 17339
+            }
+          }
+        },
+        {
+          "id": "legacy-javascript-insight",
+          "title": "Legacy JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 14 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "location",
+                  "valueType": "source-location"
+                },
+                "label": "URL"
+              },
+              {
+                "key": null,
+                "valueType": "code",
+                "subItemsHeading": {
+                  "key": "signal"
+                },
+                "label": ""
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Wasted bytes"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "wastedBytes": 13927,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "signal": "Array.prototype.at",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1116
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flat",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 504
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flatMap",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 617
+                      }
+                    },
+                    {
+                      "signal": "Object.fromEntries",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 993
+                      }
+                    },
+                    {
+                      "signal": "Object.hasOwn",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1251
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimEnd",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 246
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimStart",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 161
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 13927
+            }
+          }
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "list-section",
+                "value": {
+                  "type": "network-tree",
+                  "chains": {
+                    "07F3E9A88397894AC65058F135A29AAD": {
+                      "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+                      "navStartToEndTime": 41,
+                      "transferSize": 45802,
+                      "isLongest": true,
+                      "children": {
+                        "82070.65": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                          "navStartToEndTime": 79,
+                          "transferSize": 20329,
+                          "isLongest": true,
+                          "children": {}
+                        },
+                        "82070.63": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                          "navStartToEndTime": 79,
+                          "transferSize": 15861,
+                          "children": {}
+                        },
+                        "82070.61": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                          "navStartToEndTime": 79,
+                          "transferSize": 2995,
+                          "children": {}
+                        },
+                        "82070.60": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                          "navStartToEndTime": 79,
+                          "transferSize": 2703,
+                          "children": {}
+                        }
+                      }
+                    }
+                  },
+                  "longestChain": {
+                    "duration": 79
+                  }
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnected origins",
+                "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+                "value": {
+                  "type": "text",
+                  "value": "No origins were preconnected"
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnect candidates",
+                "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+                "value": {
+                  "type": "text",
+                  "value": "No additional origins are good candidates for preconnecting"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "mobile",
+      "run": 3,
+      "scores": {
+        "performance": 92,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 980.5471,
+        "largest-contentful-paint": 2865.0941999999995,
+        "total-blocking-time": 197,
+        "cumulative-layout-shift": 0.000115009727242875,
+        "speed-index": 980.5471
+      },
+      "failed": [
+        {
+          "id": "largest-contentful-paint",
+          "title": "Largest Contentful Paint",
+          "score": 0.81,
+          "display": "2.9 s"
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.62,
+          "display": "210 ms"
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 29 KiB",
+          "details": {
+            "type": "opportunity",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "source",
+                  "valueType": "code"
+                },
+                "label": "URL"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceBytes"
+                },
+                "label": "Transfer Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceWastedBytes"
+                },
+                "label": "Est Savings"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "totalBytes": 71747,
+                "wastedBytes": 29854,
+                "wastedPercent": 41.60954568078028
+              }
+            ],
+            "overallSavingsMs": 0,
+            "overallSavingsBytes": 29854,
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "metricSavings": {
+                "FCP": 0,
+                "LCP": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "score": 0,
+          "display": "2 failure reasons",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "display": "Est savings of 16 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "Request"
+              },
+              {
+                "key": "cacheLifetimeMs",
+                "valueType": "ms",
+                "label": "Cache TTL",
+                "displayUnit": "duration"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Transfer Size",
+                "displayUnit": "kb",
+                "granularity": 1
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 20329,
+                "wastedBytes": 8131.6
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 15861,
+                "wastedBytes": 6344.400000000001
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2995,
+                "wastedBytes": 1198
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2703,
+                "wastedBytes": 1081.2
+              }
+            ],
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "skipSumming": [
+              "cacheLifetimeMs"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 16755.2
+            }
+          }
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "table",
+                "headings": [
+                  {
+                    "key": "source",
+                    "valueType": "source-location",
+                    "label": "Source"
+                  },
+                  {
+                    "key": "reflowTime",
+                    "valueType": "ms",
+                    "granularity": 1,
+                    "label": "Total reflow time"
+                  }
+                ],
+                "items": [
+                  {
+                    "source": {
+                      "type": "text",
+                      "value": "[unattributed]"
+                    },
+                    "reflowTime": 88.011
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0,
+          "display": "Est savings of 17 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "node",
+                "valueType": "node",
+                "label": ""
+              },
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "URL",
+                "subItemsHeading": {
+                  "key": "reason",
+                  "valueType": "text"
+                }
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Resource Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Est Savings",
+                "subItemsHeading": {
+                  "key": "wastedBytes",
+                  "valueType": "bytes"
+                }
+              }
+            ],
+            "items": [
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "page-0-IMG",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,0,BUTTON,0,IMG",
+                  "selector": "div._7uld2G_overview > div._7uld2G_gallery > button > img",
+                  "boundingRect": {
+                    "top": 189,
+                    "bottom": 437,
+                    "left": 20,
+                    "right": 392,
+                    "width": 372,
+                    "height": 248
+                  },
+                  "snippet": "<img alt=\"İstanbul çıkışlı Kapadokya turları — 1\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%; inset: 0px;\" sizes=\"(max-width: 760px) 90vw, (max-width: 1280px) 54vw, 650px\" srcset=\"/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-desktop-cd32771731.webp&amp;…\" src=\"http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-des…\">",
+                  "nodeLabel": "İstanbul çıkışlı Kapadokya turları — 1"
+                },
+                "url": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fhero-v2%2Fcappadocia-desktop-cd32771731.webp&w=768&q=75",
+                "totalBytes": 61598,
+                "wastedBytes": 17339,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "reason": "This image file is larger than it needs to be (768x512) for its displayed dimensions (651x434). Use responsive images to reduce the image download size.",
+                      "wastedBytes": 17339
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 17339
+            }
+          }
+        },
+        {
+          "id": "legacy-javascript-insight",
+          "title": "Legacy JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 14 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "location",
+                  "valueType": "source-location"
+                },
+                "label": "URL"
+              },
+              {
+                "key": null,
+                "valueType": "code",
+                "subItemsHeading": {
+                  "key": "signal"
+                },
+                "label": ""
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Wasted bytes"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "wastedBytes": 13927,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "signal": "Array.prototype.at",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1116
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flat",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 504
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flatMap",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 617
+                      }
+                    },
+                    {
+                      "signal": "Object.fromEntries",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 993
+                      }
+                    },
+                    {
+                      "signal": "Object.hasOwn",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1251
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimEnd",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 246
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimStart",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 161
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 13927
+            }
+          }
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "list-section",
+                "value": {
+                  "type": "network-tree",
+                  "chains": {
+                    "64413E1815DEBAA0B6FA2BAD6793BD2E": {
+                      "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+                      "navStartToEndTime": 116,
+                      "transferSize": 45802,
+                      "isLongest": true,
+                      "children": {
+                        "82137.65": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                          "navStartToEndTime": 244,
+                          "transferSize": 20329,
+                          "isLongest": true,
+                          "children": {}
+                        },
+                        "82137.63": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                          "navStartToEndTime": 244,
+                          "transferSize": 15861,
+                          "children": {}
+                        },
+                        "82137.61": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                          "navStartToEndTime": 244,
+                          "transferSize": 2995,
+                          "children": {}
+                        },
+                        "82137.60": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                          "navStartToEndTime": 244,
+                          "transferSize": 2703,
+                          "children": {}
+                        }
+                      }
+                    }
+                  },
+                  "longestChain": {
+                    "duration": 244
+                  }
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnected origins",
+                "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+                "value": {
+                  "type": "text",
+                  "value": "No origins were preconnected"
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnect candidates",
+                "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+                "value": {
+                  "type": "text",
+                  "value": "No additional origins are good candidates for preconnecting"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "desktop",
+      "run": 1,
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 299.65335,
+        "largest-contentful-paint": 639.3067000000001,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0.00008769476184222047,
+        "speed-index": 299.65335
+      },
+      "failed": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 29 KiB",
+          "details": {
+            "type": "opportunity",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "source",
+                  "valueType": "code"
+                },
+                "label": "URL"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceBytes"
+                },
+                "label": "Transfer Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceWastedBytes"
+                },
+                "label": "Est Savings"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "totalBytes": 71747,
+                "wastedBytes": 29854,
+                "wastedPercent": 41.60954568078028
+              }
+            ],
+            "overallSavingsMs": 0,
+            "overallSavingsBytes": 29854,
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "metricSavings": {
+                "FCP": 0,
+                "LCP": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "score": 0,
+          "display": "2 failure reasons",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "display": "Est savings of 16 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "Request"
+              },
+              {
+                "key": "cacheLifetimeMs",
+                "valueType": "ms",
+                "label": "Cache TTL",
+                "displayUnit": "duration"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Transfer Size",
+                "displayUnit": "kb",
+                "granularity": 1
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 20329,
+                "wastedBytes": 8131.6
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 15861,
+                "wastedBytes": 6344.400000000001
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2995,
+                "wastedBytes": 1198
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2703,
+                "wastedBytes": 1081.2
+              }
+            ],
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "skipSumming": [
+              "cacheLifetimeMs"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 16755.2
+            }
+          }
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "table",
+                "headings": [
+                  {
+                    "key": "source",
+                    "valueType": "source-location",
+                    "label": "Source"
+                  },
+                  {
+                    "key": "reflowTime",
+                    "valueType": "ms",
+                    "granularity": 1,
+                    "label": "Total reflow time"
+                  }
+                ],
+                "items": [
+                  {
+                    "source": {
+                      "type": "text",
+                      "value": "[unattributed]"
+                    },
+                    "reflowTime": 51.94
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "legacy-javascript-insight",
+          "title": "Legacy JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 14 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "location",
+                  "valueType": "source-location"
+                },
+                "label": "URL"
+              },
+              {
+                "key": null,
+                "valueType": "code",
+                "subItemsHeading": {
+                  "key": "signal"
+                },
+                "label": ""
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Wasted bytes"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "wastedBytes": 13927,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "signal": "Array.prototype.at",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1116
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flat",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 504
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flatMap",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 617
+                      }
+                    },
+                    {
+                      "signal": "Object.fromEntries",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 993
+                      }
+                    },
+                    {
+                      "signal": "Object.hasOwn",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1251
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimEnd",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 246
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimStart",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 161
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 13927
+            }
+          }
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "list-section",
+                "value": {
+                  "type": "network-tree",
+                  "chains": {
+                    "D2499EAE2E8811100376E0C3F155BEE0": {
+                      "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+                      "navStartToEndTime": 90,
+                      "transferSize": 45802,
+                      "isLongest": true,
+                      "children": {
+                        "82182.67": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                          "navStartToEndTime": 164,
+                          "transferSize": 20329,
+                          "isLongest": true,
+                          "children": {}
+                        },
+                        "82182.65": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                          "navStartToEndTime": 164,
+                          "transferSize": 15861,
+                          "children": {}
+                        },
+                        "82182.63": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                          "navStartToEndTime": 164,
+                          "transferSize": 2995,
+                          "children": {}
+                        },
+                        "82182.62": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                          "navStartToEndTime": 164,
+                          "transferSize": 2703,
+                          "children": {}
+                        }
+                      }
+                    }
+                  },
+                  "longestChain": {
+                    "duration": 164
+                  }
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnected origins",
+                "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+                "value": {
+                  "type": "text",
+                  "value": "No origins were preconnected"
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnect candidates",
+                "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+                "value": {
+                  "type": "text",
+                  "value": "No additional origins are good candidates for preconnecting"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "desktop",
+      "run": 2,
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 327.6934,
+        "largest-contentful-paint": 639.3868,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0.00008769476184222047,
+        "speed-index": 348.53554985060237
+      },
+      "failed": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 29 KiB",
+          "details": {
+            "type": "opportunity",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "source",
+                  "valueType": "code"
+                },
+                "label": "URL"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceBytes"
+                },
+                "label": "Transfer Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceWastedBytes"
+                },
+                "label": "Est Savings"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "totalBytes": 71747,
+                "wastedBytes": 29854,
+                "wastedPercent": 41.60954568078028
+              }
+            ],
+            "overallSavingsMs": 0,
+            "overallSavingsBytes": 29854,
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "metricSavings": {
+                "FCP": 0,
+                "LCP": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "score": 0,
+          "display": "2 failure reasons",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "display": "Est savings of 16 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "Request"
+              },
+              {
+                "key": "cacheLifetimeMs",
+                "valueType": "ms",
+                "label": "Cache TTL",
+                "displayUnit": "duration"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Transfer Size",
+                "displayUnit": "kb",
+                "granularity": 1
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 20329,
+                "wastedBytes": 8131.6
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 15861,
+                "wastedBytes": 6344.400000000001
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2995,
+                "wastedBytes": 1198
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2703,
+                "wastedBytes": 1081.2
+              }
+            ],
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "skipSumming": [
+              "cacheLifetimeMs"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 16755.2
+            }
+          }
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "table",
+                "headings": [
+                  {
+                    "key": "source",
+                    "valueType": "source-location",
+                    "label": "Source"
+                  },
+                  {
+                    "key": "reflowTime",
+                    "valueType": "ms",
+                    "granularity": 1,
+                    "label": "Total reflow time"
+                  }
+                ],
+                "items": [
+                  {
+                    "source": {
+                      "type": "text",
+                      "value": "[unattributed]"
+                    },
+                    "reflowTime": 71.807
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "legacy-javascript-insight",
+          "title": "Legacy JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 14 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "location",
+                  "valueType": "source-location"
+                },
+                "label": "URL"
+              },
+              {
+                "key": null,
+                "valueType": "code",
+                "subItemsHeading": {
+                  "key": "signal"
+                },
+                "label": ""
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Wasted bytes"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "wastedBytes": 13927,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "signal": "Array.prototype.at",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1116
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flat",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 504
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flatMap",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 617
+                      }
+                    },
+                    {
+                      "signal": "Object.fromEntries",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 993
+                      }
+                    },
+                    {
+                      "signal": "Object.hasOwn",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1251
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimEnd",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 246
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimStart",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 161
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 13927
+            }
+          }
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "list-section",
+                "value": {
+                  "type": "network-tree",
+                  "chains": {
+                    "791DDA57C6E283D2C7B8E5E93E55F822": {
+                      "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+                      "navStartToEndTime": 107,
+                      "transferSize": 45802,
+                      "isLongest": true,
+                      "children": {
+                        "82234.65": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                          "navStartToEndTime": 243,
+                          "transferSize": 15861,
+                          "isLongest": true,
+                          "children": {}
+                        },
+                        "82234.67": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                          "navStartToEndTime": 242,
+                          "transferSize": 20329,
+                          "children": {}
+                        },
+                        "82234.62": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                          "navStartToEndTime": 242,
+                          "transferSize": 2703,
+                          "children": {}
+                        },
+                        "82234.63": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                          "navStartToEndTime": 242,
+                          "transferSize": 2995,
+                          "children": {}
+                        }
+                      }
+                    }
+                  },
+                  "longestChain": {
+                    "duration": 243
+                  }
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnected origins",
+                "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+                "value": {
+                  "type": "text",
+                  "value": "No origins were preconnected"
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnect candidates",
+                "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+                "value": {
+                  "type": "text",
+                  "value": "No additional origins are good candidates for preconnecting"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "desktop",
+      "run": 3,
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 344.81545,
+        "largest-contentful-paint": 565.6309,
+        "total-blocking-time": 18,
+        "cumulative-layout-shift": 0.00008769476184222047,
+        "speed-index": 464.59494369305355
+      },
+      "failed": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 29 KiB",
+          "details": {
+            "type": "opportunity",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "source",
+                  "valueType": "code"
+                },
+                "label": "URL"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceBytes"
+                },
+                "label": "Transfer Size"
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "subItemsHeading": {
+                  "key": "sourceWastedBytes"
+                },
+                "label": "Est Savings"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "totalBytes": 71747,
+                "wastedBytes": 29786,
+                "wastedPercent": 41.51524147987741
+              }
+            ],
+            "overallSavingsMs": 0,
+            "overallSavingsBytes": 29786,
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "metricSavings": {
+                "FCP": 0,
+                "LCP": 0
+              }
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "score": 0,
+          "display": "2 failure reasons",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0.5,
+          "display": "Est savings of 16 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "label": "Request"
+              },
+              {
+                "key": "cacheLifetimeMs",
+                "valueType": "ms",
+                "label": "Cache TTL",
+                "displayUnit": "duration"
+              },
+              {
+                "key": "totalBytes",
+                "valueType": "bytes",
+                "label": "Transfer Size",
+                "displayUnit": "kb",
+                "granularity": 1
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 20329,
+                "wastedBytes": 8131.6
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 15861,
+                "wastedBytes": 6344.400000000001
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2995,
+                "wastedBytes": 1198
+              },
+              {
+                "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                "cacheLifetimeMs": 86400000,
+                "totalBytes": 2703,
+                "wastedBytes": 1081.2
+              }
+            ],
+            "sortedBy": [
+              "wastedBytes"
+            ],
+            "skipSumming": [
+              "cacheLifetimeMs"
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 16755.2
+            }
+          }
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "table",
+                "headings": [
+                  {
+                    "key": "source",
+                    "valueType": "source-location",
+                    "label": "Source"
+                  },
+                  {
+                    "key": "reflowTime",
+                    "valueType": "ms",
+                    "granularity": 1,
+                    "label": "Total reflow time"
+                  }
+                ],
+                "items": [
+                  {
+                    "source": {
+                      "type": "text",
+                      "value": "[unattributed]"
+                    },
+                    "reflowTime": 126.992
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "legacy-javascript-insight",
+          "title": "Legacy JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 14 KiB",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "url",
+                "valueType": "url",
+                "subItemsHeading": {
+                  "key": "location",
+                  "valueType": "source-location"
+                },
+                "label": "URL"
+              },
+              {
+                "key": null,
+                "valueType": "code",
+                "subItemsHeading": {
+                  "key": "signal"
+                },
+                "label": ""
+              },
+              {
+                "key": "wastedBytes",
+                "valueType": "bytes",
+                "label": "Wasted bytes"
+              }
+            ],
+            "items": [
+              {
+                "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                "wastedBytes": 13927,
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "signal": "Array.prototype.at",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1116
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flat",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 504
+                      }
+                    },
+                    {
+                      "signal": "Array.prototype.flatMap",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 617
+                      }
+                    },
+                    {
+                      "signal": "Object.fromEntries",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 993
+                      }
+                    },
+                    {
+                      "signal": "Object.hasOwn",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 1251
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimEnd",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 246
+                      }
+                    },
+                    {
+                      "signal": "String.prototype.trimStart",
+                      "location": {
+                        "type": "source-location",
+                        "url": "http://127.0.0.1:3000/_next/static/chunks/378tz6vogy6t8.js",
+                        "urlProvider": "network",
+                        "line": 0,
+                        "column": 161
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "wastedBytes": 13927
+            }
+          }
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "details": {
+            "type": "list",
+            "items": [
+              {
+                "type": "list-section",
+                "value": {
+                  "type": "network-tree",
+                  "chains": {
+                    "70AFAF9ECFFB149E169FA299A71CCC19": {
+                      "url": "http://127.0.0.1:3000/tr/tours/cappadocia-tours-from-istanbul",
+                      "navStartToEndTime": 155,
+                      "transferSize": 45802,
+                      "isLongest": true,
+                      "children": {
+                        "82300.60": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-core.woff2",
+                          "navStartToEndTime": 419,
+                          "transferSize": 20329,
+                          "isLongest": true,
+                          "children": {}
+                        },
+                        "82300.56": {
+                          "url": "http://127.0.0.1:3000/fonts/cormorant-garamond-turkish.woff2",
+                          "navStartToEndTime": 419,
+                          "transferSize": 2995,
+                          "children": {}
+                        },
+                        "82300.58": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-core.woff2",
+                          "navStartToEndTime": 373,
+                          "transferSize": 15861,
+                          "children": {}
+                        },
+                        "82300.55": {
+                          "url": "http://127.0.0.1:3000/fonts/manrope-turkish.woff2",
+                          "navStartToEndTime": 373,
+                          "transferSize": 2703,
+                          "children": {}
+                        }
+                      }
+                    }
+                  },
+                  "longestChain": {
+                    "duration": 419
+                  }
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnected origins",
+                "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+                "value": {
+                  "type": "text",
+                  "value": "No origins were preconnected"
+                }
+              },
+              {
+                "type": "list-section",
+                "title": "Preconnect candidates",
+                "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+                "value": {
+                  "type": "text",
+                  "value": "No additional origins are good candidates for preconnecting"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "invalid": []
+}

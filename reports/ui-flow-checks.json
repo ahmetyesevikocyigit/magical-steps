@@ -1,0 +1,62 @@
+[
+  {
+    "locale": "en",
+    "search": "Biblical",
+    "destination": "Ephesus",
+    "copied": true,
+    "lang": "en",
+    "mailTo": true,
+    "overflow": false,
+    "restoredUrl": true
+  },
+  {
+    "locale": "tr",
+    "search": "Efes",
+    "destination": "Ephesus",
+    "copied": true,
+    "lang": "tr",
+    "mailTo": true,
+    "overflow": false,
+    "restoredUrl": true
+  },
+  {
+    "locale": "fr",
+    "search": "biblique",
+    "destination": "Ephesus",
+    "copied": true,
+    "lang": "fr",
+    "mailTo": true,
+    "overflow": false,
+    "restoredUrl": true
+  },
+  {
+    "locale": "de",
+    "search": "Biblische",
+    "destination": "Ephesus",
+    "copied": true,
+    "lang": "de",
+    "mailTo": true,
+    "overflow": false,
+    "restoredUrl": true
+  },
+  {
+    "locale": "nl",
+    "search": "Bijbelse",
+    "destination": "Ephesus",
+    "copied": true,
+    "lang": "nl",
+    "mailTo": true,
+    "overflow": false,
+    "restoredUrl": true
+  },
+  {
+    "locale": "ru",
+    "search": "Библейский",
+    "destination": "Ephesus",
+    "copied": true,
+    "lang": "ru",
+    "mailTo": true,
+    "overflow": false,
+    "restoredUrl": true
+  }
+]

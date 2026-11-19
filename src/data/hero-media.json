@@ -1,0 +1,92 @@
+{
+  "destinations": [
+    {
+      "id": "ephesus",
+      "name": "Ephesus",
+      "image": {
+        "src": "/images/hero-v2/ephesus-desktop-b9feab6690.webp",
+        "width": 3200,
+        "height": 2133,
+        "bytes": 405388
+      },
+      "mobileImage": {
+        "src": "/images/hero-v2/ephesus-mobile-bcc9b79d8b.webp",
+        "width": 1080,
+        "height": 1620,
+        "bytes": 168966
+      },
+      "thumbnail": {
+        "src": "/images/hero-v2/ephesus-thumbnail-566d8f976d.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11894
+      }
+    },
+    {
+      "id": "cappadocia",
+      "name": "Cappadocia",
+      "image": {
+        "src": "/images/hero-v2/cappadocia-desktop-cd32771731.webp",
+        "width": 3200,
+        "height": 2133,
+        "bytes": 867812
+      },
+      "mobileImage": {
+        "src": "/images/hero-v2/cappadocia-mobile-1f25280367.webp",
+        "width": 1080,
+        "height": 1620,
+        "bytes": 248018
+      },
+      "thumbnail": {
+        "src": "/images/hero-v2/cappadocia-thumbnail-4f663a03e0.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 16318
+      }
+    },
+    {
+      "id": "istanbul",
+      "name": "Istanbul",
+      "image": {
+        "src": "/images/hero-v2/istanbul-desktop-0c29246bc0.webp",
+        "width": 3200,
+        "height": 2133,
+        "bytes": 260520
+      },
+      "mobileImage": {
+        "src": "/images/hero-v2/istanbul-mobile-22ddf6188b.webp",
+        "width": 1080,
+        "height": 1620,
+        "bytes": 94762
+      },
+      "thumbnail": {
+        "src": "/images/hero-v2/istanbul-thumbnail-87fb9e9657.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7408
+      }
+    },
+    {
+      "id": "pamukkale",
+      "name": "Pamukkale",
+      "image": {
+        "src": "/images/hero-v2/pamukkale-desktop-d2e3400dc0.webp",
+        "width": 3200,
+        "height": 2133,
+        "bytes": 1092264
+      },
+      "mobileImage": {
+        "src": "/images/hero-v2/pamukkale-mobile-75fcbf73cf.webp",
+        "width": 1080,
+        "height": 1620,
+        "bytes": 272720
+      },
+      "thumbnail": {
+        "src": "/images/hero-v2/pamukkale-thumbnail-127ff3af8e.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11450
+      }
+    }
+  ]
+}

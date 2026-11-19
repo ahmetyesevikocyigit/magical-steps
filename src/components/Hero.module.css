@@ -1,0 +1,532 @@
+.hero {
+  position: relative;
+  min-height: max(760px, 100svh);
+  isolation: isolate;
+  overflow: hidden;
+  color: #fffdf5;
+  background: #65818e;
+}
+.scene {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+.landscape,
+.wash {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.landscape picture,
+.flightCanvas picture {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+.photo {
+  object-fit: cover;
+  object-position: center 53%;
+}
+.wash {
+  background:
+    linear-gradient(
+      180deg,
+      #14252d99,
+      #14252d88 9%,
+      #14252d14 24%,
+      #14252d00 47%,
+      #10202b99 100%
+    ),
+    radial-gradient(ellipse 55% 35% at 50% 24%, #17262f30, #17262f00);
+}
+.title {
+  position: absolute;
+  top: clamp(138px, 18svh, 210px);
+  left: 5%;
+  width: 90%;
+  margin: 0;
+  text-align: center;
+  font: 500 clamp(56px, 4.4vw, 80px)/1.02 var(--serif);
+  letter-spacing: -0.035em;
+  text-shadow: 0 3px 28px #14242e70;
+}
+.title em {
+  font-weight: 400;
+}
+.chooser {
+  position: absolute;
+  width: min(470px, 35vw);
+  left: 5%;
+  bottom: 44px;
+}
+.choiceHeading {
+  margin-bottom: 18px;
+  text-shadow: 0 2px 18px #10212b90;
+}
+.choiceHeading h2 {
+  font: 500 27px/1.15 var(--serif);
+  letter-spacing: -0.015em;
+  margin: 0 0 6px;
+}
+.choiceHeading p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.choices {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 13px;
+}
+.choice {
+  position: relative;
+  display: block;
+  min-width: 0;
+  border: 1px solid #ffffff55;
+  border-radius: 14px;
+  padding: 0;
+  background: #29424c;
+  color: #fff;
+  cursor: pointer;
+  isolation: isolate;
+  box-shadow: 0 5px 20px #14242c25;
+  transition:
+    transform 0.3s,
+    box-shadow 0.3s;
+}
+.choiceImage {
+  display: block;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1.65;
+  overflow: hidden;
+  border-radius: 13px;
+}
+.choiceImage::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    transparent 12%,
+    #0c202966 50%,
+    #0c2029ed
+  );
+}
+.choiceImage img {
+  transition:
+    transform 0.6s,
+    opacity 0.25s;
+}
+.choice:hover,
+.choice:focus-visible {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px #10212b50;
+}
+.choice:hover img {
+  transform: scale(1.055);
+}
+.choice[aria-pressed="true"] {
+  outline: 2px solid #f9f1d9;
+  outline-offset: 3px;
+}
+.choice:focus-visible {
+  outline: 3px solid white;
+  outline-offset: 5px;
+}
+.choice[aria-disabled="true"] {
+  cursor: progress;
+}
+.choice[data-flying] .choiceContent {
+  opacity: 0.3;
+}
+.choice[data-flying] img {
+  opacity: 0.3;
+}
+.choiceContent {
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  bottom: 14px;
+  text-align: left;
+}
+.choiceName {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.choiceInvitation {
+  display: block;
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.35;
+  text-wrap: balance;
+  text-shadow: 0 1px 8px #10212b88;
+}
+.choiceName svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.allTours {
+  display: block;
+  width: fit-content;
+  margin: 19px auto 0;
+  border-bottom: 1px solid #ffffff88;
+  padding: 5px 0;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.allTours:hover {
+  border-color: white;
+}
+.status {
+  margin: 12px 0;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.destination {
+  position: absolute;
+  right: 5%;
+  bottom: 77px;
+  max-width: 40%;
+  text-align: right;
+}
+.destination h2 {
+  font: 500 clamp(42px, 4.5vw, 66px)/1.04 var(--serif);
+  letter-spacing: -0.03em;
+  margin: 0 0 22px;
+  text-shadow: 0 2px 22px #10212b80;
+}
+.tourLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+  min-height: 50px;
+  padding: 14px 24px;
+  border: 1px solid #fff7;
+  border-radius: 40px;
+  background: #fffdf2;
+  color: #182e38;
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 600;
+  box-shadow: 0 6px 24px #10212b15;
+  transition:
+    background 0.25s,
+    transform 0.25s;
+}
+.tourLink:hover {
+  background: white;
+  transform: translateY(-2px);
+}
+.tourLink svg {
+  flex-shrink: 0;
+}
+.scroll {
+  position: absolute;
+  left: calc(50% - 22px);
+  bottom: 36px;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border: 1px solid #ffffff70;
+  border-radius: 50%;
+  background: #16313d22;
+}
+.scroll:hover {
+  background: #16313d88;
+}
+.hero[data-assembling] .landscape {
+  animation: resolveLandscape 2.65s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.hero[data-assembling] .title {
+  opacity: 0;
+}
+.hero[data-assembling] .destination {
+  animation: resolveType 2.65s both;
+}
+.hero[data-assembling] .chooser {
+  animation: resolveChoices 2.65s both;
+}
+@keyframes resolveLandscape {
+  0%,
+  15% {
+    filter: blur(16px);
+    opacity: 0.35;
+  }
+  84%,
+  100% {
+    filter: blur(0);
+    opacity: 1;
+  }
+}
+@keyframes resolveType {
+  0%,
+  78% {
+    opacity: 0;
+    filter: blur(5px);
+    translate: 0 12px;
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+    translate: 0 0;
+  }
+}
+@keyframes resolveChoices {
+  0%,
+  35% {
+    opacity: 0.3;
+    filter: blur(3px);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+.flight {
+  position: fixed;
+  z-index: 45;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.flightCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.flightPhoto {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.flightShade {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, #10212b99, #10212b00 85%);
+}
+.storyLayer {
+  position: fixed;
+  inset: 0;
+  z-index: 46;
+  overflow: clip;
+  pointer-events: none;
+}
+.movingStory {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  pointer-events: none;
+  color: #fffdf5;
+  text-align: center;
+  font-family: var(--serif);
+  font-weight: 500;
+  text-shadow: 0 3px 28px #14242e70;
+  transform-origin: center;
+}
+.movingStory em {
+  font-weight: 400;
+}
+.spinner {
+  position: absolute;
+  z-index: 1;
+  left: calc(50% - 12px);
+  top: calc(50% - 12px);
+  width: 24px;
+  height: 24px;
+  border: 2px solid #fff7;
+  border-top-color: white;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin {
+  to {
+    rotate: 360deg;
+  }
+}
+@media (min-width: 761px) and (max-width: 1100px) {
+  .chooser {
+    width: 42%;
+  }
+  .choiceName {
+    font-size: 13px;
+  }
+  .choiceContent {
+    left: 12px;
+    right: 12px;
+  }
+  .choiceImage {
+    aspect-ratio: 1.45;
+  }
+  .destination {
+    max-width: 43%;
+  }
+  .tourLink {
+    font-size: 13px;
+    padding-inline: 20px;
+    gap: 15px;
+  }
+}
+@media (min-width: 761px) and (max-height: 800px) {
+  .hero {
+    min-height: max(720px, 100svh);
+  }
+  .title {
+    top: 130px;
+    font-size: min(4.4vw, 70px);
+  }
+  .chooser {
+    bottom: 30px;
+    width: min(440px, 35vw);
+  }
+  .choiceHeading {
+    margin-bottom: 15px;
+  }
+  .choiceHeading h2 {
+    font-size: 25px;
+  }
+  .choiceImage {
+    aspect-ratio: 1.75;
+  }
+  .destination {
+    bottom: 68px;
+  }
+}
+@media (max-width: 760px) {
+  .hero {
+    min-height: max(860px, 100svh);
+    padding: 126px 24px 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .photo {
+    object-position: 57% center;
+  }
+  .wash {
+    background: linear-gradient(
+      180deg,
+      #13252e99,
+      #13252e88 9%,
+      #13252e14 24%,
+      #13252e00 36%,
+      #10212b66 65%,
+      #10212bb8
+    );
+  }
+  .title {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    font-size: clamp(43px, 11.5vw, 64px);
+    text-shadow: 0 2px 20px #10212b90;
+  }
+  .movingStory {
+    text-shadow: 0 2px 20px #10212b90;
+  }
+  .chooser {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    max-width: 480px;
+    margin: auto 0 0;
+    padding-top: 95px;
+    text-align: center;
+  }
+  .choiceHeading {
+    margin-bottom: 19px;
+  }
+  .choiceHeading h2 {
+    font-size: 28px;
+  }
+  .choiceHeading p {
+    font-size: 13px;
+  }
+  .choices {
+    gap: 13px;
+  }
+  .choiceImage {
+    aspect-ratio: 1.32;
+  }
+  .choiceContent {
+    left: 9px;
+    right: 9px;
+    bottom: 12px;
+    text-align: center;
+  }
+  .choiceName {
+    justify-content: center;
+    font-size: 14px;
+  }
+  .choiceInvitation {
+    font-size: 12px;
+    min-height: 2.7em;
+  }
+  .choiceName svg {
+    display: none;
+  }
+  .allTours {
+    margin-top: 17px;
+    font-size: 13px;
+  }
+  .destination {
+    position: relative;
+    inset: auto;
+    max-width: 100%;
+    margin-top: 24px;
+    text-align: center;
+  }
+  .destination h2 {
+    display: none;
+  }
+  .tourLink {
+    font-size: 13px;
+    min-height: 48px;
+    gap: 20px;
+  }
+  .scroll {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero[data-assembling] .landscape,
+  .hero[data-assembling] .title,
+  .hero[data-assembling] .destination,
+  .hero[data-assembling] .chooser {
+    animation: none;
+    filter: none;
+    opacity: 1;
+    translate: none;
+  }
+  .choice,
+  .choiceImage img,
+  .tourLink {
+    transition: none;
+    transform: none !important;
+  }
+  .spinner {
+    animation: none;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero {
+    padding-inline: 18px;
+  }
+  .title {
+    font-size: 40px;
+  }
+}

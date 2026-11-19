@@ -1,0 +1,1246 @@
+{
+  "ancient-and-old-izmir-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ancient-and-old-izmir-tour-.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "ancient-echoes-for-modern-pilgrims": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ancient-echoes-for-modern-pilgrims.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "ancient-echoes-of-mystical-turkey": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ancient-echoes-of-mystical-turkey.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "ancient-ephesus-ephesus-museum-terrace-houses": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ancient-ephesus-ephesus-museum-terrace-houses.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "aphrodisias-hierapolis-laodicea-tours-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/aphrodisias-hierapolis-laodicea-tours-from-istanbul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "aphrodisias-hierapolis-laodicea-tours-from-kusadasi": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/aphrodisias-hierapolis-laodicea-tours-from-kusadasi.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "armenian-heritage": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/armenian-heritage.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "biblical-ephesus-tour-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/biblical-ephesus-tour-from-istanbul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "biblical-treasures-of-turkey": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/biblical-treasures-of-turkey.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "cappadocia-tours-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/cappadocia-tours-from-istanbul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "discover-the-hidden-beauty-of-eastern-turkey": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/discover-the-hidden-beauty-of-eastern-turkey.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "ephesus-and-cappadocia-tours-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ephesus-and-cappadocia-tours-from-istanbul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "ephesus-pergamum-tour-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ephesus-pergamum-tour-from-istanbul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "ephesus-sirince-village": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ephesus-sirince-village-.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "ephesus-tours-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ephesus-tours-from-istanbul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "ephesus-tours-from-izmir-c": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ephesus-tours-from-izmir-c.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "ephesus-tours-from-izmir-eph-24": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/ephesus-tours-from-izmir-eph-24.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "explore-exotic-eastern-turkey": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/explore-exotic-eastern-turkey.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "explore-istanbul-and-anatolia": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/explore-istanbul-and-anatolia.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "fascinating-balloon-tour-in-cappadocia": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/fascinating-balloon-tour-in-cappadocia.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "full-day-istanbul-tour-explore-the-magnificent-old-city": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/full-day-istanbul-tour-explore-the-magnificent-old-city.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "full-day-istanbul-tour-marvelous-istanbul-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/full-day-istanbul-tour-marvelous-istanbul-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "full-day-istanbul-tour-private-geocaching-and-old-city": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/full-day-istanbul-tour-private-geocaching-and-old-city-.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "half-day-istanbul-tour-discover-the-highlights-of-the-old-city": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/half-day-istanbul-tour-discover-the-highlights-of-the-old-city.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "in-the-steps-of-alexander-the-great": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/in-the-steps-of-alexander-the-great.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "in-the-steps-of-persian-kings": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/in-the-steps-of-persian-kings.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "in-the-steps-of-st-paul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/in-the-steps-of-st-paul.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "islamic-treasures-of-turkey": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/islamic-treasures-of-turkey.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "istanbul-and-cappadocia-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-and-cappadocia-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "istanbul-and-ephesus-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-and-ephesus-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "istanbul-ephesus-and-cappadocia-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-ephesus-and-cappadocia-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "istanbul-in-the-steps-of-sufies": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-in-the-steps-of-sufies.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "istanbul-mediterranean-history": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-mediterranean-history.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "istanbul-the-anatolian-experience": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-the-anatolian-experience.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "istanbul-the-islamic-heritage": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/istanbul-the-islamic-heritage.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "jewish-heritage": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/jewish-heritage-.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "magical-turkey": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/magical-turkey.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "oriental-asian-tour-of-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/oriental-asian-tour-of-istanbul.html",
+    "versions": {
+      "en": {
+        "included": true,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": true
+      },
+      "nl": {
+        "included": true,
+        "excluded": true
+      }
+    }
+  },
+  "pamukkale-tours-from-izmir": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/pamukkale-tours-from-izmir.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  },
+  "pamukkale-tours-from-kusadasi": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/pamukkale-tours-from-kusadasi.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "priene-miletos-didyma-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/priene-miletos-didyma-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "rumi-s-call-anatolian-culture": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/rumi-s-call-anatolian-culture.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "seven-churches-the-biblical-coast": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/seven-churches-the-biblical-coast.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": true,
+        "excluded": false
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "de": {
+        "included": false,
+        "excluded": true
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "seven-churches-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/seven-churches-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      },
+      "fr": {
+        "included": true,
+        "excluded": false
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "the-mystical-turkey-tour": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/the-mystical-turkey-tour.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": false,
+        "excluded": true
+      }
+    }
+  },
+  "troy-anzac-tours-from-istanbul": {
+    "entranceFees": true,
+    "sourceUrl": "https://www.magical-steps.com/troy-anzac-tours-from-istanbul-.html",
+    "versions": {
+      "en": {
+        "included": false,
+        "excluded": true
+      },
+      "tr": {
+        "included": false,
+        "excluded": true
+      },
+      "de": {
+        "included": true,
+        "excluded": false
+      },
+      "nl": {
+        "included": false,
+        "excluded": true
+      },
+      "ru": {
+        "included": true,
+        "excluded": false
+      }
+    }
+  }
+}

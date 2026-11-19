@@ -1,0 +1,11 @@
+node_modules
+.next
+.magical-next-*
+reports
+assets
+scripts
+*.tsbuildinfo
+*.md
+*.command
+.DS_Store
+.env*

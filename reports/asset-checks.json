@@ -1,0 +1,66 @@
+[
+  {
+    "path": "/fonts/cormorant-garamond-cyrillic-italic.woff2",
+    "status": 200,
+    "bytes": 12736
+  },
+  {
+    "path": "/fonts/manrope-latin.woff2",
+    "status": 200,
+    "bytes": 24436
+  },
+  {
+    "path": "/fonts/manrope-cyrillic.woff2",
+    "status": 200,
+    "bytes": 14368
+  },
+  {
+    "path": "/fonts/cormorant-garamond-cyrillic-ext-italic.woff2",
+    "status": 200,
+    "bytes": 14764
+  },
+  {
+    "path": "/fonts/cormorant-garamond-latin-italic.woff2",
+    "status": 200,
+    "bytes": 23660
+  },
+  {
+    "path": "/fonts/cormorant-garamond-latin.woff2",
+    "status": 200,
+    "bytes": 37776
+  },
+  {
+    "path": "/fonts/manrope-cyrillic-ext.woff2",
+    "status": 200,
+    "bytes": 2584
+  },
+  {
+    "path": "/fonts/cormorant-garamond-latin-ext-italic.woff2",
+    "status": 200,
+    "bytes": 20280
+  },
+  {
+    "path": "/fonts/cormorant-garamond-cyrillic-ext.woff2",
+    "status": 200,
+    "bytes": 23408
+  },
+  {
+    "path": "/fonts/cormorant-garamond-latin-ext.woff2",
+    "status": 200,
+    "bytes": 33740
+  },
+  {
+    "path": "/fonts/cormorant-garamond-cyrillic.woff2",
+    "status": 200,
+    "bytes": 21132
+  },
+  {
+    "path": "/fonts/manrope-latin-ext.woff2",
+    "status": 200,
+    "bytes": 15212
+  },
+  {
+    "path": "src/data/translation-overrides.json",
+    "sha256": "1c2e42aa913a760ed139ff311aefb4b80c12d50decfbccbfdacc46fbe28e33e3"
+  }
+]

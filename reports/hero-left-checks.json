@@ -1,0 +1,44 @@
+{
+  "responsive": [
+    {
+      "columns": "169.5px 169.5px",
+      "headingPx": "51.87px",
+      "overflow": false,
+      "pickerBottom": 743.890625,
+      "scrollY": 0,
+      "selected": "cappadocia",
+      "width": 390
+    },
+    {
+      "columns": "156px 156px",
+      "headingPx": "48px",
+      "overflow": false,
+      "pickerBottom": 722.3984375,
+      "width": 360
+    },
+    {
+      "headingPx": "64px",
+      "overflow": false,
+      "pickerBottom": 799.1640625,
+      "pickerRight": 602.8671875,
+      "width": 768
+    },
+    {
+      "headingPx": "112px",
+      "overflow": false,
+      "pickerBottom": 894.984375,
+      "pickerRight": 863.59375,
+      "width": 1920
+    }
+  ],
+  "desktop1440": {
+    "headingPx": 97.92,
+    "pickerLeft": 93.59,
+    "pickerRight": 733.59,
+    "pickerBottom": 784.52,
+    "selection": "cappadocia",
+    "scrollY": 0
+  },
+  "build": "passed",
+  "typescript": "passed"
+}

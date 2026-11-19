@@ -1,0 +1,122 @@
+{
+  "at": "2026-11-12",
+  "mobileLanguages": [
+    {
+      "actionsBottom": 644.34375,
+      "align": "center",
+      "bottomTop": 732,
+      "contentBottom": 744,
+      "contentWidth": 324,
+      "locale": "en",
+      "overflow": false,
+      "titleHeight": 188.5546875,
+      "titleTop": 217.6484375,
+      "titleWidth": 324,
+      "width": 360
+    },
+    {
+      "actionsBottom": 644.34375,
+      "align": "center",
+      "bottomTop": 732,
+      "contentBottom": 744,
+      "contentWidth": 324,
+      "locale": "tr",
+      "overflow": false,
+      "titleHeight": 188.5546875,
+      "titleTop": 217.6484375,
+      "titleWidth": 324,
+      "width": 360
+    },
+    {
+      "actionsBottom": 644.34375,
+      "align": "center",
+      "bottomTop": 732,
+      "contentBottom": 744,
+      "contentWidth": 324,
+      "locale": "fr",
+      "overflow": false,
+      "titleHeight": 188.5546875,
+      "titleTop": 217.6484375,
+      "titleWidth": 324,
+      "width": 360
+    },
+    {
+      "actionsBottom": 687.796875,
+      "align": "center",
+      "bottomTop": 732,
+      "contentBottom": 744,
+      "contentWidth": 324,
+      "locale": "de",
+      "overflow": false,
+      "titleHeight": 251.40625,
+      "titleTop": 174.203125,
+      "titleWidth": 324,
+      "width": 360
+    },
+    {
+      "actionsBottom": 644.34375,
+      "align": "center",
+      "bottomTop": 732,
+      "contentBottom": 744,
+      "contentWidth": 324,
+      "locale": "nl",
+      "overflow": false,
+      "titleHeight": 188.5546875,
+      "titleTop": 217.6484375,
+      "titleWidth": 324,
+      "width": 360
+    },
+    {
+      "actionsBottom": 689.796875,
+      "align": "center",
+      "bottomTop": 732,
+      "contentBottom": 744,
+      "contentWidth": 324,
+      "locale": "ru",
+      "overflow": false,
+      "titleHeight": 255.40625,
+      "titleTop": 172.203125,
+      "titleWidth": 324,
+      "width": 360
+    }
+  ],
+  "responsive": [
+    {
+      "height": 800,
+      "heroHeight": 864,
+      "overflow": false,
+      "titleFont": "64.8px",
+      "width": 360
+    },
+    {
+      "height": 844,
+      "heroHeight": 912,
+      "overflow": false,
+      "titleFont": "70.2px",
+      "width": 390
+    },
+    {
+      "height": 1024,
+      "heroHeight": 1126,
+      "overflow": false,
+      "titleFont": "88px",
+      "width": 768
+    },
+    {
+      "height": 900,
+      "heroHeight": 990,
+      "overflow": false,
+      "titleFont": "136.8px",
+      "width": 1440
+    },
+    {
+      "height": 1080,
+      "heroHeight": 1188,
+      "overflow": false,
+      "titleFont": "172px",
+      "width": 1920
+    }
+  ],
+  "replay": true,
+  "explore": true
+}

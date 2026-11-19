@@ -1,0 +1,202 @@
+{
+  "checkedAt": "2026-11-12T12:43:33.575894+03:00",
+  "scope": "Local content inventory, previous public crawl, current homepage and selected problem pages. Not a fresh crawl of every source URL.",
+  "imported": {
+    "services": 107,
+    "tours": 66,
+    "hotels": 32,
+    "sailing": 5,
+    "transfers": 4,
+    "categories": 39,
+    "editorialAndMapPages": 39,
+    "sourceWebPImages": 585,
+    "videos": 8,
+    "reviewBlocks": 130,
+    "homepageFeaturedReviews": 2
+  },
+  "sourceCrawl": {
+    "urls": 887,
+    "unavailableResponses": 195,
+    "note": "195 unavailable URL responses do not mean 195 distinct missing content records; many are aliases or language variants."
+  },
+  "liveChecks": {
+    "homepage": 200,
+    "homepageLinksNotInPreviousInventory": 0,
+    "englishSession": 200,
+    "blogCategoryResponses": {
+      "/ephesus-travel-blog.html": 500,
+      "/around-kusadasi-and-izmir.html": 500,
+      "/turkey-blog.html": 500,
+      "/ann-alans-blog.html": 500
+    },
+    "oldHistoryArticle": {
+      "path": "/blog/the-history-of-ephesus_u/",
+      "status": 200,
+      "visibleText": "Magical Steps"
+    },
+    "reviews": {
+      "status": 200,
+      "accordionBlocks": 130
+    }
+  },
+  "gaps": {
+    "hotelsWithoutDetailedSourceBody": [
+      {
+        "id": "adam-amp-eve-all-inclusive-adults-only",
+        "title": "Adam & Eve 5* All Inclusive - Adults Only",
+        "sourceUrl": "https://www.magical-steps.com/adam-amp;-eve-all-inclusive-adults-only.html"
+      },
+      {
+        "id": "aquaworld-belek",
+        "title": "Aquaworld Belek 5*",
+        "sourceUrl": "https://www.magical-steps.com/aquaworld-belek.html"
+      },
+      {
+        "id": "bodrum-holiday-resortamp-spa",
+        "title": "Bodrum Holiday Resort 5*",
+        "sourceUrl": "https://www.magical-steps.com/bodrum-holiday-resortamp;spa.html"
+      },
+      {
+        "id": "club-marma-hotel",
+        "title": "Club Marma Hotel 5*",
+        "sourceUrl": "https://www.magical-steps.com/club-marma-hotel.html"
+      },
+      {
+        "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+        "title": "Crystal Sunrise Queen Luxury Resort 5* All Inclusive",
+        "sourceUrl": "https://www.magical-steps.com/crystal-sunrise-queen-luxury-resort-amp;-spa-all-inclusive.html"
+      },
+      {
+        "id": "d-maris-bay",
+        "title": "D Maris Bay 5*",
+        "sourceUrl": "https://www.magical-steps.com/d-maris-bay.html"
+      },
+      {
+        "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+        "title": "DoubleTree by Hilton Bodrum Isil Club Resort 5*",
+        "sourceUrl": "https://www.magical-steps.com/doubletree-by-hilton-bodrum-isil-club-resort.html"
+      },
+      {
+        "id": "doubletree-by-hilton-bodrum-marina-vista",
+        "title": "DoubleTree by Hilton Bodrum Marina Vista 4*",
+        "sourceUrl": "https://www.magical-steps.com/doubletree-by-hilton-bodrum-marina-vista.html"
+      },
+      {
+        "id": "ela-quality-resort-belek-all-inclusive",
+        "title": "Ela Quality Resort Belek 5* All Inclusive",
+        "sourceUrl": "https://www.magical-steps.com/ela-quality-resort-belek-all-inclusive.html"
+      },
+      {
+        "id": "grand-park-lara-all-inclusive",
+        "title": "Grand Park Lara 5* All Inclusive",
+        "sourceUrl": "https://www.magical-steps.com/grand-park-lara-all-inclusive.html"
+      },
+      {
+        "id": "grand-yazici-club-turban",
+        "title": "Grand Yazici Club Turban 5*",
+        "sourceUrl": "https://www.magical-steps.com/grand-yazici-club-turban.html"
+      },
+      {
+        "id": "grand-yazici-marmaris-palace-all-inclusive",
+        "title": "Grand Yazici Marmaris Palace 5* All Inclusive",
+        "sourceUrl": "https://www.magical-steps.com/grand-yazici-marmaris-palace-all-inclusive.html"
+      },
+      {
+        "id": "innvista-hotel",
+        "title": "Innvista Hotel 5*",
+        "sourceUrl": "https://www.magical-steps.com/innvista-hotel.html"
+      },
+      {
+        "id": "kimeros-park-holiday-village",
+        "title": "Kimeros Park Holiday Village 5*",
+        "sourceUrl": "https://www.magical-steps.com/kimeros-park-holiday-village.html"
+      },
+      {
+        "id": "marmaris-bay-resort",
+        "title": "Marmaris Bay Resort 5*",
+        "sourceUrl": "https://www.magical-steps.com/marmaris-bay-resort.html"
+      },
+      {
+        "id": "salmakis-resort-amp-spa",
+        "title": "Salmakis Resort 5*",
+        "sourceUrl": "https://www.magical-steps.com/salmakis-resort-amp;-spa.html"
+      },
+      {
+        "id": "sunrise-resort-hotel-all-inclusive",
+        "title": "Sunrise Resort Hotel 5* All Inclusive",
+        "sourceUrl": "https://www.magical-steps.com/sunrise-resort-hotel-all-inclusive.html"
+      },
+      {
+        "id": "crystal-family-resortspa-all-inclusive",
+        "title": "Crystal Family Resort & Spa — All inclusive",
+        "sourceUrl": "https://www.magical-steps.com/crystal-family-resortspa-all-inclusive.html"
+      }
+    ],
+    "transferWithoutSourceBody": "bus-transfer",
+    "editorialWithoutSourceBody": "entrance-scholastica-baths",
+    "unrecoveredHistoricalArticles": [
+      "/blog/the-history-of-ephesus_u/",
+      "/blog/the-terrace-houses-of-ephesus_66/",
+      "/blog/the-temple-of-artemis-ephesus_oo/",
+      "/blog/the-house-of-the-virgin-mary-ephesus_2/",
+      "/blog/mary-magdalene_6a/",
+      "/blog/sirince-village-ephesus_or/"
+    ],
+    "mediaFailures": [
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/030b1196_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/6bbcc7bc_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/0ec1efff_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/802be046_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/3ce06a6c_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/298d7a8b_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/537b8301_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/0d73f2bf_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/geziturlar/hotel/hotels/c9f3ab46_z.jpg",
+        "error": "Source returned an empty file"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/msc-crociere-msc-bellissima-01.jpg",
+        "error": "HTTP 404"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/msc-crociere-msc-armonia-01.jpg",
+        "error": "HTTP 404"
+      },
+      {
+        "url": "https://www.magical-steps.com/images/ui/tripadvisor_like.png",
+        "error": "HTTP 404"
+      },
+      {
+        "url": "https://www.magical-steps.com/contents/img/temp/resimyok.jpg",
+        "error": "HTTP 404"
+      }
+    ]
+  },
+  "translationStatus": "Six locales present. Long itineraries and some legal/editorial copy are machine-assisted; not fully reviewed by human editors.",
+  "functionality": "Frontend only. Forms create mailto drafts and copyable text; no reservation record, automatic email sending, payment, live availability or administration panel."
+}

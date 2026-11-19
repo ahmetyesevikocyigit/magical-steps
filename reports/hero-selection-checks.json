@@ -1,0 +1,115 @@
+{
+  "destinations": [
+    {
+      "bodyOverflow": "",
+      "focus": "Explore Ephesus",
+      "image": "Ephesus",
+      "link": "/tours?destination=Ephesus",
+      "openDialogs": 0,
+      "overflow": false,
+      "selected": "ephesus"
+    },
+    {
+      "bodyOverflow": "",
+      "focus": "Explore Cappadocia",
+      "image": "Cappadocia",
+      "link": "/tours?destination=Cappadocia",
+      "openDialogs": 0,
+      "overflow": false,
+      "selected": "cappadocia"
+    },
+    {
+      "bodyOverflow": "",
+      "focus": "Explore Istanbul",
+      "image": "Istanbul",
+      "link": "/tours?destination=Istanbul",
+      "openDialogs": 0,
+      "overflow": false,
+      "selected": "istanbul"
+    },
+    {
+      "bodyOverflow": "",
+      "focus": "Explore Pamukkale",
+      "image": "Pamukkale",
+      "link": "/tours?destination=Pamukkale",
+      "openDialogs": 0,
+      "overflow": false,
+      "selected": "pamukkale"
+    }
+  ],
+  "mobile": {
+    "focus": "Kapadokya turlarını keşfet",
+    "link": "/tr/tours?destination=Cappadocia",
+    "overflow": false,
+    "selected": "cappadocia",
+    "width": 390
+  },
+  "otherLocales": [
+    {
+      "locale": "fr",
+      "link": "/fr/tours?destination=Cappadocia",
+      "overflow": false
+    },
+    {
+      "locale": "de",
+      "link": "/de/tours?destination=Cappadocia",
+      "overflow": false
+    },
+    {
+      "locale": "nl",
+      "link": "/nl/tours?destination=Cappadocia",
+      "overflow": false
+    },
+    {
+      "locale": "ru",
+      "link": "/ru/tours?destination=Cappadocia",
+      "overflow": false
+    }
+  ],
+  "responsive": [
+    {
+      "headingCentered": "center",
+      "height": 800,
+      "heroHeight": 864,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "headingCentered": "center",
+      "height": 844,
+      "heroHeight": 911.515625,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "headingCentered": "start",
+      "height": 1024,
+      "heroHeight": 1126.3984375,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "headingCentered": "start",
+      "height": 900,
+      "heroHeight": 990,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "headingCentered": "start",
+      "height": 1080,
+      "heroHeight": 1188,
+      "overflow": false,
+      "width": 1920
+    }
+  ],
+  "keyboard": {
+    "shiftTabTrapped": true,
+    "escapeRestoresFocusAndScroll": true
+  },
+  "filteredCatalog": {
+    "destination": "Pamukkale",
+    "results": 4
+  },
+  "flightMatchesHeroImage": true
+}

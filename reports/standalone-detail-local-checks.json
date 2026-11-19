@@ -1,0 +1,176 @@
+{
+  "base": "http://127.0.0.1:3000",
+  "at": "2026-11-13T11:24:26.153Z",
+  "count": 24,
+  "failures": [],
+  "results": [
+    {
+      "lang": "en",
+      "path": "/hotels/adam-amp-eve-all-inclusive-adults-only",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "en",
+      "path": "/tours/all-in-one-ephesus-tour",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "en",
+      "path": "/sailing/derya-deniz-marmaris-fethiye-marmaris-c",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "en",
+      "path": "/transfers/bus-transfer",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "tr",
+      "path": "/tr/hotels/adam-amp-eve-all-inclusive-adults-only",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "tr",
+      "path": "/tr/tours/all-in-one-ephesus-tour",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "tr",
+      "path": "/tr/transfers/bus-transfer",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "tr",
+      "path": "/tr/sailing/derya-deniz-marmaris-fethiye-marmaris-c",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "fr",
+      "path": "/fr/tours/all-in-one-ephesus-tour",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "fr",
+      "path": "/fr/hotels/adam-amp-eve-all-inclusive-adults-only",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "fr",
+      "path": "/fr/transfers/bus-transfer",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "fr",
+      "path": "/fr/sailing/derya-deniz-marmaris-fethiye-marmaris-c",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "de",
+      "path": "/de/hotels/adam-amp-eve-all-inclusive-adults-only",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "de",
+      "path": "/de/tours/all-in-one-ephesus-tour",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "de",
+      "path": "/de/transfers/bus-transfer",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "de",
+      "path": "/de/sailing/derya-deniz-marmaris-fethiye-marmaris-c",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "nl",
+      "path": "/nl/hotels/adam-amp-eve-all-inclusive-adults-only",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "nl",
+      "path": "/nl/tours/all-in-one-ephesus-tour",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "nl",
+      "path": "/nl/transfers/bus-transfer",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "nl",
+      "path": "/nl/sailing/derya-deniz-marmaris-fethiye-marmaris-c",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "ru",
+      "path": "/ru/hotels/adam-amp-eve-all-inclusive-adults-only",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "ru",
+      "path": "/ru/transfers/bus-transfer",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "ru",
+      "path": "/ru/tours/all-in-one-ephesus-tour",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    },
+    {
+      "lang": "ru",
+      "path": "/ru/sailing/derya-deniz-marmaris-fethiye-marmaris-c",
+      "status": 200,
+      "requestLinks": 1,
+      "ok": true
+    }
+  ]
+}

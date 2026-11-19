@@ -1,0 +1,42 @@
+[
+  {
+    "destination": "ephesus",
+    "master": "/images/hero-v2/ephesus-desktop-b9feab6690.webp",
+    "masterBytes": 405388,
+    "src": "/images/cards/ephesus-curated-fc8aab060c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 25970,
+    "quality": 80
+  },
+  {
+    "destination": "cappadocia",
+    "master": "/images/hero-v2/cappadocia-desktop-cd32771731.webp",
+    "masterBytes": 867812,
+    "src": "/images/cards/cappadocia-curated-6a6f55126c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 40306,
+    "quality": 80
+  },
+  {
+    "destination": "istanbul",
+    "master": "/images/hero-v2/istanbul-desktop-0c29246bc0.webp",
+    "masterBytes": 260520,
+    "src": "/images/cards/istanbul-curated-6c8738fa2e.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 15634,
+    "quality": 80
+  },
+  {
+    "destination": "pamukkale",
+    "master": "/images/hero-v2/pamukkale-desktop-d2e3400dc0.webp",
+    "masterBytes": 1092264,
+    "src": "/images/cards/pamukkale-curated-3c7c5c0514.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 27940,
+    "quality": 80
+  }
+]

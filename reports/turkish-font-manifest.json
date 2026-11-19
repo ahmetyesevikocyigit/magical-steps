@@ -1,0 +1,41 @@
+[
+  {
+    "source": "manrope-latin-ext.woff2",
+    "output": "manrope-turkish.woff2",
+    "sourceBytes": 15212,
+    "bytes": 2336,
+    "codepoints": [
+      "0x11e",
+      "0x11f",
+      "0x130",
+      "0x15e",
+      "0x15f"
+    ]
+  },
+  {
+    "source": "cormorant-garamond-latin-ext.woff2",
+    "output": "cormorant-garamond-turkish.woff2",
+    "sourceBytes": 33740,
+    "bytes": 2628,
+    "codepoints": [
+      "0x11e",
+      "0x11f",
+      "0x130",
+      "0x15e",
+      "0x15f"
+    ]
+  },
+  {
+    "source": "cormorant-garamond-latin-ext-italic.woff2",
+    "output": "cormorant-garamond-turkish-italic.woff2",
+    "sourceBytes": 20280,
+    "bytes": 1656,
+    "codepoints": [
+      "0x11e",
+      "0x11f",
+      "0x130",
+      "0x15e",
+      "0x15f"
+    ]
+  }
+]

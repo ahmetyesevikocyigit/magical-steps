@@ -1,0 +1,20 @@
+[
+  {
+    "service": "hotels",
+    "title": "Adam & Eve 5* All Inclusive - Yetişkinler Sadece",
+    "modal": true,
+    "directPage": true
+  },
+  {
+    "service": "sailing",
+    "title": "Gulet Marmaris-Hisarönü-Marmaris",
+    "modal": true,
+    "directPage": true
+  },
+  {
+    "service": "transfers",
+    "title": "Bus Transfer",
+    "modal": true,
+    "directPage": true
+  }
+]

@@ -1,0 +1,198 @@
+{
+  "at": "2026-11-12T10:45:48.355Z",
+  "languages": [
+    {
+      "heading": "Find your kind of journey",
+      "locale": "en",
+      "status": "3 matching tours",
+      "url": "http://127.0.0.1:3000/find-your-tour?length=short&departure=Istanbul&interest=landscape&results=1"
+    },
+    {
+      "heading": "Trouvez le voyage qui vous ressemble",
+      "locale": "fr",
+      "status": "3 circuits correspondants",
+      "url": "http://127.0.0.1:3000/fr/find-your-tour?length=short&departure=Istanbul&interest=landscape&results=1"
+    },
+    {
+      "heading": "Finde die Reise, die zu dir passt",
+      "locale": "de",
+      "status": "3 passende Touren",
+      "url": "http://127.0.0.1:3000/de/find-your-tour?length=short&departure=Istanbul&interest=landscape&results=1"
+    },
+    {
+      "heading": "Vind de reis die bij je past",
+      "locale": "nl",
+      "status": "3 passende tours",
+      "url": "http://127.0.0.1:3000/nl/find-your-tour?length=short&departure=Istanbul&interest=landscape&results=1"
+    },
+    {
+      "heading": "Найдите путешествие по душе",
+      "locale": "ru",
+      "status": "3 подходящих тура",
+      "url": "http://127.0.0.1:3000/ru/find-your-tour?length=short&departure=Istanbul&interest=landscape&results=1"
+    },
+    {
+      "heading": "Sana göre bir yolculuk bul",
+      "locale": "tr",
+      "status": "Seçimlerine uygun 3 tur",
+      "url": "http://127.0.0.1:3000/tr/find-your-tour?length=short&departure=Istanbul&interest=landscape&results=1"
+    }
+  ],
+  "responsive": [
+    {
+      "documentWidth": 320,
+      "overflow": false,
+      "template": "finder",
+      "width": 320
+    },
+    {
+      "documentWidth": 360,
+      "overflow": false,
+      "template": "finder",
+      "width": 360
+    },
+    {
+      "documentWidth": 390,
+      "overflow": false,
+      "template": "finder",
+      "width": 390
+    },
+    {
+      "documentWidth": 430,
+      "overflow": false,
+      "template": "finder",
+      "width": 430
+    },
+    {
+      "documentWidth": 768,
+      "overflow": false,
+      "template": "finder",
+      "width": 768
+    },
+    {
+      "documentWidth": 1440,
+      "overflow": false,
+      "template": "finder",
+      "width": 1440
+    },
+    {
+      "documentWidth": 1920,
+      "overflow": false,
+      "template": "finder",
+      "width": 1920
+    },
+    {
+      "documentWidth": 360,
+      "overflow": false,
+      "template": "detail",
+      "width": 360
+    },
+    {
+      "documentWidth": 390,
+      "overflow": false,
+      "template": "detail",
+      "width": 390
+    },
+    {
+      "documentWidth": 768,
+      "overflow": false,
+      "template": "detail",
+      "width": 768
+    },
+    {
+      "documentWidth": 1440,
+      "overflow": false,
+      "template": "detail",
+      "width": 1440
+    },
+    {
+      "documentWidth": 1920,
+      "overflow": false,
+      "template": "detail",
+      "width": 1920
+    },
+    {
+      "documentWidth": 360,
+      "overflow": false,
+      "template": "catalog",
+      "width": 360
+    },
+    {
+      "documentWidth": 390,
+      "overflow": false,
+      "template": "catalog",
+      "width": 390
+    },
+    {
+      "documentWidth": 768,
+      "overflow": false,
+      "template": "catalog",
+      "width": 768
+    },
+    {
+      "documentWidth": 1440,
+      "overflow": false,
+      "template": "catalog",
+      "width": 1440
+    },
+    {
+      "documentWidth": 1920,
+      "overflow": false,
+      "template": "catalog",
+      "width": 1920
+    }
+  ],
+  "catalog": {
+    "filtered": {
+      "count": "10 deneyim",
+      "links": [
+        "Efes · 8 saatKapsamlı Efes turu$80.00 / Kişi başı",
+        "Efes · 13 saatİstanbul çıkışlı Efes’in Hristiyanlık mirasıKeşfet",
+        "Efes · 8 saatRoma dönemi Efes’i ve Hristiyanlık mirası$80.00 / Kişi başı",
+        "Efes · 8 saatEfes, Meryem Ana Evi ve Şirince Köyü$90.00 / Kişi başı",
+        "Efes · 8 saatBodrum çıkışlı Efes turuKeşfet",
+        "Efes · 8 saatİzmir çıkışlı Efes turuKeşfet",
+        "Efes · 8 saatEfes ve Meryem Ana Evi$80.00 / Kişi başı",
+        "Efes · 2 gece - 3 günİstanbul ve EfesKeşfet",
+        "Efes · 6 saatİsa’nın hayatında iki Meryem$80.00 / Kişi başı",
+        "Efes · 8 saatKuşadası çıkışlı Efes turu$50.00 / Kişi başı"
+      ],
+      "url": "http://127.0.0.1:3000/tr/tours?destination=Ephesus&q=Meryem"
+    },
+    "back": {
+      "count": "10 deneyim",
+      "search": "Meryem",
+      "url": "http://127.0.0.1:3000/tr/tours?destination=Ephesus&q=Meryem"
+    },
+    "more": {
+      "cards": 36,
+      "url": "http://127.0.0.1:3000/tr/tours?limit=36"
+    },
+    "reload": {
+      "cards": 36,
+      "url": "http://127.0.0.1:3000/tr/tours?limit=36"
+    }
+  },
+  "form": {
+    "mailto": "mailto:info@magical-steps.com?subject=%C4%B0stanbul%20%C3%A7%C4%B1k%C4%B1%C5%9Fl%C4%B1%20Kapadokya%20turlar%C4%B1&body=%C4%B0stanbul%20%C3%A7%C4%B1k%C4%B1%C5%9Fl%C4%B1%20Kapadokya%20turlar%C4%B1%0A%0AAd%20soyad%3A%20Test%20Misafir%0AE-posta%20adresi%3A%20test%40example.com%0ATercih%20edilen%20tarih%3A%202026-12-01%0AKi%C5%9Fi%20say%C4%B1s%C4%B1%3A%202%0AOtel%2C%20liman%20veya%20hareket%20noktas%C4%B1%3A%20%C4%B0stanbul%20%E2%80%94%20aray%C3%BCz%20testi%0A%0AAray%C3%BCz%20denemesi.%20E-posta%20g%C3%B6nderilmez.",
+    "status": [
+      "Seçimlerine uygun 3 tur",
+      "E-posta taslağın hazır.",
+      "Taslak kopyalandı."
+    ],
+    "visibleBottomCTA": 0
+  },
+  "empty": {
+    "resetURL": "http://127.0.0.1:3000/tr/find-your-tour",
+    "resetHeading": "Sana göre bir yolculuk bul"
+  },
+  "modal": {
+    "escape": true,
+    "focusTrapped": true,
+    "cardFocusRestored": true
+  },
+  "hero": {
+    "selected": "Pamukkale",
+    "mergeObserved": true
+  }
+}

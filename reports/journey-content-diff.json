@@ -1,0 +1,2501 @@
+{
+  "comparedTo": "pre-phase backup",
+  "changedFields": 496,
+  "changedRecords": 325,
+  "changedContentIDs": 96,
+  "perLanguage": {
+    "nl": 119,
+    "tr": 90,
+    "en": 73,
+    "de": 76,
+    "ru": 80,
+    "fr": 58
+  },
+  "perField": {
+    "bodyHtml": 299,
+    "description": 190,
+    "title": 7
+  },
+  "changes": [
+    {
+      "id": "short-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "turkey-tours",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "turkey-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "christian-tours",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "christian-tours",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "jewish-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tours-from-istanbul",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "tours-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tours-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tours-from-kusadasi",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "izmir-tours",
+      "locale": "nl",
+      "field": "title"
+    },
+    {
+      "id": "izmir-tours",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "izmir-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tours-from-izmir",
+      "locale": "nl",
+      "field": "title"
+    },
+    {
+      "id": "tours-from-izmir",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "tours-from-izmir",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "cappadocia-tours",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sagalassos-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "all-in-one-ephesus-tour",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "all-in-one-ephesus-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "all-in-one-ephesus-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-echoes-for-modern-pilgrims",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-echoes-for-modern-pilgrims",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-echoes-for-modern-pilgrims",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-echoes-for-modern-pilgrims",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-ephesus-and-ephesus-museum",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-ephesus-and-ephesus-museum",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-ephesus-and-ephesus-museum",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-ephesus-ephesus-museum-terrace-houses",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-ephesus-ephesus-museum-terrace-houses",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-ephesus-ephesus-museum-terrace-houses",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aphrodisias-hierapolis-laodicea-tours-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-ephesus-tour-from-istanbul",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-ephesus-tour-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-ephesus-tour-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-ephesus-tour-from-istanbul",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-treasures-of-turkey",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-treasures-of-turkey",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-treasures-of-turkey",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-treasures-of-turkey",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "enjoy-roman-ephesus-its-christian-heritage",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "enjoy-roman-ephesus-its-christian-heritage",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "enjoy-roman-ephesus-its-christian-heritage",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "enjoy-roman-ephesus-its-christian-heritage",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-house-of-the-virgin-mary-and-sirince-village",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-sirince-village",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-sirince-village",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-sirince-village",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-c",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-c",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-c",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "nl",
+      "field": "title"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-izmir-eph-24",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "full-day-istanbul-tour-explore-the-magnificent-old-city",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "full-day-istanbul-tour-marvelous-istanbul-tour",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "half-day-istanbul-tour-discover-the-highlights-of-the-old-city",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "highlights-of-ephesus-house-of-the-virgin-mary",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "highlights-of-ephesus-house-of-the-virgin-mary",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "highlights-of-ephesus-house-of-the-virgin-mary",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "highlights-of-ephesus-house-of-the-virgin-mary",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "in-the-steps-of-persian-kings",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-persian-kings",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-persian-kings",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-st-paul",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-st-paul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-st-paul",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-in-the-steps-of-sufies",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-in-the-steps-of-sufies",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "jewish-heritage",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "jewish-heritage",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "jewish-heritage",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "pamukkale-tours-from-izmir",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "pamukkale-tours-from-izmir",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "pamukkale-tours-from-kusadasi",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "priene-miletos-didyma-tour",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-the-biblical-coast",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "seven-churches-the-biblical-coast",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "seven-churches-the-biblical-coast",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "seven-churches-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "st-john-s-and-st-paul-s-ephesus-tour",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "st-john-s-and-st-paul-s-ephesus-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "st-john-s-and-st-paul-s-ephesus-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "two-mary-s-of-jesus-christ-tour",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "two-mary-s-of-jesus-christ-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "two-mary-s-of-jesus-christ-tour",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "two-mary-s-of-jesus-christ-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tury-v-efes-iz-kusadasy",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tury-v-efes-iz-kusadasy",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tury-v-efes-iz-kusadasy",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tury-v-efes-iz-kusadasy",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "tury-v-efes-iz-kusadasy",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "cappadocia-tours-from-istanbul",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "crystal-family-resortspa-all-inclusive",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "adam-amp-eve-all-inclusive-adults-only",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-and-old-izmir-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ancient-echoes-of-mystical-turkey",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aphrodisias-hierapolis-laodicea-tours-from-kusadasi",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "aquaworld-belek",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "armenian-heritage",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "armenian-heritage",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "armenian-heritage",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "armenian-heritage",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "biblical-ephesus-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "bodrum-holiday-resortamp-spa",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "breathtaking-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "en",
+      "field": "title"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "tr",
+      "field": "title"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "fr",
+      "field": "title"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "ru",
+      "field": "title"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "bus-transfer",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "club-marma-hotel",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "crystal-sunrise-queen-luxury-resort-amp-spa-all-inclusive",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "d-maris-bay",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "discover-ephesus-its-goddess-artemis",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "discover-ephesus-its-goddess-artemis",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "discover-ephesus-its-goddess-artemis",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "discover-the-hidden-beauty-of-eastern-turkey",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "discover-the-hidden-beauty-of-eastern-turkey",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-isil-club-resort",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "doubletree-by-hilton-bodrum-marina-vista",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "ela-quality-resort-belek-all-inclusive",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-and-cappadocia-tours-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-and-cappadocia-tours-from-istanbul",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-and-cappadocia-tours-from-istanbul",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-and-cappadocia-tours-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-pergamum-tour-from-istanbul",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-pergamum-tour-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-pergamum-tour-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-istanbul",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-istanbul",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-tours-from-istanbul",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "ephesus-tours-from-istanbul",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "explore-exotic-eastern-turkey",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "explore-istanbul-and-anatolia",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "explore-istanbul-and-anatolia",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "fascinating-balloon-tour-in-cappadocia",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "fascinating-balloon-tour-in-cappadocia",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "fascinating-balloon-tour-in-cappadocia",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "fascinating-balloon-tour-in-cappadocia",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "gobeklitepe-tours",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "grand-park-lara-all-inclusive",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-club-turban",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "grand-yazici-marmaris-palace-all-inclusive",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-alexander-the-great",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-alexander-the-great",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "in-the-steps-of-alexander-the-great",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "innvista-hotel",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-cappadocia-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-cappadocia-tour",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-cappadocia-tour",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-cappadocia-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-ephesus-tour",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-ephesus-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-ephesus-tour",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-and-ephesus-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-ephesus-and-cappadocia-tour",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-ephesus-and-cappadocia-tour",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-ephesus-and-cappadocia-tour",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-ephesus-and-cappadocia-tour",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-ephesus-and-cappadocia-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-mediterranean-history",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "istanbul-the-anatolian-experience",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "kimeros-park-holiday-village",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "kustur-holiday-club-village",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "magical-turkey",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "manastir-hotel-suites",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "marmaris-bay-resort",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "rumi-s-call-anatolian-culture",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "rumi-s-call-anatolian-culture",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sagalassos-tour-from-istanbul",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "sagalassos-tour-from-istanbul",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "salmakis-resort-amp-spa",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "st-paul-s-ephesus-tour",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "st-paul-s-ephesus-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "st-paul-s-ephesus-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "sunrise-resort-hotel-all-inclusive",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "the-lost-city-of-sagalassos-tour",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "the-lost-city-of-sagalassos-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "the-mystical-turkey-tour",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "the-mystical-turkey-tour",
+      "locale": "ru",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "troy-anzac-tours-from-istanbul",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "gallery",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "blog",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "blog",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "reviews",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "reviews",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "ephesus-map",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "about",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "about",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "en",
+      "field": "description"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "en",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "tr",
+      "field": "description"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "tr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "fr",
+      "field": "description"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "fr",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "de",
+      "field": "description"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "de",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "nl",
+      "field": "description"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "nl",
+      "field": "bodyHtml"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "ru",
+      "field": "description"
+    },
+    {
+      "id": "entrance-scholastica-baths",
+      "locale": "ru",
+      "field": "bodyHtml"
+    }
+  ]
+}

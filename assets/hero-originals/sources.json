@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ephesus",
+    "name": "Ephesus",
+    "photo": 15271623,
+    "author": "Fatih Doğrul",
+    "page": "https://www.pexels.com/photo/library-of-celsus-in-ephesus-ancient-city-in-turkey-15271623/",
+    "url": "https://images.pexels.com/photos/15271623/pexels-photo-15271623.jpeg?cs=srgb&fm=jpg",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "downloadedAt": "2026-11-12",
+    "original": "assets/hero-originals/ephesus-15271623.jpg"
+  },
+  {
+    "id": "cappadocia",
+    "name": "Cappadocia",
+    "photo": 40293086,
+    "author": "Guerrero De la Luz",
+    "page": "https://www.pexels.com/photo/hot-air-balloons-over-cappadocia-at-sunrise-40293086/",
+    "url": "https://images.pexels.com/photos/40293086/pexels-photo-40293086.jpeg?cs=srgb&fm=jpg",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "downloadedAt": "2026-11-12",
+    "original": "assets/hero-originals/cappadocia-40293086.jpg"
+  },
+  {
+    "id": "istanbul",
+    "name": "Istanbul",
+    "photo": 40622072,
+    "author": "MEHMET SÜTLAŞ",
+    "page": "https://www.pexels.com/photo/blue-mosque-at-twilight-istanbul-skyline-40622072/",
+    "url": "https://images.pexels.com/photos/40622072/pexels-photo-40622072.jpeg?cs=srgb&fm=jpg",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "downloadedAt": "2026-11-12",
+    "original": "assets/hero-originals/istanbul-40622072.jpg"
+  },
+  {
+    "id": "pamukkale",
+    "name": "Pamukkale",
+    "photo": 31022951,
+    "author": "Mert Ocak",
+    "page": "https://www.pexels.com/photo/stunning-travertine-terraces-at-pamukkale-turkey-31022951/",
+    "url": "https://images.pexels.com/photos/31022951/pexels-photo-31022951.jpeg?cs=srgb&fm=jpg",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "downloadedAt": "2026-11-12",
+    "original": "assets/hero-originals/pamukkale-31022951.jpg"
+  }
+]

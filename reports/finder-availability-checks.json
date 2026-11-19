@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-11-12T18:03:54.266301+00:00",
+  "buildId": "c0ImE6fAGuOtuPDnWkfwy",
+  "tours": 66,
+  "missingDuration": [
+    "sirince-from-kusadasi"
+  ],
+  "missingDeparture": [
+    "biblical-ephesus-tour",
+    "customized-ephesus-tour"
+  ],
+  "testedCombinations": 175,
+  "previouslyEmptyCombinations": 99,
+  "unitTests": {
+    "passed": 10,
+    "failed": 0
+  },
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "browser": {
+    "normalFlow": "long + Istanbul + landscape = 2 tours",
+    "unavailable": "Bodrum disabled for long tours",
+    "savedEmptyUrlRecovery": "long + Bodrum + city -> explicitly relax departure -> 4 tours",
+    "history": "chosen interest preserved after browser Back and reload",
+    "languages": [
+      "en",
+      "tr",
+      "fr",
+      "de",
+      "nl",
+      "ru"
+    ],
+    "overflowWidths": [
+      320,
+      390,
+      430,
+      1440
+    ],
+    "keyboard": "recovery button activated with Enter"
+  },
+  "lighthouse": {
+    "url": "http://127.0.0.1:3000/tr/find-your-tour",
+    "median": {
+      "mobile": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "desktop": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      }
+    },
+    "runs": 6,
+    "lighthouseVersion": "13.6.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "scope": "local production finder landing page; 3 default mobile + 3 official desktop runs"
+  }
+}

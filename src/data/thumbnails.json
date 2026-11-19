@@ -1,0 +1,668 @@
+{
+  "/images/31758206-z-c48744bf87.webp": {
+    "src": "/images/cards/31758206-z-17e40be0ee.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 33650
+  },
+  "/images/history-of-ephesus-700-ku0-ac52ab4d0b.webp": {
+    "src": "/images/cards/history-of-ephesus-700-ku0-6f1b84d545.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 32836
+  },
+  "/images/agora-izmir-700-27h4-6b8ec0ce64.webp": {
+    "src": "/images/cards/agora-izmir-700-27h4-78bb264598.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 80306
+  },
+  "/images/chora-church1024-700-x6g-358748928d.webp": {
+    "src": "/images/cards/chora-church1024-700-x6g-d64859a853.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 61408
+  },
+  "/images/antakya-mosaic-museum-700-1b2g-f7ba5c82e6.webp": {
+    "src": "/images/cards/antakya-mosaic-museum-700-1b2g-3cd87c6b90.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 67982
+  },
+  "/images/image-700-1ucw-0fb2cfed6a.webp": {
+    "src": "/images/cards/image-700-1ucw-e9789c97d1.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 84344
+  },
+  "/images/13-9-terrace-houses-in-ephesus-700-24e0-d663d2bb96.webp": {
+    "src": "/images/cards/13-9-terrace-houses-in-ephesus-700-24e0-7cd99c72bc.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 41740
+  },
+  "/images/jfi6qrrujyq01-kopya-700-2umg-dfedec806e.webp": {
+    "src": "/images/cards/jfi6qrrujyq01-kopya-700-2umg-48ef29d307.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 82054
+  },
+  "/images/596339b018c7731864ab8d19-700-2t2w-43b59f64f0.webp": {
+    "src": "/images/cards/596339b018c7731864ab8d19-700-2t2w-616f776820.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 44110
+  },
+  "/images/45e6d128-z-3bd8238431.webp": {
+    "src": "/images/cards/45e6d128-z-adc876896f.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 33692
+  },
+  "/images/akdamar-island-1024-700-zhs-fe5c8ab2dd.webp": {
+    "src": "/images/cards/akdamar-island-1024-700-zhs-af21bcc931.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 44528
+  },
+  "/images/f3f0f845-z-8436ef48a4.webp": {
+    "src": "/images/cards/f3f0f845-z-dfad6db4e2.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 23180
+  },
+  "/images/ephesus1-700-29sg-de9f8a2016.webp": {
+    "src": "/images/cards/ephesus1-700-29sg-a92daf7369.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 56130
+  },
+  "/images/st-jean-2-700-1lvc-38d65bb34d.webp": {
+    "src": "/images/cards/st-jean-2-700-1lvc-14fcad1ab3.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 49256
+  },
+  "/images/hagia-sophia-wallpaper-normal-700-weo-17e9947908.webp": {
+    "src": "/images/cards/hagia-sophia-wallpaper-normal-700-weo-918bfda660.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 36076
+  },
+  "/images/da3bc1de-z-133c267738.webp": {
+    "src": "/images/cards/da3bc1de-z-6a62424f6d.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 28744
+  },
+  "/images/istanbul2-700-177k-7a1401c359.webp": {
+    "src": "/images/cards/istanbul2-700-177k-76503bf262.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 29580
+  },
+  "/images/setra-comfort-1-600x380-38387b8987.webp": {
+    "src": "/images/cards/setra-comfort-1-600x380-02d911df86.webp",
+    "width": 502,
+    "height": 380,
+    "bytes": 17836
+  },
+  "/images/cavusin-and-zelve-in-cappadocia-700-ffk-445f8f7b89.webp": {
+    "src": "/images/cards/cavusin-and-zelve-in-cappadocia-700-ffk-629e2d200a.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 54324
+  },
+  "/images/c027bbef-z-19ccc3f38f.webp": {
+    "src": "/images/cards/c027bbef-z-08a467dd86.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 39098
+  },
+  "/images/b68a8001-z-36e88451d6.webp": {
+    "src": "/images/cards/b68a8001-z-60a8d5d063.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 67962
+  },
+  "/images/great-theatre-ephesus-700-1mn4-6441341771.webp": {
+    "src": "/images/cards/great-theatre-ephesus-700-1mn4-203df0573b.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 83176
+  },
+  "/images/e99c479c-z-4e1b027d37.webp": {
+    "src": "/images/cards/e99c479c-z-b3002d11d7.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 41952
+  },
+  "/images/elvv4z8gxmrmryn8vevb-9007346e40.webp": {
+    "src": "/images/cards/elvv4z8gxmrmryn8vevb-abee65e3c8.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 46112
+  },
+  "/images/artemis-1024-700-n5c-ba6b6d6816.webp": {
+    "src": "/images/cards/artemis-1024-700-n5c-62536d4e10.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 23048
+  },
+  "/images/s-melamonastry1024-700-18r4-db76217dcc.webp": {
+    "src": "/images/cards/s-melamonastry1024-700-18r4-24db812d92.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 56560
+  },
+  "/images/r8miuft29i7n8ess8ilm-a8265a0a0b.webp": {
+    "src": "/images/cards/r8miuft29i7n8ess8ilm-93fa84b942.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 29958
+  },
+  "/images/skorpino-restaurant-2b08d7a621.webp": {
+    "src": "/images/cards/skorpino-restaurant-f6129eb67d.webp",
+    "width": 414,
+    "height": 314,
+    "bytes": 26572
+  },
+  "/images/exterior-344a886c85.webp": {
+    "src": "/images/cards/exterior-00ad3f237b.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 31862
+  },
+  "/images/232faadc-z-63ea634582.webp": {
+    "src": "/images/cards/232faadc-z-9a059aa5d4.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 46934
+  },
+  "/images/elabelek-lakehousearea7-2019-4042a7c24e.webp": {
+    "src": "/images/cards/elabelek-lakehousearea7-2019-f76629f177.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 48208
+  },
+  "/images/library-of-celsus-ephesusturkey-700-4pg-b00eca68ab.webp": {
+    "src": "/images/cards/library-of-celsus-ephesusturkey-700-4pg-96ac2f385b.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 39652
+  },
+  "/images/ephesus-celsus-bibliothek-700-r08-3152661dc9.webp": {
+    "src": "/images/cards/ephesus-celsus-bibliothek-700-r08-a084c046c9.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 42084
+  },
+  "/images/2368369-temple-of-hadrian-ephesus-700-jag-d09df281eb.webp": {
+    "src": "/images/cards/2368369-temple-of-hadrian-ephesus-700-jag-33e402ee2e.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 57600
+  },
+  "/images/pergamum2-700-sjs-4abfa4e8e3.webp": {
+    "src": "/images/cards/pergamum2-700-sjs-75a7162fa3.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 27880
+  },
+  "/images/sirince3-700-oow-2d040b22ae.webp": {
+    "src": "/images/cards/sirince3-700-oow-051bae29fc.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 38030
+  },
+  "/images/ephesus-theatre-700-k28-b0fe7c9c6a.webp": {
+    "src": "/images/cards/ephesus-theatre-700-k28-b5e92f0200.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 69590
+  },
+  "/images/ephesus-tour-jpg1024-700-20j4-f0a0fb188a.webp": {
+    "src": "/images/cards/ephesus-tour-jpg1024-700-20j4-65e7da7473.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 46068
+  },
+  "/images/celsus-ephesus-1024-700-20j4-b3c00269ec.webp": {
+    "src": "/images/cards/celsus-ephesus-1024-700-20j4-c9d18b75bd.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 56186
+  },
+  "/images/adiyaman-nemrut-dagi-meshur-700-17zc-936a40a498.webp": {
+    "src": "/images/cards/adiyaman-nemrut-dagi-meshur-700-17zc-5cedb0a4a9.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 31634
+  },
+  "/images/ephesus-turkey-768x1024-700-1i0g-91678d04a1.webp": {
+    "src": "/images/cards/ephesus-turkey-768x1024-700-1i0g-feca19342c.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 46922
+  },
+  "/images/cappadocia-balloons-1024-700-g7c-a608ceea1f.webp": {
+    "src": "/images/cards/cappadocia-balloons-1024-700-g7c-c7e4286034.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 27238
+  },
+  "/images/istanbul-0273-topkapi-sarayi-1993-0273-20080528-700-dw0-feecb5731d.webp": {
+    "src": "/images/cards/istanbul-0273-topkapi-sarayi-1993-0273-20080528-700-dw0-daf8ccae25.webp",
+    "width": 461,
+    "height": 349,
+    "bytes": 28412
+  },
+  "/images/sultanahmet-istanbul-700-pgo-45ed692ba0.webp": {
+    "src": "/images/cards/sultanahmet-istanbul-700-pgo-76e6062312.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 38670
+  },
+  "/images/image-700-1vwg-771a113f01.webp": {
+    "src": "/images/cards/image-700-1vwg-bbef8c3616.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 33374
+  },
+  "/images/gobeklitepe-700-2sb4-5506b7f19d.webp": {
+    "src": "/images/cards/gobeklitepe-700-2sb4-47ded356ca.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 58968
+  },
+  "/images/ec90f714-z-92f573f585.webp": {
+    "src": "/images/cards/ec90f714-z-b5b7d6ab08.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 54360
+  },
+  "/images/4b9452aa-z-288429db56.webp": {
+    "src": "/images/cards/4b9452aa-z-0b3116d665.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 35664
+  },
+  "/images/9308fc9c-z-15713c776f.webp": {
+    "src": "/images/cards/9308fc9c-z-d28886e6ee.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 69572
+  },
+  "/images/88vmghl2rysyswmyquaa-e39bf529a6.webp": {
+    "src": "/images/cards/88vmghl2rysyswmyquaa-4c2fdc3463.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 58360
+  },
+  "/images/1524212665-e71fe4afa0.webp": {
+    "src": "/images/cards/1524212665-dd9ac11f62.webp",
+    "width": 475,
+    "height": 360,
+    "bytes": 21448
+  },
+  "/images/1524300805-42e8f2d271.webp": {
+    "src": "/images/cards/1524300805-362788927a.webp",
+    "width": 507,
+    "height": 384,
+    "bytes": 31282
+  },
+  "/images/hagia-sophia-700-ens-a10b65532f.webp": {
+    "src": "/images/cards/hagia-sophia-700-ens-e1181380b3.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 38102
+  },
+  "/images/the-house-of-virgin-mary-700-nx4-181708f926.webp": {
+    "src": "/images/cards/the-house-of-virgin-mary-700-nx4-0c7c7fed49.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 55272
+  },
+  "/images/alex-mosaic-27-700-144g-afda221255.webp": {
+    "src": "/images/cards/alex-mosaic-27-700-144g-0f1b6ed590.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 38940
+  },
+  "/images/adiyaman-nemrut-mountain-1024-700-yq0-8cb99f64e2.webp": {
+    "src": "/images/cards/adiyaman-nemrut-mountain-1024-700-yq0-36040e673d.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 56874
+  },
+  "/images/chora-church-700-uv4-f99b82ce94.webp": {
+    "src": "/images/cards/chora-church-700-uv4-bea30cd486.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 55444
+  },
+  "/images/general-view-15-87b6bdddbc.webp": {
+    "src": "/images/cards/general-view-15-b98ad9a438.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 33206
+  },
+  "/images/topkapi-palace-istanbul-jpg1024-700-109k-4141284480.webp": {
+    "src": "/images/cards/topkapi-palace-istanbul-jpg1024-700-109k-e38c2776ab.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 54788
+  },
+  "/images/cappadociaballoon1024-700-13co-11480592a4.webp": {
+    "src": "/images/cards/cappadociaballoon1024-700-13co-5d45a6c537.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 40502
+  },
+  "/images/istanbul-ayasofya-camii-1024x768-700-12kw-0e80a21298.webp": {
+    "src": "/images/cards/istanbul-ayasofya-camii-1024x768-700-12kw-5dfc2c4b05.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 33646
+  },
+  "/images/capadokya-1024-700-1is8-c79ca254bd.webp": {
+    "src": "/images/cards/capadokya-1024-700-1is8-2ed946891c.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 40258
+  },
+  "/images/whirling-dervishes1024-700-111c-2bb46a9379.webp": {
+    "src": "/images/cards/whirling-dervishes1024-700-111c-e434c3109f.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 29322
+  },
+  "/images/perge-antalya1024-700-1aao-c1d1dfb1f1.webp": {
+    "src": "/images/cards/perge-antalya1024-700-1aao-c1b7299705.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 58884
+  },
+  "/images/capadokya-1024-700-19iw-c0be1770e0.webp": {
+    "src": "/images/cards/capadokya-1024-700-19iw-1f606c0b29.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 39764
+  },
+  "/images/istanbul-blue-mosque-jpg1024-700-11t4-1b5084a036.webp": {
+    "src": "/images/cards/istanbul-blue-mosque-jpg1024-700-11t4-e17766a979.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 40980
+  },
+  "/images/sardes-1024-700-xy8-fc58b95c9b.webp": {
+    "src": "/images/cards/sardes-1024-700-xy8-cee6846511.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 27614
+  },
+  "/images/415b969b-z-1f2eb2ff06.webp": {
+    "src": "/images/cards/415b969b-z-d587af357d.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 49100
+  },
+  "/images/kustur-air-photo-49722a5dff.webp": {
+    "src": "/images/cards/kustur-air-photo-7ecd1eb0c3.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 61980
+  },
+  "/images/pamukkale-denizli-1024x768-700-14w8-96a67bb5f0.webp": {
+    "src": "/images/cards/pamukkale-denizli-1024x768-700-14w8-14707a1bc7.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 27644
+  },
+  "/images/4-35ddac114b.webp": {
+    "src": "/images/cards/4-8669d4fe09.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 53164
+  },
+  "/images/4085c889-z-420230f872.webp": {
+    "src": "/images/cards/4085c889-z-bfea564ee5.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 49442
+  },
+  "/images/a73feeb5-z-b78e0ac7fc.webp": {
+    "src": "/images/cards/a73feeb5-z-a24f9ff305.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 34848
+  },
+  "/images/95881a33-z-0f7c741eb8.webp": {
+    "src": "/images/cards/95881a33-z-bab3473c15.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 41240
+  },
+  "/images/myra-f85df84e1d.webp": {
+    "src": "/images/cards/myra-eaa2b65071.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 50366
+  },
+  "/images/1e391501-z-cb84531c5f.webp": {
+    "src": "/images/cards/1e391501-z-9240f54a7e.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 52194
+  },
+  "/images/image-700-1y7s-24671ae3d2.webp": {
+    "src": "/images/cards/image-700-1y7s-a7945b1caf.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 54972
+  },
+  "/images/d47d373c-z-41eaad9bc9.webp": {
+    "src": "/images/cards/d47d373c-z-6cfd463c44.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 31048
+  },
+  "/images/pamukkale111-700-22ug-f2ade976f8.webp": {
+    "src": "/images/cards/pamukkale111-700-22ug-f677882224.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 24488
+  },
+  "/images/travertine-terraces-of-pamukkale-turkey-oceancorbis-700-222o-b2fff9285a.webp": {
+    "src": "/images/cards/travertine-terraces-of-pamukkale-turkey-oceancorbis-700-222o-a83f7b3652.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 37370
+  },
+  "/images/e02c94bd-z-829719b6df.webp": {
+    "src": "/images/cards/e02c94bd-z-085f0943f6.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 42706
+  },
+  "/images/aspendos-5dab3dfc4b.webp": {
+    "src": "/images/cards/aspendos-ffa882107d.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 50140
+  },
+  "/images/phaselis-1afac647f4.webp": {
+    "src": "/images/cards/phaselis-f5a22a8457.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 29760
+  },
+  "/images/didyma-700-tbk-0af83e522a.webp": {
+    "src": "/images/cards/didyma-700-tbk-9d7db8dbf3.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 40132
+  },
+  "/images/viptransfer-9d91c8c58f.webp": {
+    "src": "/images/cards/viptransfer-3968bd578c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 27512
+  },
+  "/images/konya-whirling-dervishes-700-15o0-9f81146979.webp": {
+    "src": "/images/cards/konya-whirling-dervishes-700-15o0-b31034f943.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 18046
+  },
+  "/images/sagalassos-antik-kenti-servet-uygun-700-290o-26cca14bda.webp": {
+    "src": "/images/cards/sagalassos-antik-kenti-servet-uygun-700-290o-c5a1637ec8.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 71148
+  },
+  "/images/salmakis-genel-e9ce5f8e70.webp": {
+    "src": "/images/cards/salmakis-genel-72e69a0f15.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 48612
+  },
+  "/images/interior-of-the-hagia-sophia-700-vmw-9385620c01.webp": {
+    "src": "/images/cards/interior-of-the-hagia-sophia-700-vmw-8bc4ae679c.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 61836
+  },
+  "/images/ausgrabungen-laodicea-strasse-sulen-trkei-anatolien-700-rs0-0394741826.webp": {
+    "src": "/images/cards/ausgrabungen-laodicea-strasse-sulen-trkei-anatolien-700-rs0-eecc65120d.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 27824
+  },
+  "/images/mercedes-private-transfer-600x380-0f1858d988.webp": {
+    "src": "/images/cards/mercedes-private-transfer-600x380-df0cfec635.webp",
+    "width": 502,
+    "height": 380,
+    "bytes": 22474
+  },
+  "/images/unnamed-b7bfb73bb7.webp": {
+    "src": "/images/cards/unnamed-dc93b99460.webp",
+    "width": 343,
+    "height": 260,
+    "bytes": 12548
+  },
+  "/images/sirince-from-kusadasi-699d27618c.webp": {
+    "src": "/images/cards/sirince-from-kusadasi-5f75357d59.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 67390
+  },
+  "/images/image-700-1stc-ccb18ecfc2.webp": {
+    "src": "/images/cards/image-700-1stc-daf87a6a17.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 51720
+  },
+  "/images/mary-church-01-700-1r9s-70da9accd0.webp": {
+    "src": "/images/cards/mary-church-01-700-1r9s-4d9e5d0780.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 54308
+  },
+  "/images/03a6fba7-z-704908fc53.webp": {
+    "src": "/images/cards/03a6fba7-z-8397ebf26c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 46692
+  },
+  "/images/sagalassos-700-288w-8436fe3556.webp": {
+    "src": "/images/cards/sagalassos-700-288w-5bb0769d3d.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 64596
+  },
+  "/images/mardin-midyat-700-16fs-90e5df155b.webp": {
+    "src": "/images/cards/mardin-midyat-700-16fs-ea2df500d1.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 59372
+  },
+  "/images/3415-6343-3111-img-5634-hdr-d702f3bf37.webp": {
+    "src": "/images/cards/3415-6343-3111-img-5634-hdr-2b090e08bd.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 28692
+  },
+  "/images/2-days-gallipoli-snorkeling-646-700-2pzs-d0c9e9a6cd.webp": {
+    "src": "/images/cards/2-days-gallipoli-snorkeling-646-700-2pzs-03123b0628.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 67514
+  },
+  "/images/apse-of-the-ancient-byzantine-church-of-the-virgin-mary-where-the-thir-aee9f53890.webp": {
+    "src": "/images/cards/apse-of-the-ancient-byzantine-church-of-the-virgin-mary-where-the-thir-ce1b892f5c.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 61004
+  },
+  "/images/0c7d3e53-z-f1f83e2fce.webp": {
+    "src": "/images/cards/0c7d3e53-z-665d948498.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 16626
+  },
+  "/images/bfe5c9be-z-60274c3f5a.webp": {
+    "src": "/images/cards/bfe5c9be-z-870b4f35c1.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 32594
+  },
+  "/images/034400c8-z-0dcf72d917.webp": {
+    "src": "/images/cards/034400c8-z-5d64bfe641.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 28942
+  },
+  "/images/e99318c7-z-a7ffd50508.webp": {
+    "src": "/images/cards/e99318c7-z-c8d26c1c8c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 39936
+  },
+  "/images/ebb0e540-z-26406824e1.webp": {
+    "src": "/images/cards/ebb0e540-z-a44d1f8a01.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 43702
+  },
+  "/images/ephesus1-700-21aw-c4a6824cee.webp": {
+    "src": "/images/cards/ephesus1-700-21aw-ffffc0a0de.webp",
+    "width": 517,
+    "height": 392,
+    "bytes": 57408
+  },
+  "/images/hero-v2/ephesus-desktop-b9feab6690.webp": {
+    "src": "/images/cards/ephesus-curated-fc8aab060c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 25970
+  },
+  "/images/hero-v2/cappadocia-desktop-cd32771731.webp": {
+    "src": "/images/cards/cappadocia-curated-6a6f55126c.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 40306
+  },
+  "/images/hero-v2/istanbul-desktop-0c29246bc0.webp": {
+    "src": "/images/cards/istanbul-curated-6c8738fa2e.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 15634
+  },
+  "/images/hero-v2/pamukkale-desktop-d2e3400dc0.webp": {
+    "src": "/images/cards/pamukkale-curated-3c7c5c0514.webp",
+    "width": 528,
+    "height": 400,
+    "bytes": 27940
+  }
+}

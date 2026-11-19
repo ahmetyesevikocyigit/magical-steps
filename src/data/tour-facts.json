@@ -1,0 +1,890 @@
+{
+  "all-in-one-ephesus-tour": {
+    "days": 1,
+    "departures": [
+      "Kuşadası",
+      "Izmir"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/all-in-one-ephesus-tour.html",
+    "stops": [
+      {
+        "name": "Meryem Ana Evi",
+        "lat": 37.912,
+        "lng": 27.332
+      },
+      {
+        "name": "Efes",
+        "lat": 37.94,
+        "lng": 27.341
+      },
+      {
+        "name": "Efes Müzesi",
+        "lat": 37.949,
+        "lng": 27.368
+      },
+      {
+        "name": "Artemis Tapınağı",
+        "lat": 37.95,
+        "lng": 27.364
+      }
+    ]
+  },
+  "ancient-and-old-izmir-tour": {
+    "days": 1,
+    "departures": [
+      "Izmir"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ancient-and-old-izmir-tour-.html"
+  },
+  "ancient-echoes-for-modern-pilgrims": {
+    "days": 11,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ancient-echoes-for-modern-pilgrims.html"
+  },
+  "ancient-echoes-of-mystical-turkey": {
+    "days": 13,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ancient-echoes-of-mystical-turkey.html"
+  },
+  "ancient-ephesus-and-ephesus-museum": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ancient-ephesus-and-ephesus-museum.html"
+  },
+  "ancient-ephesus-ephesus-museum-terrace-houses": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ancient-ephesus-ephesus-museum-terrace-houses.html"
+  },
+  "aphrodisias-hierapolis-laodicea-tours-from-istanbul": {
+    "days": 2,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/aphrodisias-hierapolis-laodicea-tours-from-istanbul.html"
+  },
+  "aphrodisias-hierapolis-laodicea-tours-from-kusadasi": {
+    "days": 2,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/aphrodisias-hierapolis-laodicea-tours-from-kusadasi.html"
+  },
+  "armenian-heritage": {
+    "days": 16,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/armenian-heritage.html"
+  },
+  "biblical-ephesus-tour-from-istanbul": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/biblical-ephesus-tour-from-istanbul.html"
+  },
+  "biblical-ephesus-tour": {
+    "days": 1,
+    "departures": [],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/biblical-ephesus-tour.html"
+  },
+  "biblical-treasures-of-turkey": {
+    "days": 14,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/biblical-treasures-of-turkey.html"
+  },
+  "breathtaking-istanbul": {
+    "days": 5,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/breathtaking-istanbul.html"
+  },
+  "cappadocia-tours-from-istanbul": {
+    "days": 3,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/cappadocia-tours-from-istanbul.html",
+    "stops": [
+      {
+        "name": "Devrent",
+        "lat": 38.673,
+        "lng": 34.886
+      },
+      {
+        "name": "Göreme",
+        "lat": 38.641,
+        "lng": 34.845
+      },
+      {
+        "name": "Derinkuyu",
+        "lat": 38.373,
+        "lng": 34.735
+      },
+      {
+        "name": "Ihlara",
+        "lat": 38.248,
+        "lng": 34.3
+      },
+      {
+        "name": "Kaymaklı",
+        "lat": 38.46,
+        "lng": 34.752
+      },
+      {
+        "name": "Mustafapaşa",
+        "lat": 38.583,
+        "lng": 34.899
+      }
+    ]
+  },
+  "customized-ephesus-tour": {
+    "days": 1,
+    "departures": [],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/customized-ephesus-tour.html"
+  },
+  "discover-ephesus-its-goddess-artemis": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/discover-ephesus-its-goddess-artemis.html"
+  },
+  "discover-the-hidden-beauty-of-eastern-turkey": {
+    "days": 16,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/discover-the-hidden-beauty-of-eastern-turkey.html"
+  },
+  "enjoy-roman-ephesus-its-christian-heritage": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/enjoy-roman-ephesus-its-christian-heritage.html"
+  },
+  "ephesus-and-cappadocia-tours-from-istanbul": {
+    "days": 3,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-and-cappadocia-tours-from-istanbul.html"
+  },
+  "ephesus-house-of-the-virgin-mary-and-sirince-village": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-house-of-the-virgin-mary-and-sirince-village.html",
+    "stops": [
+      {
+        "name": "Meryem Ana Evi",
+        "lat": 37.912,
+        "lng": 27.332
+      },
+      {
+        "name": "Efes",
+        "lat": 37.94,
+        "lng": 27.341
+      },
+      {
+        "name": "Şirince",
+        "lat": 37.944,
+        "lng": 27.431
+      },
+      {
+        "name": "Artemis Tapınağı",
+        "lat": 37.95,
+        "lng": 27.364
+      }
+    ]
+  },
+  "ephesus-pergamum-tour-from-istanbul": {
+    "days": 2,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-pergamum-tour-from-istanbul.html"
+  },
+  "ephesus-sirince-village": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-sirince-village-.html"
+  },
+  "ephesus-tours-from-istanbul": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-tours-from-istanbul.html"
+  },
+  "ephesus-tours-from-izmir-c": {
+    "days": 1,
+    "departures": [
+      "Bodrum"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-tours-from-izmir-c.html"
+  },
+  "ephesus-tours-from-izmir-eph-24": {
+    "days": 1,
+    "departures": [
+      "Izmir"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/ephesus-tours-from-izmir-eph-24.html"
+  },
+  "explore-exotic-eastern-turkey": {
+    "days": 13,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/explore-exotic-eastern-turkey.html"
+  },
+  "explore-istanbul-and-anatolia": {
+    "days": 10,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/explore-istanbul-and-anatolia.html"
+  },
+  "fascinating-balloon-tour-in-cappadocia": {
+    "days": 1,
+    "departures": [
+      "Cappadocia"
+    ],
+    "interests": [
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/fascinating-balloon-tour-in-cappadocia.html"
+  },
+  "full-day-istanbul-tour-explore-the-magnificent-old-city": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/full-day-istanbul-tour-explore-the-magnificent-old-city.html"
+  },
+  "full-day-istanbul-tour-marvelous-istanbul-tour": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/full-day-istanbul-tour-marvelous-istanbul-tour.html",
+    "stops": [
+      {
+        "name": "Boğaziçi",
+        "lat": 41.065,
+        "lng": 29.04
+      },
+      {
+        "name": "Kariye",
+        "lat": 41.031,
+        "lng": 28.939
+      },
+      {
+        "name": "Süleymaniye",
+        "lat": 41.016,
+        "lng": 28.964
+      },
+      {
+        "name": "Mısır Çarşısı",
+        "lat": 41.016,
+        "lng": 28.97
+      }
+    ]
+  },
+  "full-day-istanbul-tour-private-geocaching-and-old-city": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/full-day-istanbul-tour-private-geocaching-and-old-city-.html"
+  },
+  "gobeklitepe-tours": {
+    "days": 1,
+    "departures": [
+      "Istanbul",
+      "Izmir"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/gobeklitepe-tours.html",
+    "stops": [
+      {
+        "name": "Göbeklitepe",
+        "lat": 37.223,
+        "lng": 38.922
+      },
+      {
+        "name": "Harran",
+        "lat": 36.865,
+        "lng": 39.026
+      },
+      {
+        "name": "Şanlıurfa",
+        "lat": 37.167,
+        "lng": 38.795
+      }
+    ]
+  },
+  "half-day-istanbul-tour-discover-the-highlights-of-the-old-city": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/half-day-istanbul-tour-discover-the-highlights-of-the-old-city.html"
+  },
+  "highlights-of-ephesus-house-of-the-virgin-mary": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/highlights-of-ephesus-house-of-the-virgin-mary.html"
+  },
+  "in-the-steps-of-alexander-the-great": {
+    "days": 18,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/in-the-steps-of-alexander-the-great.html"
+  },
+  "in-the-steps-of-persian-kings": {
+    "days": 14,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/in-the-steps-of-persian-kings.html"
+  },
+  "in-the-steps-of-st-paul": {
+    "days": 17,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/in-the-steps-of-st-paul.html"
+  },
+  "islamic-treasures-of-turkey": {
+    "days": 10,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/islamic-treasures-of-turkey.html"
+  },
+  "istanbul-and-cappadocia-tour": {
+    "days": 4,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-and-cappadocia-tour.html"
+  },
+  "istanbul-and-ephesus-tour": {
+    "days": 3,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-and-ephesus-tour.html"
+  },
+  "istanbul-ephesus-and-cappadocia-tour": {
+    "days": 5,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-ephesus-and-cappadocia-tour.html"
+  },
+  "istanbul-in-the-steps-of-sufies": {
+    "days": 6,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-in-the-steps-of-sufies.html"
+  },
+  "istanbul-mediterranean-history": {
+    "days": 8,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-mediterranean-history.html"
+  },
+  "istanbul-the-anatolian-experience": {
+    "days": 8,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-the-anatolian-experience.html"
+  },
+  "istanbul-the-islamic-heritage": {
+    "days": 6,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/istanbul-the-islamic-heritage.html"
+  },
+  "jewish-heritage": {
+    "days": 7,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/jewish-heritage-.html"
+  },
+  "magical-turkey": {
+    "days": 17,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/magical-turkey.html"
+  },
+  "myra": {
+    "days": 1,
+    "departures": [
+      "Antalya"
+    ],
+    "interests": [],
+    "sourceUrl": "https://www.magical-steps.com/myra.html"
+  },
+  "oriental-asian-tour-of-istanbul": {
+    "days": 1,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/oriental-asian-tour-of-istanbul.html"
+  },
+  "pamukkale-tours-from-izmir": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/pamukkale-tours-from-izmir.html",
+    "stops": [
+      {
+        "name": "Hierapolis",
+        "lat": 37.925,
+        "lng": 29.124
+      },
+      {
+        "name": "Pamukkale",
+        "lat": 37.921,
+        "lng": 29.121
+      }
+    ]
+  },
+  "pamukkale-tours-from-kusadasi": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "landscape"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/pamukkale-tours-from-kusadasi.html",
+    "stops": [
+      {
+        "name": "Hierapolis",
+        "lat": 37.925,
+        "lng": 29.124
+      },
+      {
+        "name": "Pamukkale",
+        "lat": 37.921,
+        "lng": 29.121
+      }
+    ]
+  },
+  "pergeaspendos": {
+    "days": 1,
+    "departures": [
+      "Antalya"
+    ],
+    "interests": [],
+    "sourceUrl": "https://www.magical-steps.com/pergeaspendos.html"
+  },
+  "phaselis": {
+    "days": 1,
+    "departures": [
+      "Antalya"
+    ],
+    "interests": [],
+    "sourceUrl": "https://www.magical-steps.com/phaselis.html"
+  },
+  "priene-miletos-didyma-tour": {
+    "days": 1,
+    "departures": [
+      "Kuşadası",
+      "Bodrum"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/priene-miletos-didyma-tour.html",
+    "stops": [
+      {
+        "name": "Priene",
+        "lat": 37.659,
+        "lng": 27.297
+      },
+      {
+        "name": "Milet",
+        "lat": 37.53,
+        "lng": 27.277
+      },
+      {
+        "name": "Didyma",
+        "lat": 37.385,
+        "lng": 27.257
+      }
+    ]
+  },
+  "rumi-s-call-anatolian-culture": {
+    "days": 11,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/rumi-s-call-anatolian-culture.html"
+  },
+  "sagalassos-tour-from-istanbul": {
+    "days": 2,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/sagalassos-tour-from-istanbul.html"
+  },
+  "seven-churches-the-biblical-coast": {
+    "days": 12,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/seven-churches-the-biblical-coast.html"
+  },
+  "seven-churches-tour": {
+    "days": 3,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/seven-churches-tour.html",
+    "stops": [
+      {
+        "name": "Thyatira",
+        "lat": 38.922,
+        "lng": 27.839
+      },
+      {
+        "name": "Sardes",
+        "lat": 38.488,
+        "lng": 28.04
+      },
+      {
+        "name": "Philadelphia",
+        "lat": 38.351,
+        "lng": 28.517
+      },
+      {
+        "name": "Hierapolis",
+        "lat": 37.925,
+        "lng": 29.124
+      },
+      {
+        "name": "Laodikeia",
+        "lat": 37.836,
+        "lng": 29.107
+      },
+      {
+        "name": "Efes",
+        "lat": 37.94,
+        "lng": 27.341
+      },
+      {
+        "name": "İzmir",
+        "lat": 38.423,
+        "lng": 27.142
+      },
+      {
+        "name": "Pergamon",
+        "lat": 39.133,
+        "lng": 27.184
+      }
+    ]
+  },
+  "sirince-from-kusadasi": {
+    "days": null,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [],
+    "sourceUrl": "https://www.magical-steps.com/sirince-from-kusadasi.html"
+  },
+  "st-john-s-and-st-paul-s-ephesus-tour": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/st-john-s-and-st-paul-s-ephesus-tour.html"
+  },
+  "st-paul-s-ephesus-tour": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/st-paul-s-ephesus-tour.html"
+  },
+  "the-lost-city-of-sagalassos-tour": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/the-lost-city-of-sagalassos-tour.html"
+  },
+  "the-mystical-turkey-tour": {
+    "days": 14,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/the-mystical-turkey-tour.html"
+  },
+  "troy-anzac-tours-from-istanbul": {
+    "days": 2,
+    "departures": [
+      "Istanbul"
+    ],
+    "interests": [
+      "history",
+      "city"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/troy-anzac-tours-from-istanbul-.html"
+  },
+  "two-mary-s-of-jesus-christ-tour": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [
+      "history",
+      "faith"
+    ],
+    "sourceUrl": "https://www.magical-steps.com/two-mary-s-of-jesus-christ-tour.html"
+  },
+  "tury-v-efes-iz-kusadasy": {
+    "days": 1,
+    "departures": [
+      "Kuşadası"
+    ],
+    "interests": [],
+    "sourceUrl": "https://www.magical-steps.com/tury-v-efes-iz-kusadasy.html"
+  }
+}

@@ -1,0 +1,17 @@
+node_modules
+.next
+*.tsbuildinfo
+.DS_Store
+reports/lighthouse-*.html
+
+.vercel
+.magical-next-*
+.env*
+
+# Generated diagnostics and local caches
+*.log
+*.tmp
+reports/*runtime*.jsonl
+reports/lighthouse-*-mobile-*.json
+reports/lighthouse-*-desktop-*.json
+reports/lighthouse-*-invalid-*.json

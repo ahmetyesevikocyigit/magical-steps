@@ -1,0 +1,38 @@
+[
+  {
+    "cards": 4,
+    "descriptionPresent": false,
+    "height": 800,
+    "heroWidth": 360,
+    "overflow": false,
+    "titleCenterOffset": 0,
+    "width": 360
+  },
+  {
+    "cards": 4,
+    "descriptionPresent": false,
+    "height": 1024,
+    "heroWidth": 768,
+    "overflow": false,
+    "titleCenterOffset": 0,
+    "width": 768
+  },
+  {
+    "cards": 4,
+    "descriptionPresent": false,
+    "height": 900,
+    "heroWidth": 1440,
+    "overflow": false,
+    "titleCenterOffset": 0,
+    "width": 1440
+  },
+  {
+    "cards": 4,
+    "descriptionPresent": false,
+    "height": 1080,
+    "heroWidth": 1920,
+    "overflow": false,
+    "titleCenterOffset": 0,
+    "width": 1920
+  }
+]

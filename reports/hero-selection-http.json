@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/tr",
+    "status": 200,
+    "bytes": 132745
+  },
+  {
+    "path": "/images/cappadocia-balloons-1024-700-g7c-a608ceea1f.webp",
+    "status": 200,
+    "bytes": 35754
+  },
+  {
+    "path": "/fonts/manrope-latin-ext.woff2",
+    "status": 200,
+    "bytes": 15212
+  },
+  {
+    "path": "/fonts/manrope-cyrillic.woff2",
+    "status": 200,
+    "bytes": 14368
+  },
+  {
+    "path": "/favicon.svg",
+    "status": 200,
+    "bytes": 197
+  },
+  {
+    "path": "/images/hotel-placeholder.svg",
+    "status": 200,
+    "bytes": 396
+  },
+  {
+    "path": "/images/cards/cappadocia-balloons-1024-700-g7c-c7e4286034.webp",
+    "status": 200,
+    "bytes": 27238
+  },
+  {
+    "path": "/tours?destination=Pamukkale",
+    "status": 200,
+    "bytes": 86216
+  }
+]

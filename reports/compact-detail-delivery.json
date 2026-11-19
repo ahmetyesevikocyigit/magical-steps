@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-13",
+  "production": "https://magical-steps.vercel.app",
+  "deployment": "dpl_AKwrNmYeBHgXX88q2KLKJbGuScR6",
+  "changes": [
+    "Compact centered title with gallery and summary together",
+    "Unique WebP gallery with thumbnails and accessible lightbox",
+    "Program and inclusions alongside price tables, route and meeting information",
+    "Short hotel and transfer descriptions integrated alongside photos",
+    "Compact full-width enquiry form and related tour thumbnails",
+    "Metric-adjusted font fallbacks; prioritized cover image; deferred off-screen content"
+  ],
+  "validation": {
+    "build": "passed",
+    "typescript": "passed",
+    "existingJourneyTests": 10,
+    "localRoutesChecked": 24,
+    "liveRoutesChecked": 24,
+    "localFailures": [],
+    "liveFailures": [],
+    "tourViewportWidths": [
+      360,
+      390,
+      768,
+      1440,
+      1920
+    ],
+    "overflow": false,
+    "mobileFormWidth360": "passed",
+    "keyboardGalleryAndEscape": "passed",
+    "draftPreparation": "passed; no email sent",
+    "liveSectionAnchorsAndFocus": "passed"
+  },
+  "lighthouse": {
+    "environment": "local production server; representative Cappadocia detail; three mobile and three desktop runs",
+    "median": {
+      "mobile": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "desktop": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      }
+    },
+    "mobileTarget95Met": false,
+    "layoutShift": {
+      "mobile": 0.000115,
+      "desktop": 8.8e-05
+    }
+  },
+  "limitations": [
+    "Mobile performance median is 93, below the 95+ target. All valid runs and earlier iterations are preserved; lower runs were not discarded.",
+    "Existing source photos are reused; some hotel and transfer images remain limited by their source resolution.",
+    "Reduced-motion and print styles reviewed in CSS; no full manual screen-reader or emulated reduced-motion audit was performed."
+  ]
+}

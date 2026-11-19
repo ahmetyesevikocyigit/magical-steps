@@ -1,0 +1,74 @@
+[
+  {
+    "url": "/images/hero-v2/ephesus-desktop-b9feab6690.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 405388
+  },
+  {
+    "url": "/images/hero-v2/ephesus-mobile-bcc9b79d8b.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 168966
+  },
+  {
+    "url": "/images/hero-v2/ephesus-thumbnail-566d8f976d.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 11894
+  },
+  {
+    "url": "/images/hero-v2/cappadocia-desktop-cd32771731.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 867812
+  },
+  {
+    "url": "/images/hero-v2/cappadocia-mobile-1f25280367.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 248018
+  },
+  {
+    "url": "/images/hero-v2/cappadocia-thumbnail-4f663a03e0.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 16318
+  },
+  {
+    "url": "/images/hero-v2/istanbul-desktop-0c29246bc0.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 260520
+  },
+  {
+    "url": "/images/hero-v2/istanbul-mobile-22ddf6188b.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 94762
+  },
+  {
+    "url": "/images/hero-v2/istanbul-thumbnail-87fb9e9657.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 7408
+  },
+  {
+    "url": "/images/hero-v2/pamukkale-desktop-d2e3400dc0.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 1092264
+  },
+  {
+    "url": "/images/hero-v2/pamukkale-mobile-75fcbf73cf.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 272720
+  },
+  {
+    "url": "/images/hero-v2/pamukkale-thumbnail-127ff3af8e.webp",
+    "status": 200,
+    "webp": true,
+    "bytes": 11450
+  }
+]

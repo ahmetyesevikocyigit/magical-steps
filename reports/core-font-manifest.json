@@ -1,0 +1,44 @@
+[
+  {
+    "source": "manrope-latin.woff2",
+    "output": "manrope-core.woff2",
+    "sourceBytes": 24436,
+    "bytes": 15492,
+    "glyphCodepoints": 122
+  },
+  {
+    "source": "manrope-latin.woff2",
+    "output": "manrope-additional.woff2",
+    "sourceBytes": 24436,
+    "bytes": 9812,
+    "glyphCodepoints": 96
+  },
+  {
+    "source": "cormorant-garamond-latin.woff2",
+    "output": "cormorant-garamond-core.woff2",
+    "sourceBytes": 37776,
+    "bytes": 19960,
+    "glyphCodepoints": 122
+  },
+  {
+    "source": "cormorant-garamond-latin.woff2",
+    "output": "cormorant-garamond-additional.woff2",
+    "sourceBytes": 37776,
+    "bytes": 12116,
+    "glyphCodepoints": 107
+  },
+  {
+    "source": "cormorant-garamond-latin-italic.woff2",
+    "output": "cormorant-garamond-core-italic.woff2",
+    "sourceBytes": 23660,
+    "bytes": 12712,
+    "glyphCodepoints": 122
+  },
+  {
+    "source": "cormorant-garamond-latin-italic.woff2",
+    "output": "cormorant-garamond-additional-italic.woff2",
+    "sourceBytes": 23660,
+    "bytes": 7464,
+    "glyphCodepoints": 109
+  }
+]
