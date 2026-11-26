@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-26",
+  "scope": "Compact four-card mobile hero composition",
+  "localBase": "http://127.0.0.1:3012",
+  "build": "passed",
+  "languages": [
+    {
+      "locale": "tr",
+      "viewport": [
+        320,
+        568
+      ],
+      "allCardsVisible": true,
+      "allLabelsFit": true,
+      "hitTargetsAtLeast44px": true,
+      "pageOverflow": false,
+      "ctaBottom": 542
+    },
+    {
+      "locale": "en",
+      "viewport": [
+        320,
+        568
+      ],
+      "allCardsVisible": true,
+      "allLabelsFit": true,
+      "hitTargetsAtLeast44px": true,
+      "pageOverflow": false,
+      "ctaBottom": 542
+    },
+    {
+      "locale": "fr",
+      "viewport": [
+        320,
+        568
+      ],
+      "allCardsVisible": true,
+      "allLabelsFit": true,
+      "hitTargetsAtLeast44px": true,
+      "pageOverflow": false,
+      "ctaBottom": 542
+    },
+    {
+      "locale": "de",
+      "viewport": [
+        320,
+        568
+      ],
+      "allCardsVisible": true,
+      "allLabelsFit": true,
+      "hitTargetsAtLeast44px": true,
+      "pageOverflow": false,
+      "ctaBottom": 542
+    },
+    {
+      "locale": "nl",
+      "viewport": [
+        320,
+        568
+      ],
+      "allCardsVisible": true,
+      "allLabelsFit": true,
+      "hitTargetsAtLeast44px": true,
+      "pageOverflow": false,
+      "ctaBottom": 542
+    },
+    {
+      "locale": "ru",
+      "viewport": [
+        320,
+        568
+      ],
+      "allCardsVisible": true,
+      "allLabelsFit": true,
+      "hitTargetsAtLeast44px": true,
+      "pageOverflow": false,
+      "ctaBottom": 542
+    }
+  ],
+  "responsive": [
+    {
+      "viewport": [
+        360,
+        640
+      ],
+      "allCardsVisible": true,
+      "pageOverflow": false,
+      "ctaBottom": 614,
+      "columns": 4
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "allCardsVisible": true,
+      "pageOverflow": false,
+      "ctaBottom": 818,
+      "columns": 4
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "allCardsVisible": true,
+      "pageOverflow": false,
+      "ctaBottom": 906,
+      "columns": 4
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "allCardsVisible": true,
+      "pageOverflow": false,
+      "ctaBottom": 947,
+      "columns": 2
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "allCardsVisible": true,
+      "pageOverflow": false,
+      "ctaBottom": 823,
+      "columns": 2
+    }
+  ],
+  "selection": [
+    {
+      "destination": "ephesus",
+      "catalogHref": "/tours?destination=Ephesus",
+      "imageDecoded": true,
+      "headingUpdated": true,
+      "unlockedAfterAnimation": true
+    },
+    {
+      "destination": "istanbul",
+      "catalogHref": "/tours?destination=Istanbul",
+      "imageDecoded": true,
+      "headingUpdated": true,
+      "unlockedAfterAnimation": true
+    },
+    {
+      "destination": "pamukkale",
+      "catalogHref": "/tours?destination=Pamukkale",
+      "imageDecoded": true,
+      "headingUpdated": true,
+      "unlockedAfterAnimation": true
+    },
+    {
+      "destination": "cappadocia",
+      "catalogHref": "/tours?destination=Cappadocia",
+      "imageDecoded": true,
+      "headingUpdated": true,
+      "unlockedAfterAnimation": true
+    }
+  ],
+  "tapDoesNotScrollPage": true,
+  "animationSeconds": {
+    "mobile": 1.6,
+    "desktop": 2.65
+  },
+  "lighthouse": {
+    "environment": "local production homepage",
+    "mobilePerformanceRuns": [
+      97,
+      87,
+      100
+    ],
+    "mobileMedian": {
+      "performance": 97,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100
+    }
+  },
+  "limitations": [
+    "Browser viewport testing, not a physical phone.",
+    "Reduced motion branch retained; not separately emulated in this run."
+  ]
+}

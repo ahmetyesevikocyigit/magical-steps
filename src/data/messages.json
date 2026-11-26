@@ -203,7 +203,7 @@
     "stripPrivate": "Journeys tailored to you",
     "stripLocal": "Plan with a local team",
     "heroMobileChoiceTitle": "Where shall we go?",
-    "heroMobileChoiceHint": "Swipe, tap, change your view."
+    "heroMobileChoiceHint": "Tap a place to see the landscape change."
   },
   "tr": {
     "navTours": "Turlar",
@@ -409,7 +409,7 @@
     "stripPrivate": "Sana özel yolculuklar",
     "stripLocal": "Yerel ekibimizle planla",
     "heroMobileChoiceTitle": "Nereye gidelim?",
-    "heroMobileChoiceHint": "Kaydır, seç, manzara değişsin."
+    "heroMobileChoiceHint": "Bir yere dokun, manzara değişsin."
   },
   "fr": {
     "navTours": "Circuits",
@@ -615,7 +615,7 @@
     "stripPrivate": "Des voyages sur mesure",
     "stripLocal": "Une équipe locale à vos côtés",
     "heroMobileChoiceTitle": "Où allons-nous ?",
-    "heroMobileChoiceHint": "Faites défiler et choisissez un lieu."
+    "heroMobileChoiceHint": "Touchez un lieu pour découvrir son paysage."
   },
   "de": {
     "navTours": "Reisen",
@@ -821,7 +821,7 @@
     "stripPrivate": "Reisen nach deinen Wünschen",
     "stripLocal": "Mit unserem Team vor Ort planen",
     "heroMobileChoiceTitle": "Wohin geht’s?",
-    "heroMobileChoiceHint": "Wischen, wählen, Aussicht entdecken."
+    "heroMobileChoiceHint": "Tippe auf einen Ort und entdecke die Aussicht."
   },
   "nl": {
     "navTours": "Rondreizen",
@@ -1027,7 +1027,7 @@
     "stripPrivate": "Reizen op maat",
     "stripLocal": "Plan met ons lokale team",
     "heroMobileChoiceTitle": "Waar gaan we heen?",
-    "heroMobileChoiceHint": "Veeg, kies en verander het uitzicht."
+    "heroMobileChoiceHint": "Tik op een plek en ontdek het uitzicht."
   },
   "ru": {
     "navTours": "Туры",
@@ -1233,6 +1233,6 @@
     "stripPrivate": "Путешествия по вашим пожеланиям",
     "stripLocal": "Планируйте с местной командой",
     "heroMobileChoiceTitle": "Куда отправимся?",
-    "heroMobileChoiceHint": "Листайте и выбирайте пейзаж."
+    "heroMobileChoiceHint": "Нажмите на место, чтобы увидеть его пейзаж."
   }
 }

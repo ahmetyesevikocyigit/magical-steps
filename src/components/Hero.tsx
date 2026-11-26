@@ -57,7 +57,6 @@ export default function Hero({
   const [loading, setLoading] = useState<string | null>(null);
   const [loadError, setLoadError] = useState(false);
   const scene = useRef<HTMLDivElement>(null);
-  const choices = useRef<HTMLDivElement>(null);
   const heading = useRef<HTMLHeadingElement>(null);
   const request = useRef(0);
   const currentPlace = destinationName(selected.name, locale);
@@ -183,17 +182,6 @@ export default function Hero({
     }
     if (token !== request.current || !button.isConnected || !scene.current)
       return;
-    if (mobile && choices.current) {
-      // Fully reveal the chosen card without moving the page vertically.
-      const rail = choices.current;
-      rail.scrollTo({
-        left:
-          button.offsetLeft -
-          rail.offsetLeft -
-          (rail.clientWidth - button.clientWidth) / 2,
-        behavior: "instant",
-      });
-    }
     const origin = button
       .querySelector("[data-choice-image]")!
       .getBoundingClientRect();
@@ -211,7 +199,7 @@ export default function Hero({
       // The floating photograph finishes on the same crop as the whole scene.
       // The background resolves around it; no hole is cut out of the landscape.
       setFlight({
-        duration: mobile ? 1.15 : 2.65,
+        duration: mobile ? 1.6 : 2.65,
         destination,
         origin: {
           x: origin.x,
@@ -287,7 +275,6 @@ export default function Hero({
             </p>
           </div>
           <div
-            ref={choices}
             className={h.choices}
             aria-busy={Boolean(loading)}
             onKeyDown={(event) => {
@@ -312,13 +299,6 @@ export default function Hero({
                         buttons.length) %
                       buttons.length;
               buttons[next]?.focus({ preventScroll: true });
-              if (window.matchMedia("(max-width: 760px)").matches) {
-                const rail = event.currentTarget;
-                rail.scrollTo({
-                  left: buttons[next].offsetLeft - rail.offsetLeft - 20,
-                  behavior: "instant",
-                });
-              }
             }}
           >
             {destinations.map((destination) => (
@@ -340,26 +320,12 @@ export default function Hero({
                     src={destination.image.src}
                     alt=""
                     fill
-                    sizes="(max-width:760px) 168px, (max-width:1100px) 21vw, 230px"
+                    sizes="(max-width:540px) calc(25vw - 16px), (max-width:760px) 117px, (max-width:1100px) 21vw, 230px"
                     quality={80}
                     loading="eager"
                     fetchPriority="low"
                     className={h.photo}
                   />
-                  {selected.id === destination.id && (
-                    <span className={h.selectedMark} aria-hidden="true">
-                      <svg
-                        width="13"
-                        height="13"
-                        viewBox="0 0 16 16"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="1.8"
-                      >
-                        <path d="m3 8 3 3 7-7" />
-                      </svg>
-                    </span>
-                  )}
                   {loading === destination.id && (
                     <span className={h.spinner} aria-hidden="true" />
                   )}
