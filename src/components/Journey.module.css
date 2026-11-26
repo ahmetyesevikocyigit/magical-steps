@@ -408,6 +408,26 @@
   .invite h2 {
     font-size: 30px;
   }
+  .invite p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .invite a {
+    justify-content: center;
+    width: 100%;
+    white-space: normal;
+    text-align: center;
+    min-height: 52px;
+    padding: 12px 18px;
+    border: 0;
+    border-radius: 28px;
+    background: var(--ink);
+    color: #fffdf5;
+    font-size: 14px;
+  }
+  .invite svg {
+    flex-shrink: 0;
+  }
   .compactInvite {
     padding: 20px;
   }

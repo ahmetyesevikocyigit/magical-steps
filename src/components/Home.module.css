@@ -97,18 +97,21 @@
 }
 @media (max-width: 760px) {
   .infoStrip {
-    grid-template-columns: 1fr;
-    padding: 8px 6%;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    padding: 12px 12px;
   }
   .infoStrip a {
-    padding: 10px;
-    min-height: 44px;
+    padding: 4px 10px;
+    min-height: 56px;
     font-size: 12px;
-    gap: 12px;
+    line-height: 1.5;
+    text-wrap: balance;
+  }
+  .infoStrip svg {
+    display: none;
   }
   .infoStrip a + a {
-    border-left: 0;
-    border-top: 1px solid #18313a18;
+    border-left: 1px solid #18313a25;
   }
   .serviceStack {
     gap: 24px;

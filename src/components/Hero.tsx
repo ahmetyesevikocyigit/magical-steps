@@ -3,15 +3,18 @@ import Image, { getImageProps } from "next/image";
 import * as m from "motion/react-m";
 import { useReducedMotion } from "motion/react";
 import { useTranslations, useLocale } from "next-intl";
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+import {
+  useEffect,
+  useLayoutEffect,
+  useRef,
+  useState,
+  type CSSProperties,
+} from "react";
 import { Link } from "@/i18n/routing";
 import { destinationName } from "@/lib/format";
 import type { Media, Locale } from "@/lib/types";
 import { Arrow } from "./Icon";
 import h from "./Hero.module.css";
-
-const sceneDuration = 2.65;
-const imageDuration = sceneDuration * 0.5;
 
 type Destination = {
   id: string;
@@ -21,6 +24,7 @@ type Destination = {
   thumbnail: Media;
 };
 type Flight = {
+  duration: number;
   destination: Destination;
   origin: { x: number; y: number; width: number; height: number };
   target: { x: number; y: number; width: number; height: number };
@@ -53,9 +57,12 @@ export default function Hero({
   const [loading, setLoading] = useState<string | null>(null);
   const [loadError, setLoadError] = useState(false);
   const scene = useRef<HTMLDivElement>(null);
+  const choices = useRef<HTMLDivElement>(null);
   const heading = useRef<HTMLHeadingElement>(null);
   const request = useRef(0);
   const currentPlace = destinationName(selected.name, locale);
+  const sceneDuration = flight?.duration ?? 2.65;
+  const imageDuration = sceneDuration * 0.5;
   const mobileProps = getImageProps({
     src: selected.mobileImage.src,
     alt: "",
@@ -83,7 +90,7 @@ export default function Hero({
     if (!flight) return;
     const settle = () => setFlight(null);
     // Keep the picker usable if the optional Motion engine fails to complete.
-    const timeout = window.setTimeout(settle, sceneDuration * 1000 + 500);
+    const timeout = window.setTimeout(settle, flight.duration * 1000 + 500);
     window.addEventListener("resize", settle, { passive: true });
     window.addEventListener("scroll", settle, { passive: true });
     return () => {
@@ -135,6 +142,7 @@ export default function Hero({
 
   async function choose(destination: Destination, button: HTMLButtonElement) {
     if (loading || flight) return;
+    if (hasChosen && destination.id === selected.id) return;
     const mobile = window.matchMedia("(max-width: 760px)").matches;
     const token = ++request.current;
     setLoading(destination.id);
@@ -175,6 +183,17 @@ export default function Hero({
     }
     if (token !== request.current || !button.isConnected || !scene.current)
       return;
+    if (mobile && choices.current) {
+      // Fully reveal the chosen card without moving the page vertically.
+      const rail = choices.current;
+      rail.scrollTo({
+        left:
+          button.offsetLeft -
+          rail.offsetLeft -
+          (rail.clientWidth - button.clientWidth) / 2,
+        behavior: "instant",
+      });
+    }
     const origin = button
       .querySelector("[data-choice-image]")!
       .getBoundingClientRect();
@@ -192,6 +211,7 @@ export default function Hero({
       // The floating photograph finishes on the same crop as the whole scene.
       // The background resolves around it; no hole is cut out of the landscape.
       setFlight({
+        duration: mobile ? 1.15 : 2.65,
         destination,
         origin: {
           x: origin.x,
@@ -214,6 +234,7 @@ export default function Hero({
     <>
       <section
         className={h.hero}
+        style={{ "--scene-duration": `${sceneDuration}s` } as CSSProperties}
         data-assembling={Boolean(flight) || undefined}
         data-selected-destination={selected.id}
         data-testid="hero"
@@ -256,10 +277,50 @@ export default function Hero({
           data-testid="hero-direct-picker"
         >
           <div className={h.choiceHeading}>
-            <h2 id="hero-choice-heading">{t("heroChoiceTitle")}</h2>
-            <p id="hero-choice-hint">{t("heroChoiceHint")}</p>
+            <h2 id="hero-choice-heading">
+              <span className={h.desktopCopy}>{t("heroChoiceTitle")}</span>
+              <span className={h.mobileCopy}>{t("heroMobileChoiceTitle")}</span>
+            </h2>
+            <p id="hero-choice-hint">
+              <span className={h.desktopCopy}>{t("heroChoiceHint")}</span>
+              <span className={h.mobileCopy}>{t("heroMobileChoiceHint")}</span>
+            </p>
           </div>
-          <div className={h.choices} aria-busy={Boolean(loading)}>
+          <div
+            ref={choices}
+            className={h.choices}
+            aria-busy={Boolean(loading)}
+            onKeyDown={(event) => {
+              if (event.altKey || event.ctrlKey || event.metaKey) return;
+              if (
+                !["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)
+              )
+                return;
+              const buttons = Array.from(
+                event.currentTarget.querySelectorAll("button"),
+              );
+              const index = buttons.indexOf(event.target as HTMLButtonElement);
+              if (index < 0) return;
+              event.preventDefault();
+              const next =
+                event.key === "Home"
+                  ? 0
+                  : event.key === "End"
+                    ? buttons.length - 1
+                    : (index +
+                        (event.key === "ArrowRight" ? 1 : -1) +
+                        buttons.length) %
+                      buttons.length;
+              buttons[next]?.focus({ preventScroll: true });
+              if (window.matchMedia("(max-width: 760px)").matches) {
+                const rail = event.currentTarget;
+                rail.scrollTo({
+                  left: buttons[next].offsetLeft - rail.offsetLeft - 20,
+                  behavior: "instant",
+                });
+              }
+            }}
+          >
             {destinations.map((destination) => (
               <button
                 key={destination.id}
@@ -279,12 +340,26 @@ export default function Hero({
                     src={destination.image.src}
                     alt=""
                     fill
-                    sizes="(max-width:760px) 43vw, (max-width:1100px) 21vw, 230px"
+                    sizes="(max-width:760px) 168px, (max-width:1100px) 21vw, 230px"
                     quality={80}
                     loading="eager"
                     fetchPriority="low"
                     className={h.photo}
                   />
+                  {selected.id === destination.id && (
+                    <span className={h.selectedMark} aria-hidden="true">
+                      <svg
+                        width="13"
+                        height="13"
+                        viewBox="0 0 16 16"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="1.8"
+                      >
+                        <path d="m3 8 3 3 7-7" />
+                      </svg>
+                    </span>
+                  )}
                   {loading === destination.id && (
                     <span className={h.spinner} aria-hidden="true" />
                   )}
@@ -361,7 +436,10 @@ export default function Hero({
             duration: imageDuration,
             ease: [0.22, 1, 0.36, 1],
             opacity: { duration: sceneDuration, times: [0, 0.6, 0.84, 1] },
-            boxShadow: { delay: 1.3, duration: 0.6 },
+            boxShadow: {
+              delay: sceneDuration * 0.49,
+              duration: sceneDuration * 0.23,
+            },
           }}
         >
           <m.div
@@ -395,7 +473,10 @@ export default function Hero({
               className={h.wash}
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
-              transition={{ duration: 1.5, delay: 0.3 }}
+              transition={{
+                duration: sceneDuration * 0.57,
+                delay: sceneDuration * 0.11,
+              }}
             />
           </m.div>
           <m.div

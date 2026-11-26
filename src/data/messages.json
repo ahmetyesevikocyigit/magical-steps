@@ -201,7 +201,9 @@
     "finderKeep": "Search only by: {choice}",
     "stripSince": "In Kuşadası since 1993",
     "stripPrivate": "Journeys tailored to you",
-    "stripLocal": "Plan with a local team"
+    "stripLocal": "Plan with a local team",
+    "heroMobileChoiceTitle": "Where shall we go?",
+    "heroMobileChoiceHint": "Swipe, tap, change your view."
   },
   "tr": {
     "navTours": "Turlar",
@@ -405,7 +407,9 @@
     "finderKeep": "Yalnızca bu tercihle ara: {choice}",
     "stripSince": "1993’ten beri Kuşadası’nda",
     "stripPrivate": "Sana özel yolculuklar",
-    "stripLocal": "Yerel ekibimizle planla"
+    "stripLocal": "Yerel ekibimizle planla",
+    "heroMobileChoiceTitle": "Nereye gidelim?",
+    "heroMobileChoiceHint": "Kaydır, seç, manzara değişsin."
   },
   "fr": {
     "navTours": "Circuits",
@@ -609,7 +613,9 @@
     "finderKeep": "Rechercher uniquement : {choice}",
     "stripSince": "À Kuşadası depuis 1993",
     "stripPrivate": "Des voyages sur mesure",
-    "stripLocal": "Une équipe locale à vos côtés"
+    "stripLocal": "Une équipe locale à vos côtés",
+    "heroMobileChoiceTitle": "Où allons-nous ?",
+    "heroMobileChoiceHint": "Faites défiler et choisissez un lieu."
   },
   "de": {
     "navTours": "Reisen",
@@ -813,7 +819,9 @@
     "finderKeep": "Nur danach suchen: {choice}",
     "stripSince": "Seit 1993 in Kuşadası",
     "stripPrivate": "Reisen nach deinen Wünschen",
-    "stripLocal": "Mit unserem Team vor Ort planen"
+    "stripLocal": "Mit unserem Team vor Ort planen",
+    "heroMobileChoiceTitle": "Wohin geht’s?",
+    "heroMobileChoiceHint": "Wischen, wählen, Aussicht entdecken."
   },
   "nl": {
     "navTours": "Rondreizen",
@@ -1017,7 +1025,9 @@
     "finderKeep": "Zoek alleen op: {choice}",
     "stripSince": "Sinds 1993 in Kuşadası",
     "stripPrivate": "Reizen op maat",
-    "stripLocal": "Plan met ons lokale team"
+    "stripLocal": "Plan met ons lokale team",
+    "heroMobileChoiceTitle": "Waar gaan we heen?",
+    "heroMobileChoiceHint": "Veeg, kies en verander het uitzicht."
   },
   "ru": {
     "navTours": "Туры",
@@ -1221,6 +1231,8 @@
     "finderKeep": "Искать только по условию: {choice}",
     "stripSince": "В Кушадасы с 1993 года",
     "stripPrivate": "Путешествия по вашим пожеланиям",
-    "stripLocal": "Планируйте с местной командой"
+    "stripLocal": "Планируйте с местной командой",
+    "heroMobileChoiceTitle": "Куда отправимся?",
+    "heroMobileChoiceHint": "Листайте и выбирайте пейзаж."
   }
 }

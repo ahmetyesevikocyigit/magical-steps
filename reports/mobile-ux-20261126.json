@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-26",
+  "base": "http://127.0.0.1:3012",
+  "scope": "Mobile hero, home information strip and tour finder invitation",
+  "build": "passed",
+  "typecheck": "passed",
+  "consoleErrors": [],
+  "mobileLocales": [
+    {
+      "locale": "tr",
+      "viewport": [
+        320,
+        568
+      ],
+      "heroHeight": 568,
+      "ctaBottom": 544,
+      "ctaHeight": 54,
+      "selectedCardVisible": true,
+      "pageOverflow": false
+    },
+    {
+      "locale": "en",
+      "viewport": [
+        320,
+        568
+      ],
+      "heroHeight": 568,
+      "ctaBottom": 544,
+      "ctaHeight": 54,
+      "selectedCardVisible": true,
+      "pageOverflow": false
+    },
+    {
+      "locale": "fr",
+      "viewport": [
+        320,
+        568
+      ],
+      "heroHeight": 568,
+      "ctaBottom": 544,
+      "ctaHeight": 54,
+      "selectedCardVisible": true,
+      "pageOverflow": false
+    },
+    {
+      "locale": "de",
+      "viewport": [
+        320,
+        568
+      ],
+      "heroHeight": 568,
+      "ctaBottom": 544,
+      "ctaHeight": 54,
+      "selectedCardVisible": true,
+      "pageOverflow": false
+    },
+    {
+      "locale": "nl",
+      "viewport": [
+        320,
+        568
+      ],
+      "heroHeight": 568,
+      "ctaBottom": 544,
+      "ctaHeight": 54,
+      "selectedCardVisible": true,
+      "pageOverflow": false
+    },
+    {
+      "locale": "ru",
+      "viewport": [
+        320,
+        568
+      ],
+      "heroHeight": 568,
+      "ctaBottom": 544,
+      "ctaHeight": 54,
+      "selectedCardVisible": true,
+      "pageOverflow": false
+    }
+  ],
+  "responsive": [
+    {
+      "viewport": [
+        360,
+        640
+      ],
+      "heroHeight": 640,
+      "ctaBottom": 616,
+      "pageOverflow": false
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "heroHeight": 844,
+      "ctaBottom": 820,
+      "pageOverflow": false
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "heroHeight": 932,
+      "ctaBottom": 908,
+      "pageOverflow": false
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "heroHeight": 1024,
+      "ctaBottom": 947,
+      "pageOverflow": false
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "heroHeight": 900,
+      "ctaBottom": 823,
+      "pageOverflow": false
+    },
+    {
+      "viewport": [
+        1920,
+        1080
+      ],
+      "heroHeight": 1080,
+      "ctaBottom": 1003,
+      "pageOverflow": false
+    }
+  ],
+  "destinations": [
+    {
+      "id": "ephesus",
+      "href": "/tours?destination=Ephesus",
+      "imageDecoded": true,
+      "selectedCardVisible": true,
+      "unlockedAfterAnimation": true
+    },
+    {
+      "id": "istanbul",
+      "href": "/tours?destination=Istanbul",
+      "imageDecoded": true,
+      "selectedCardVisible": true,
+      "unlockedAfterAnimation": true
+    },
+    {
+      "id": "pamukkale",
+      "href": "/tours?destination=Pamukkale",
+      "imageDecoded": true,
+      "selectedCardVisible": true,
+      "unlockedAfterAnimation": true
+    },
+    {
+      "id": "cappadocia",
+      "href": "/tours?destination=Cappadocia",
+      "imageDecoded": true,
+      "selectedCardVisible": true,
+      "unlockedAfterAnimation": true
+    }
+  ],
+  "catalogLink": {
+    "destination": "Cappadocia",
+    "resultCount": 5,
+    "passed": true
+  },
+  "menu": {
+    "opens": true,
+    "locksBodyScroll": true,
+    "escapeCloses": true,
+    "restoresFocus": true,
+    "unlocksBodyScroll": true
+  },
+  "keyboard": {
+    "homeFocusesFirstCard": true,
+    "enterSelectsCard": true
+  },
+  "limitations": [
+    "Viewport tests use a desktop browser, not a physical phone.",
+    "Reduced motion behavior retained and reviewed in code; not separately emulated in this run.",
+    "Lighthouse measurements cover the local production homepage only."
+  ]
+}
