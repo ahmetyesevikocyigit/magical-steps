@@ -185,5 +185,54 @@
     "Viewport tests use a desktop browser, not a physical phone.",
     "Reduced motion behavior retained and reviewed in code; not separately emulated in this run.",
     "Lighthouse measurements cover the local production homepage only."
-  ]
+  ],
+  "production": {
+    "deploymentId": "dpl_Kf9SyCLHH6mBScScfULbbctxqTey",
+    "readyState": "READY",
+    "base": "https://magical-steps.vercel.app",
+    "pages": [
+      {
+        "path": "/",
+        "status": 200,
+        "lang": "tr"
+      },
+      {
+        "path": "/en",
+        "status": 200,
+        "lang": "en"
+      },
+      {
+        "path": "/fr",
+        "status": 200,
+        "lang": "fr"
+      },
+      {
+        "path": "/de",
+        "status": 200,
+        "lang": "de"
+      },
+      {
+        "path": "/nl",
+        "status": 200,
+        "lang": "nl"
+      },
+      {
+        "path": "/ru",
+        "status": 200,
+        "lang": "ru"
+      }
+    ],
+    "browser": {
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalScroll": true,
+      "pamukkaleSelection": true,
+      "correctCatalogLink": true,
+      "imageLoaded": true,
+      "pageOverflow": false,
+      "consoleErrors": []
+    }
+  }
 }
