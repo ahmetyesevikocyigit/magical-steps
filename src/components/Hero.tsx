@@ -82,9 +82,12 @@ export default function Hero({
   useEffect(() => {
     if (!flight) return;
     const settle = () => setFlight(null);
+    // Keep the picker usable if the optional Motion engine fails to complete.
+    const timeout = window.setTimeout(settle, sceneDuration * 1000 + 500);
     window.addEventListener("resize", settle, { passive: true });
     window.addEventListener("scroll", settle, { passive: true });
     return () => {
+      window.clearTimeout(timeout);
       window.removeEventListener("resize", settle);
       window.removeEventListener("scroll", settle);
     };

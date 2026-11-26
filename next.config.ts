@@ -8,12 +8,23 @@ const config: NextConfig = {
     inlineCss: true,
   },
   images: {
+    loader: "custom",
+    loaderFile: "./src/lib/image-loader.ts",
     formats: ["image/webp"],
     qualities: [75, 80, 90],
     deviceSizes: [360, 640, 768, 1024, 1440, 1920, 2560],
   },
   async headers() {
     return [
+      {
+        source: "/images/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
+        ],
+      },
       {
         source: "/fonts/:path*",
         headers: [{ key: "Cache-Control", value: "public, max-age=86400" }],

@@ -92,3 +92,9 @@ Türkçe font alt kümelerini yeniden üretmek için isteğe bağlı derleme ba�
 ## Depo kapsamı
 
 Kaynak kodu, altı dilin yerel içerikleri, hazır WebP görselleri, yerel fontlar ve lisansları, hero orijinalleri, optimizasyon komutları ve içerik/test raporları depodadır. `node_modules`, derleme çıktıları, eski derleme yedekleri, makineye özgü Vercel bağlantısı ve ortam değişkenleri takip edilmez. Ham Lighthouse raporları yerel çalışma alanında tutulur; son ölçüm özeti depoya eklenmiştir.
+
+## Static responsive WebP images (26 November 2026)
+
+`pnpm images:responsive` generates responsive WebP files at quality 80 from the existing published masters. Original files are retained. `src/lib/image-loader.ts` selects those files for `next/image`, including hero preloading, without using Vercel's runtime image optimizer. This fixes the `402 OPTIMIZED_IMAGE_REQUEST_PAYMENT_REQUIRED` response observed on mobile hero images. Commit generated `public/images/responsive` files and `src/data/image-widths.json` before deploying; rerun the command after adding or changing media. A source image's hashed filename must change when its bytes change.
+
+`pnpm test:media` checks all generated loader URLs, mobile/desktop hero dimensions, aspect ratios and WebP decoding. The complete image-size manifest is in `reports/responsive-media-manifest.json`.

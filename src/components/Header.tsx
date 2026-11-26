@@ -24,6 +24,15 @@ export default function Header({ logo }: { logo: string }) {
   }, [locale]);
   const dialog = useRef<HTMLDialogElement>(null);
   const [opened, setOpened] = useState(false);
+  const menuButton = useRef<HTMLButtonElement>(null);
+  useEffect(() => {
+    if (!opened) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = previousOverflow;
+    };
+  }, [opened]);
   const nav = [
     ["/tours", "navTours"],
     ["/hotels", "navHotels"],
@@ -86,6 +95,8 @@ export default function Header({ logo }: { logo: string }) {
           </Link>
           <button
             className={s.menuButton}
+            ref={menuButton}
+            aria-controls="site-menu"
             aria-label={t("menu")}
             aria-expanded={opened}
             onClick={() => {
@@ -102,8 +113,12 @@ export default function Header({ logo }: { logo: string }) {
         onKeyDown={trapDialogFocus}
         aria-label={t("menu")}
         ref={dialog}
+        id="site-menu"
         className={s.mobileMenu}
-        onClose={() => setOpened(false)}
+        onClose={() => {
+          setOpened(false);
+          menuButton.current?.focus();
+        }}
         onClick={(e) => {
           if (e.target === dialog.current) close();
         }}

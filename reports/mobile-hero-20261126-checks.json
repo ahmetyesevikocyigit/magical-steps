@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "headingCount": 1,
+      "heroChoices": 4,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/tr",
+      "status": 200,
+      "headingCount": 1,
+      "heroChoices": 4,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/fr",
+      "status": 200,
+      "headingCount": 1,
+      "heroChoices": 4,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/de",
+      "status": 200,
+      "headingCount": 1,
+      "heroChoices": 4,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/nl",
+      "status": 200,
+      "headingCount": 1,
+      "heroChoices": 4,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/ru",
+      "status": 200,
+      "headingCount": 1,
+      "heroChoices": 4,
+      "runtimeOptimizerUrls": 0
+    }
+  ],
+  "localLinks": 138,
+  "imageUrls": 47,
+  "failed": [],
+  "serverHtmlImageRegressionFixed": true,
+  "browser": {
+    "mobileSelections": [
+      "ephesus",
+      "cappadocia",
+      "istanbul",
+      "pamukkale"
+    ],
+    "menuBackdrop": "grayscale(1) blur(10px)",
+    "escapeRestoresFocus": true,
+    "mobileMenuScrollLock": true,
+    "widthsChecked": [
+      360,
+      390,
+      768,
+      1440,
+      1920
+    ],
+    "desktopStackTops": [
+      24,
+      44
+    ]
+  }
+}

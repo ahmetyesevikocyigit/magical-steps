@@ -198,7 +198,10 @@
     "finderRelax_length": "Try another duration",
     "finderRelax_departure": "Try other starting points",
     "finderRelax_interest": "Explore other interests",
-    "finderKeep": "Search only by: {choice}"
+    "finderKeep": "Search only by: {choice}",
+    "stripSince": "In Kuşadası since 1993",
+    "stripPrivate": "Journeys tailored to you",
+    "stripLocal": "Plan with a local team"
   },
   "tr": {
     "navTours": "Turlar",
@@ -399,7 +402,10 @@
     "finderRelax_length": "Süreyi esnet",
     "finderRelax_departure": "Başka hareket noktalarına bak",
     "finderRelax_interest": "Diğer ilgi alanlarını keşfet",
-    "finderKeep": "Yalnızca bu tercihle ara: {choice}"
+    "finderKeep": "Yalnızca bu tercihle ara: {choice}",
+    "stripSince": "1993’ten beri Kuşadası’nda",
+    "stripPrivate": "Sana özel yolculuklar",
+    "stripLocal": "Yerel ekibimizle planla"
   },
   "fr": {
     "navTours": "Circuits",
@@ -600,7 +606,10 @@
     "finderRelax_length": "Changer la durée",
     "finderRelax_departure": "Voir d’autres départs",
     "finderRelax_interest": "Explorer d’autres envies",
-    "finderKeep": "Rechercher uniquement : {choice}"
+    "finderKeep": "Rechercher uniquement : {choice}",
+    "stripSince": "À Kuşadası depuis 1993",
+    "stripPrivate": "Des voyages sur mesure",
+    "stripLocal": "Une équipe locale à vos côtés"
   },
   "de": {
     "navTours": "Reisen",
@@ -801,7 +810,10 @@
     "finderRelax_length": "Andere Dauer zulassen",
     "finderRelax_departure": "Andere Startpunkte zulassen",
     "finderRelax_interest": "Andere Interessen entdecken",
-    "finderKeep": "Nur danach suchen: {choice}"
+    "finderKeep": "Nur danach suchen: {choice}",
+    "stripSince": "Seit 1993 in Kuşadası",
+    "stripPrivate": "Reisen nach deinen Wünschen",
+    "stripLocal": "Mit unserem Team vor Ort planen"
   },
   "nl": {
     "navTours": "Rondreizen",
@@ -1002,7 +1014,10 @@
     "finderRelax_length": "Andere duur toestaan",
     "finderRelax_departure": "Andere vertrekpunten bekijken",
     "finderRelax_interest": "Andere interesses ontdekken",
-    "finderKeep": "Zoek alleen op: {choice}"
+    "finderKeep": "Zoek alleen op: {choice}",
+    "stripSince": "Sinds 1993 in Kuşadası",
+    "stripPrivate": "Reizen op maat",
+    "stripLocal": "Plan met ons lokale team"
   },
   "ru": {
     "navTours": "Туры",
@@ -1203,6 +1218,9 @@
     "finderRelax_length": "Рассмотреть другую длительность",
     "finderRelax_departure": "Рассмотреть другие города отправления",
     "finderRelax_interest": "Рассмотреть другие интересы",
-    "finderKeep": "Искать только по условию: {choice}"
+    "finderKeep": "Искать только по условию: {choice}",
+    "stripSince": "В Кушадасы с 1993 года",
+    "stripPrivate": "Путешествия по вашим пожеланиям",
+    "stripLocal": "Планируйте с местной командой"
   }
 }

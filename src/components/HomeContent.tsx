@@ -11,6 +11,8 @@ import FinderInvite from "./FinderInvite";
 import Reveal from "./Reveal";
 import { Arrow } from "./Icon";
 import s from "./Site.module.css";
+import home from "./Home.module.css";
+import type { CSSProperties } from "react";
 export default async function HomeContent({ locale }: { locale: Locale }) {
   preload(
     `/fonts/cormorant-garamond-${locale === "ru" ? "cyrillic" : "latin"}-italic.woff2`,
@@ -39,6 +41,20 @@ export default async function HomeContent({ locale }: { locale: Locale }) {
   return (
     <>
       <Hero destinations={heroMedia.destinations} />
+      <div className={home.infoStrip}>
+        <Link href="/about">
+          {t("stripSince")}
+          <Arrow diagonal />
+        </Link>
+        <Link href="/find-your-tour">
+          {t("stripPrivate")}
+          <Arrow diagonal />
+        </Link>
+        <Link href="/contact">
+          {t("stripLocal")}
+          <Arrow diagonal />
+        </Link>
+      </div>
       <section id="explore" className={`${s.section} ${s.toursSection}`}>
         <FinderInvite />
         <Reveal>
@@ -65,33 +81,36 @@ export default async function HomeContent({ locale }: { locale: Locale }) {
           <h2>{t("servicesTitle")}</h2>
           <p>{t("servicesDescription")}</p>
         </div>
-        <div className={s.serviceGrid}>
+        <div className={home.serviceStack}>
           {[
             ["hotels", "hotel", "hotelTitle", "hotelDescription"],
             ["sailing", "sailing", "sailingTitle", "sailingDescription"],
             ["transfers", "transfer", "transferTitle", "transferDescription"],
-          ].map(([href, image, title, desc]) => (
-            <Reveal key={href}>
-              <Link href={`/${href}`} className={s.serviceCard}>
-                <div className={s.serviceImage}>
-                  <Image
-                    src={featured[image] || featured.hero}
-                    alt=""
-                    fill
-                    sizes="(max-width:760px) 90vw, 32vw"
-                    quality={80}
-                  />
-                </div>
-                <div className={s.serviceText}>
-                  <h3>{t(title)}</h3>
-                  <p>{t(desc)}</p>
-                  <span>
-                    {t("discover")}
-                    <Arrow />
-                  </span>
-                </div>
-              </Link>
-            </Reveal>
+          ].map(([href, image, title, desc], index) => (
+            <Link
+              key={href}
+              href={`/${href}`}
+              className={home.serviceCard}
+              style={{ "--card-index": index } as CSSProperties}
+            >
+              <div className={home.serviceImage}>
+                <Image
+                  src={featured[image] || featured.hero}
+                  alt=""
+                  fill
+                  sizes="(max-width:760px) 90vw, 48vw"
+                  quality={80}
+                />
+              </div>
+              <div className={home.serviceText}>
+                <h3>{t(title)}</h3>
+                <p>{t(desc)}</p>
+                <span>
+                  {t("discover")}
+                  <Arrow />
+                </span>
+              </div>
+            </Link>
           ))}
         </div>
       </section>

@@ -12,7 +12,9 @@
     "audit:links": "node scripts/audit-links.mjs",
     "audit:lighthouse": "node scripts/audit-lighthouse.mjs",
     "test:journey": "node --test scripts/test-journey.mjs",
-    "content:refine": "python3 scripts/prepare-journey-content.py && python3 scripts/refine-content.py && python3 scripts/review-turkish-programs.py && python3 scripts/check-inclusion-conflicts.py"
+    "content:refine": "python3 scripts/prepare-journey-content.py && python3 scripts/refine-content.py && python3 scripts/review-turkish-programs.py && python3 scripts/check-inclusion-conflicts.py",
+    "images:responsive": "node scripts/prepare-responsive-images.mjs",
+    "test:media": "node --test scripts/test-responsive-media.mjs"
   },
   "dependencies": {
     "motion": "14.12.0",

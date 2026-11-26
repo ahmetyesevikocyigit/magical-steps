@@ -1771,3 +1771,34 @@
     width: 132px;
   }
 }
+
+/* Leave a visible rim of the landscape outside the navigation drawer. */
+.mobileMenu {
+  width: min(460px, calc(100vw - 32px));
+  height: max-content;
+  max-height: calc(100svh - 32px);
+  margin: 16px 16px 16px auto;
+  border: 1px solid #ffffffb3;
+  border-radius: 22px;
+  box-shadow: 0 24px 90px #0c20294d;
+  overscroll-behavior: contain;
+}
+.mobileMenu::backdrop {
+  background: #14232c40;
+  -webkit-backdrop-filter: grayscale(1) blur(10px);
+  backdrop-filter: grayscale(1) blur(10px);
+}
+.mobileMenuInner {
+  padding: 76px 28px 32px;
+}
+.mobileMenu nav {
+  margin-bottom: 28px;
+}
+.mobileMenu nav a {
+  font-size: 29px;
+  padding: 13px 0;
+}
+.mobileMenu .closeButton {
+  top: 18px;
+  right: 18px;
+}

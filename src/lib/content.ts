@@ -5,6 +5,7 @@ import legacy from "@/data/legacy.json";
 import overrides from "@/data/translation-overrides.json";
 import thumbnails from "@/data/thumbnails.json";
 import { getImageProps } from "next/image";
+import imageLoader from "./responsive-image";
 import {
   locales,
   type Locale,
@@ -202,6 +203,7 @@ export function rewriteHtml(html: string, locale: Locale): string {
       const image = imageFor(url);
       const alt = tag.match(/\balt=["']([^"']*)["']/i)?.[1] || "";
       const { props } = getImageProps({
+        loader: imageLoader,
         src: image.src,
         alt,
         width: image.width,
