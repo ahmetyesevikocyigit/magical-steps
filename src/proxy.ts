@@ -2,6 +2,7 @@ import createMiddleware from "next-intl/middleware";
 import { NextRequest, NextResponse } from "next/server";
 import { routing } from "./i18n/routing";
 import source from "./data/legacy.json";
+import { defaultLocale, legacyTarget } from "./i18n/locale-config";
 const intl = createMiddleware(routing);
 export default function proxy(request: NextRequest) {
   const routes = source as Record<string, string>;
@@ -13,12 +14,19 @@ export default function proxy(request: NextRequest) {
     (path === `/${internalLocale}` || path.startsWith(`/${internalLocale}/`))
   )
     return NextResponse.next();
-  const target = routes[path] || routes[path.toLowerCase()];
+  const legacy = routes[path] || routes[path.toLowerCase()];
+  const target = typeof legacy === "string" ? legacyTarget(legacy) : undefined;
   if (typeof target === "string" && target !== path) {
     const url = new URL(target, request.url);
     request.nextUrl.searchParams.forEach((value, key) => {
       if (!url.searchParams.has(key)) url.searchParams.set(key, value);
     });
+    return NextResponse.redirect(url, 308);
+  }
+  if (path === `/${defaultLocale}` || path.startsWith(`/${defaultLocale}/`)) {
+    const url = new URL(request.url);
+    url.pathname =
+      path.slice(defaultLocale.length + 1).replace(/\/+$/, "") || "/";
     return NextResponse.redirect(url, 308);
   }
   if (path !== "/" && path.endsWith("/")) {

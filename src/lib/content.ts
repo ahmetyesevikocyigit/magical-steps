@@ -6,6 +6,8 @@ import overrides from "@/data/translation-overrides.json";
 import thumbnails from "@/data/thumbnails.json";
 import { getImageProps } from "next/image";
 import imageLoader from "./responsive-image";
+import { localizePath } from "../i18n/locale-config";
+export { localizePath } from "../i18n/locale-config";
 import {
   locales,
   type Locale,
@@ -39,8 +41,6 @@ export const roots: Record<Kind, string> = {
   transfer: "transfers",
 };
 export const baseUrl = "https://www.magical-steps.com";
-export const localizePath = (path: string, locale: Locale) =>
-  `${locale === "en" ? "" : `/${locale}`}${path === "/" ? (locale === "en" ? "/" : "") : path}`;
 export function translation(
   entity: CatalogItem | ContentPage | Category,
   locale: Locale,

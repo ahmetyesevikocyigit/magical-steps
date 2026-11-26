@@ -26,7 +26,7 @@ Mac üzerinde `start-local.command` dosyası da kullanılabilir. Yerel sunucu ya
 
 ## İçerik ve diller
 
-- İngilizce kökte; Türkçe `/tr`, Fransızca `/fr`, Almanca `/de`, Hollandaca `/nl`, Rusça `/ru` altında.
+- Türkçe varsayılan dil ve kökte; İngilizce `/en`, Fransızca `/fr`, Almanca `/de`, Hollandaca `/nl`, Rusça `/ru` altında. Eski `/tr` bağlantıları aynı Türkçe sayfaya 308 ile yönlenir.
 - 107 hizmet: 66 tur, 32 otel, 5 gulet, 4 transfer. 39 kategori ve 39 kurumsal/harita yazısı.
 - Kaynak bilgiler `src/data/catalog.json`, çeviri tamamlamaları `translation-overrides.json`, arayüz metinleri `messages.json` içinde. Eksik uzun içerikler çevrimdışı makine çevirisiyle tamamlandı; kapsam, sayı/bağlantı bütünlüğü ve editoryal inceleme sınırı `localization-audit.md` dosyasında.
 - `src/data/legacy.json` eski yolları yeni içeriklere bağlar. Kaynak envanteri `reports/url-inventory.csv` içindedir.
@@ -75,7 +75,7 @@ Next.js App Router ve TypeScript; sunucuda üretilen içerik; CSS Modules; next-
 
 ## Tur seçimi ve içerik revizyonu
 
-`/tr/find-your-tour` (diğer beş dilde de karşılığı var) süre, hareket noktası ve ilgi alanıyla 66 turu eşleştirir. Üç koşul birlikte uygulanır; doğrulanmamış süre veya hareket noktası belirli bir seçime uyuyormuş gibi gösterilmez. Seçimler ve adımlar URL'de tutulur. Tur ayrıntılarında günlük program, dahil/hariç hizmetler, kaynak fiyatlar, dokuz rota için başlıca durakların şeması ve mobil bilgi talebi bulunur.
+`/find-your-tour` (diğer beş dilde de karşılığı var) süre, hareket noktası ve ilgi alanıyla 66 turu eşleştirir. Üç koşul birlikte uygulanır; doğrulanmamış süre veya hareket noktası belirli bir seçime uyuyormuş gibi gösterilmez. Seçimler ve adımlar URL'de tutulur. Tur ayrıntılarında günlük program, dahil/hariç hizmetler, kaynak fiyatlar, dokuz rota için başlıca durakların şeması ve mobil bilgi talebi bulunur.
 
 20 otelin eksik uzun açıklaması, mevcut kaynak özetleri ve doğrulanabilen bilgilerle yeniden düzenlendi. Bunlar kayıp eski metinlerin birebir kurtarılması değildir. Altı özgün blog yazısı kaynakta hâlâ erişilemiyor. Altı dildeki yeni metinler ve hedefli düzeltmeler `reports/content-refinement.json`, `reports/journey-content-diff.json` ve `reports/turkish-program-review.json` içinde izlenir. 46 turda dil sürümleri arasındaki giriş ücreti çelişkileri teklif sırasında doğrulanacak bilgi olarak sunulur; orijinal kayıtlar korunur.
 

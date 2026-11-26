@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { localizePath, legacyTarget } from "../src/i18n/locale-config.ts";
 const base = process.env.AUDIT_URL || "http://127.0.0.1:3000";
 const catalog = JSON.parse(
   await fs.readFile(
@@ -33,7 +34,7 @@ const locales = ["en", "tr", "fr", "de", "nl", "ru"],
     sailing: "sailing",
     transfer: "transfers",
   };
-const local = (p, l) => (l === "en" ? p : `/${l}${p === "/" ? "" : p}`);
+const local = localizePath;
 const mandatory = [
   "/",
   "/tours",
@@ -65,7 +66,8 @@ const routes = [
 const queue = locales.flatMap((l) =>
   routes.map((p) => ({ path: local(p, l), locale: l, type: "page" })),
 );
-for (const [path, target] of Object.entries(legacy)) {
+for (const [path, originalTarget] of Object.entries(legacy)) {
+  const target = legacyTarget(originalTarget);
   if (path !== target) queue.push({ path, target, type: "redirect" });
 }
 for (const image of [
