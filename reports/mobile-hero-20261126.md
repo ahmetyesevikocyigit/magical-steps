@@ -16,3 +16,9 @@ The live portrait hero image endpoint returned HTTP 402 with `OPTIMIZED_IMAGE_RE
 - Full local route/redirect/image audit: no failures (see link-audit.json).
 - Three local production Lighthouse runs per device: mobile and desktop median performance/accessibility/best practices/SEO all 100. This is a local `/tr` homepage measurement, not a whole-site or live performance guarantee.
 - No physical iOS/Android device or full screen-reader session tested. Reduced motion reviewed in code.
+
+## Live release
+- Published to https://magical-steps.vercel.app/tr (production READY), deployment `dpl_FLaCaSGwAZxw1Prmdmn5cdjPHLE5`, source commit `876044b`.
+- All six homepages and four legacy-image page types returned 200. Eight original/responsive mobile hero assets returned 200 with valid WebP data and immutable cache headers.
+- All four mobile selections completed on the live site; menu verified; no browser console errors observed.
+- GitHub: https://github.com/ahmetyesevikocyigit/magical-steps

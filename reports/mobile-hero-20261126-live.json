@@ -1,0 +1,130 @@
+{
+  "url": "https://magical-steps.vercel.app",
+  "deployment": "dpl_FLaCaSGwAZxw1Prmdmn5cdjPHLE5",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 216085,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/tr",
+      "status": 200,
+      "bytes": 217512,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/fr",
+      "status": 200,
+      "bytes": 218589,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/de",
+      "status": 200,
+      "bytes": 217490,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/nl",
+      "status": 200,
+      "bytes": 216526,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/ru",
+      "status": 200,
+      "bytes": 227811,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/tr/about",
+      "status": 200,
+      "bytes": 188755,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/tr/gallery",
+      "status": 200,
+      "bytes": 217656,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/tr/reviews",
+      "status": 200,
+      "bytes": 427057,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/tr/ephesus-map",
+      "status": 200,
+      "bytes": 266266,
+      "runtimeOptimizerUrls": 0
+    },
+    {
+      "path": "/images/hero-v2/ephesus-mobile-bcc9b79d8b.webp",
+      "status": 200,
+      "bytes": 168966,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/hero-v2/cappadocia-mobile-1f25280367.webp",
+      "status": 200,
+      "bytes": 248018,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/hero-v2/istanbul-mobile-22ddf6188b.webp",
+      "status": 200,
+      "bytes": 94762,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/hero-v2/pamukkale-mobile-75fcbf73cf.webp",
+      "status": 200,
+      "bytes": 272720,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/responsive/640/images/hero-v2/ephesus-mobile-bcc9b79d8b.webp",
+      "status": 200,
+      "bytes": 68660,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/responsive/640/images/hero-v2/cappadocia-mobile-1f25280367.webp",
+      "status": 200,
+      "bytes": 94184,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/responsive/640/images/hero-v2/istanbul-mobile-22ddf6188b.webp",
+      "status": 200,
+      "bytes": 36622,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/images/responsive/640/images/hero-v2/pamukkale-mobile-75fcbf73cf.webp",
+      "status": 200,
+      "bytes": 78102,
+      "webp": true,
+      "cache": "public, max-age=31536000, immutable"
+    }
+  ],
+  "mobileSelections": [
+    "ephesus",
+    "istanbul",
+    "pamukkale",
+    "cappadocia"
+  ],
+  "browserConsoleErrors": [],
+  "gitCommit": "876044b039c4261d03490592ddc6cf6c203e84e2"
+}
