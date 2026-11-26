@@ -82,5 +82,81 @@
   "linkAudit": {
     "checked": 2613,
     "failures": 0
+  },
+  "production": {
+    "base": "https://magical-steps.vercel.app",
+    "deploymentId": "dpl_5vpRtbT2UJigVeuAwtPoN7onUVpX",
+    "url": "https://magical-steps-o0m1pvzir-guncel-yayin.vercel.app",
+    "readyState": "READY",
+    "checks": [
+      {
+        "path": "/",
+        "status": 200,
+        "lang": "tr",
+        "canonical": "https://www.magical-steps.com"
+      },
+      {
+        "path": "/en",
+        "status": 200,
+        "lang": "en",
+        "canonical": "https://www.magical-steps.com/en"
+      },
+      {
+        "path": "/fr",
+        "status": 200,
+        "lang": "fr",
+        "canonical": "https://www.magical-steps.com/fr"
+      },
+      {
+        "path": "/de",
+        "status": 200,
+        "lang": "de",
+        "canonical": "https://www.magical-steps.com/de"
+      },
+      {
+        "path": "/nl",
+        "status": 200,
+        "lang": "nl",
+        "canonical": "https://www.magical-steps.com/nl"
+      },
+      {
+        "path": "/ru",
+        "status": 200,
+        "lang": "ru",
+        "canonical": "https://www.magical-steps.com/ru"
+      },
+      {
+        "path": "/tours",
+        "status": 200,
+        "lang": "tr",
+        "canonical": "https://www.magical-steps.com/tours"
+      },
+      {
+        "path": "/en/tours",
+        "status": 200,
+        "lang": "en",
+        "canonical": "https://www.magical-steps.com/en/tours"
+      },
+      {
+        "path": "/tr",
+        "status": 308,
+        "location": "/"
+      },
+      {
+        "path": "/tr/tours?destination=Istanbul",
+        "status": 308,
+        "location": "/tours?destination=Istanbul"
+      },
+      {
+        "path": "/all-in-one-ephesus-tour.html",
+        "status": 308,
+        "location": "/en/tours/all-in-one-ephesus-tour"
+      },
+      {
+        "path": "/efes-detay.html",
+        "status": 308,
+        "location": "/tours/all-in-one-ephesus-tour"
+      }
+    ]
   }
 }
