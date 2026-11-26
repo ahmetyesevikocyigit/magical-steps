@@ -181,5 +181,22 @@
   "limitations": [
     "Browser viewport testing, not a physical phone.",
     "Reduced motion branch retained; not separately emulated in this run."
-  ]
+  ],
+  "production": {
+    "base": "https://magical-steps.vercel.app/",
+    "deploymentId": "dpl_51hYoK6ESvpZQvRomvGKGxoZE1Za",
+    "readyState": "READY",
+    "viewport": [
+      390,
+      844
+    ],
+    "allCardsVisible": true,
+    "pageOverflow": false,
+    "ephesusSelection": true,
+    "headingUpdated": true,
+    "imageDecoded": true,
+    "correctCatalogLink": true,
+    "scrollYAfterTap": 0,
+    "consoleErrors": []
+  }
 }
